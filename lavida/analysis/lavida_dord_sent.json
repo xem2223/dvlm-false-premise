@@ -1,0 +1,152 @@
+{
+  "confidence": {
+    "accept_absent": 1.0,
+    "accept_knows": 1.0,
+    "normal_present": 1.0,
+    "pos0_step_median": 31.0,
+    "first_words_absent": [
+      [
+        "Black",
+        23
+      ],
+      [
+        "White",
+        21
+      ],
+      [
+        "Red",
+        15
+      ]
+    ],
+    "specificity": 0.0,
+    "colour_early_rate": 0.0,
+    "neg_early_rate": 0.0
+  },
+  "frame_last": {
+    "accept_absent": 1.0,
+    "accept_knows": 1.0,
+    "normal_present": 1.0,
+    "pos0_step_median": 31.0,
+    "first_words_absent": [
+      [
+        "Black",
+        23
+      ],
+      [
+        "White",
+        21
+      ],
+      [
+        "Red",
+        15
+      ]
+    ],
+    "specificity": 0.0,
+    "colour_early_rate": 0.0,
+    "neg_early_rate": 0.0
+  },
+  "dot_last": {
+    "accept_absent": 1.0,
+    "accept_knows": 1.0,
+    "normal_present": 1.0,
+    "pos0_step_median": 31.0,
+    "first_words_absent": [
+      [
+        "Black",
+        23
+      ],
+      [
+        "White",
+        21
+      ],
+      [
+        "Red",
+        15
+      ]
+    ],
+    "specificity": 0.0,
+    "colour_early_rate": 0.0,
+    "neg_early_rate": 0.0
+  },
+  "id": {
+    "accept_absent": 1.0,
+    "accept_knows": 1.0,
+    "normal_present": 1.0,
+    "pos0_step_median": 0.0,
+    "first_words_absent": [
+      [
+        "Black",
+        24
+      ],
+      [
+        "White",
+        18
+      ],
+      [
+        "Red",
+        16
+      ]
+    ],
+    "specificity": 0.0,
+    "echo_frac_early": 0.0,
+    "obj_early_rate": 0.0,
+    "acc_obj_early": null,
+    "acc_obj_late": 1.0,
+    "colour_early_rate": 0.94,
+    "neg_early_rate": 0.0
+  },
+  "rnd_0": {
+    "accept_absent": 1.0,
+    "accept_knows": 1.0,
+    "normal_present": 1.0,
+    "pos0_step_median": 15.0,
+    "first_words_absent": [
+      [
+        "Black",
+        24
+      ],
+      [
+        "White",
+        21
+      ],
+      [
+        "Red",
+        15
+      ]
+    ],
+    "specificity": 0.0,
+    "echo_frac_early": 0.07142857142857142,
+    "obj_early_rate": 0.0,
+    "acc_obj_early": null,
+    "acc_obj_late": 1.0,
+    "colour_early_rate": 0.13,
+    "neg_early_rate": 0.01
+  },
+  "rnd_1": {
+    "accept_absent": 1.0,
+    "accept_knows": 1.0,
+    "normal_present": 1.0,
+    "pos0_step_median": 16.5,
+    "first_words_absent": [
+      [
+        "Black",
+        23
+      ],
+      [
+        "White",
+        22
+      ],
+      [
+        "Red",
+        15
+      ]
+    ],
+    "specificity": 0.0,
+    "echo_frac_early": 0.0,
+    "obj_early_rate": 0.0,
+    "acc_obj_early": null,
+    "acc_obj_late": 1.0,
+    "colour_early_rate": 0.1,
+    "neg_early_rate": 0.0
+  }
+}

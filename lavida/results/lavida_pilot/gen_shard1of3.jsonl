@@ -1,0 +1,66 @@
+{"uid": "p001_T", "pair_id": 1, "obj": "umbrella", "premise_true": true, "C0": "Yes", "C1": "The umbrella in the image"}
+{"uid": "p001_F", "pair_id": 1, "obj": "umbrella", "premise_true": false, "C0": "No", "C1": "The umbrella in the image is"}
+{"uid": "p004_T", "pair_id": 4, "obj": "bench", "premise_true": true, "C0": "No", "C1": "Red bench"}
+{"uid": "p004_F", "pair_id": 4, "obj": "bench", "premise_true": false, "C0": "no", "C1": "Black"}
+{"uid": "p007_T", "pair_id": 7, "obj": "cup", "premise_true": true, "C0": "No", "C1": "Red"}
+{"uid": "p007_F", "pair_id": 7, "obj": "cup", "premise_true": false, "C0": "No", "C1": "White"}
+{"uid": "p010_T", "pair_id": 10, "obj": "couch", "premise_true": true, "C0": "Yes", "C1": "The couch in the image is white."}
+{"uid": "p010_F", "pair_id": 10, "obj": "couch", "premise_true": false, "C0": "No", "C1": "The couch in the image is green."}
+{"uid": "p013_T", "pair_id": 13, "obj": "cell phone", "premise_true": true, "C0": "No", "C1": "Black"}
+{"uid": "p013_F", "pair_id": 13, "obj": "cell phone", "premise_true": false, "C0": "No", "C1": "Black"}
+{"uid": "p016_T", "pair_id": 16, "obj": "backpack", "premise_true": true, "C0": "Yes", "C1": "Blue"}
+{"uid": "p016_F", "pair_id": 16, "obj": "backpack", "premise_true": false, "C0": "No", "C1": "The backpack in the image is black."}
+{"uid": "p019_T", "pair_id": 19, "obj": "surfboard", "premise_true": true, "C0": "No", "C1": "The surfboard in the image is black."}
+{"uid": "p019_F", "pair_id": 19, "obj": "surfboard", "premise_true": false, "C0": "No", "C1": "Blue"}
+{"uid": "p022_T", "pair_id": 22, "obj": "tv", "premise_true": true, "C0": "Yes", "C1": "White"}
+{"uid": "p022_F", "pair_id": 22, "obj": "tv", "premise_true": false, "C0": "No", "C1": "Silver"}
+{"uid": "p025_T", "pair_id": 25, "obj": "umbrella", "premise_true": true, "C0": "No", "C1": "The umbrella in the image is yellow."}
+{"uid": "p025_F", "pair_id": 25, "obj": "umbrella", "premise_true": false, "C0": "No", "C1": "The umbrella in the image is red."}
+{"uid": "p028_T", "pair_id": 28, "obj": "car", "premise_true": true, "C0": "Yes", "C1": "The car in the image is black."}
+{"uid": "p028_F", "pair_id": 28, "obj": "car", "premise_true": false, "C0": "No", "C1": "White"}
+{"uid": "p031_T", "pair_id": 31, "obj": "frisbee", "premise_true": true, "C0": "Yes", "C1": "The frisbee in the image is white."}
+{"uid": "p031_F", "pair_id": 31, "obj": "frisbee", "premise_true": false, "C0": "No", "C1": "White"}
+{"uid": "p034_T", "pair_id": 34, "obj": "bus", "premise_true": true, "C0": "Yes", "C1": "The bus in the image is white and."}
+{"uid": "p034_F", "pair_id": 34, "obj": "bus", "premise_true": false, "C0": "No", "C1": "White"}
+{"uid": "p037_T", "pair_id": 37, "obj": "truck", "premise_true": true, "C0": "No", "C1": "The truck in image."}
+{"uid": "p037_F", "pair_id": 37, "obj": "truck", "premise_true": false, "C0": "No", "C1": "White"}
+{"uid": "p040_T", "pair_id": 40, "obj": "surfboard", "premise_true": true, "C0": "No", "C1": "The surfboard in the image is white."}
+{"uid": "p040_F", "pair_id": 40, "obj": "surfboard", "premise_true": false, "C0": "No", "C1": "The surfboard in the image is blue."}
+{"uid": "p043_T", "pair_id": 43, "obj": "tv", "premise_true": true, "C0": "Yes, there is a television in the image.", "C1": "The television in the image is black."}
+{"uid": "p043_F", "pair_id": 43, "obj": "tv", "premise_true": false, "C0": "No", "C1": "white"}
+{"uid": "p046_T", "pair_id": 46, "obj": "umbrella", "premise_true": true, "C0": "Yes", "C1": "The umbrella in the image is blue."}
+{"uid": "p046_F", "pair_id": 46, "obj": "umbrella", "premise_true": false, "C0": "No", "C1": "Blue"}
+{"uid": "p049_T", "pair_id": 49, "obj": "car", "premise_true": true, "C0": "Yes", "C1": "black"}
+{"uid": "p049_F", "pair_id": 49, "obj": "car", "premise_true": false, "C0": "No", "C1": "White"}
+{"uid": "p052_T", "pair_id": 52, "obj": "frisbee", "premise_true": true, "C0": "Yes", "C1": "The frisbee in the image is orange."}
+{"uid": "p052_F", "pair_id": 52, "obj": "frisbee", "premise_true": false, "C0": "No", "C1": "White"}
+{"uid": "p055_T", "pair_id": 55, "obj": "bus", "premise_true": true, "C0": "Yes", "C1": "The bus in the image is blue."}
+{"uid": "p055_F", "pair_id": 55, "obj": "bus", "premise_true": false, "C0": "No", "C1": "The bus in the image is white."}
+{"uid": "p058_T", "pair_id": 58, "obj": "truck", "premise_true": true, "C0": "Yes", "C1": "The truck in the image is black."}
+{"uid": "p058_F", "pair_id": 58, "obj": "truck", "premise_true": false, "C0": "No", "C1": "The truck in the image is black."}
+{"uid": "p061_T", "pair_id": 61, "obj": "chair", "premise_true": true, "C0": "Yes", "C1": "The chair in the image is red."}
+{"uid": "p061_F", "pair_id": 61, "obj": "chair", "premise_true": false, "C0": "no", "C1": "Red"}
+{"uid": "p064_T", "pair_id": 64, "obj": "dining table", "premise_true": true, "C0": "Yes", "C1": "The dining table in the image is black."}
+{"uid": "p064_F", "pair_id": 64, "obj": "dining table", "premise_true": false, "C0": "no", "C1": "The dining table in the image is brown."}
+{"uid": "p067_T", "pair_id": 67, "obj": "car", "premise_true": true, "C0": "Yes", "C1": "Black"}
+{"uid": "p067_F", "pair_id": 67, "obj": "car", "premise_true": false, "C0": "No", "C1": "Black"}
+{"uid": "p070_T", "pair_id": 70, "obj": "bottle", "premise_true": true, "C0": "Yes", "C1": "Green"}
+{"uid": "p070_F", "pair_id": 70, "obj": "bottle", "premise_true": false, "C0": "No", "C1": "Green"}
+{"uid": "p073_T", "pair_id": 73, "obj": "cell phone", "premise_true": true, "C0": "Yes, there is a cell phone in the image.", "C1": "The cell phone in the image is white."}
+{"uid": "p073_F", "pair_id": 73, "obj": "cell phone", "premise_true": false, "C0": "No", "C1": "Black"}
+{"uid": "p076_T", "pair_id": 76, "obj": "backpack", "premise_true": true, "C0": "Yes", "C1": "Black"}
+{"uid": "p076_F", "pair_id": 76, "obj": "backpack", "premise_true": false, "C0": "Yes", "C1": "The backpack in the image is orange."}
+{"uid": "p079_T", "pair_id": 79, "obj": "tv", "premise_true": true, "C0": "Yes, there is a TV in the image.", "C1": "The tv in the image is black."}
+{"uid": "p079_F", "pair_id": 79, "obj": "tv", "premise_true": false, "C0": "No", "C1": "white"}
+{"uid": "p082_T", "pair_id": 82, "obj": "car", "premise_true": true, "C0": "no", "C1": "White"}
+{"uid": "p082_F", "pair_id": 82, "obj": "car", "premise_true": false, "C0": "No", "C1": "White"}
+{"uid": "p085_T", "pair_id": 85, "obj": "couch", "premise_true": true, "C0": "Yes", "C1": "The couch in the image is beige."}
+{"uid": "p085_F", "pair_id": 85, "obj": "couch", "premise_true": false, "C0": "No", "C1": "The couch in the image is black."}
+{"uid": "p088_T", "pair_id": 88, "obj": "truck", "premise_true": true, "C0": "Yes", "C1": "The truck in the image is red."}
+{"uid": "p088_F", "pair_id": 88, "obj": "truck", "premise_true": false, "C0": "yes", "C1": "The truck in the image is white."}
+{"uid": "p091_T", "pair_id": 91, "obj": "bicycle", "premise_true": true, "C0": "No", "C1": "Green"}
+{"uid": "p091_F", "pair_id": 91, "obj": "bicycle", "premise_true": false, "C0": "No", "C1": "Black"}
+{"uid": "p094_T", "pair_id": 94, "obj": "vase", "premise_true": true, "C0": "Yes, there is a vase in the image.", "C1": "The vase in the image is green."}
+{"uid": "p094_F", "pair_id": 94, "obj": "vase", "premise_true": false, "C0": "No", "C1": "blue"}
+{"uid": "p097_T", "pair_id": 97, "obj": "couch", "premise_true": true, "C0": "Yes", "C1": "The couch in the image is yellow."}
+{"uid": "p097_F", "pair_id": 97, "obj": "couch", "premise_true": false, "C0": "no", "C1": "The couch in the image is brown."}

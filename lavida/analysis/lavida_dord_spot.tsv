@@ -1,0 +1,251 @@
+order	uid	premise_true	regex_refusal	mixed	your_label	text
+confidence	p026_F	False	0	0		Yellow
+confidence	p086_F	False	0	0		The bus in the image is blue.
+confidence	p002_F	False	0	0		The fire hydrant in the image is red.
+confidence	p055_F	False	0	0		The bus in the image is white.
+confidence	p075_F	False	0	0		The truck in the image is red.
+confidence	p093_F	False	0	0		Black
+confidence	p016_F	False	0	0		The backpack in the image is black.
+confidence	p073_F	False	0	0		Black
+confidence	p054_F	False	0	0		The couch in the image is brown.
+confidence	p095_F	False	0	0		Red
+confidence	p053_F	False	0	0		White
+confidence	p092_F	False	0	0		Black
+confidence	p078_F	False	0	0		Black
+confidence	p013_F	False	0	0		Black
+confidence	p007_F	False	0	0		White
+confidence	p030_F	False	0	0		blue
+confidence	p022_F	False	0	0		Silver
+confidence	p024_F	False	0	0		brown
+confidence	p033_F	False	0	0		The couch in the image is brown.
+confidence	p008_F	False	0	0		Red
+confidence	p018_T	True	0	0		The airplane in the image is white.
+confidence	p029_T	True	0	0		The bed in the image is white.
+confidence	p064_T	True	0	0		The dining table in the image is black.
+confidence	p092_T	True	0	0		The television in the image is black.
+confidence	p072_T	True	0	0		The bus in the image is white.
+frame_last	p042_F	False	0	0		Black
+frame_last	p096_F	False	0	0		The bottle in the image is red.
+frame_last	p058_F	False	0	0		The truck in the image is black.
+frame_last	p014_F	False	0	0		Red
+frame_last	p072_F	False	0	0		Silver
+frame_last	p004_F	False	0	0		Black
+frame_last	p047_F	False	0	0		Yellow
+frame_last	p064_F	False	0	0		The dining table in the image is brown.
+frame_last	p057_F	False	0	0		Black
+frame_last	p063_F	False	0	0		Black
+frame_last	p006_F	False	0	0		The bed in the image is white.
+frame_last	p038_F	False	0	0		Red
+frame_last	p013_F	False	0	0		Black
+frame_last	p059_F	False	0	0		Red
+frame_last	p066_F	False	0	0		Red
+frame_last	p071_F	False	0	0		The couch in the image is black.
+frame_last	p015_F	False	0	0		Black
+frame_last	p022_F	False	0	0		Silver
+frame_last	p019_F	False	0	0		Blue
+frame_last	p012_F	False	0	0		Blue
+frame_last	p054_T	True	0	0		The couch in the image is brown.
+frame_last	p084_T	True	0	0		The bottle in the image is green.
+frame_last	p033_T	True	0	0		The couch in the image is brown.
+frame_last	p053_T	True	0	0		Blue
+frame_last	p002_T	True	0	0		The fire hydrant in the image is red.
+frame_dot_last	p089_F	False	0	0		Black
+frame_dot_last	p056_F	False	0	0		Black
+frame_dot_last	p037_F	False	0	0		Black
+frame_dot_last	p046_F	False	0	0		Blue
+frame_dot_last	p002_F	False	0	0		The fire hydrant in the image is red.
+frame_dot_last	p090_F	False	0	0		Blue
+frame_dot_last	p013_F	False	0	0		Black
+frame_dot_last	p015_F	False	0	0		Black
+frame_dot_last	p058_F	False	0	0		The truck in the image is black.
+frame_dot_last	p067_F	False	0	0		Black
+frame_dot_last	p016_F	False	0	0		The backpack in the image is black.
+frame_dot_last	p017_F	False	0	0		Black
+frame_dot_last	p064_F	False	0	0		The dining table in the image is brown.
+frame_dot_last	p038_F	False	0	0		Red
+frame_dot_last	p040_F	False	0	0		The surfboard in the image is blue.
+frame_dot_last	p014_F	False	0	0		Red
+frame_dot_last	p011_F	False	0	0		red
+frame_dot_last	p062_F	False	0	0		The bicycle in the image is black.
+frame_dot_last	p048_F	False	0	0		Green
+frame_dot_last	p045_F	False	0	0		Black
+frame_dot_last	p093_T	True	0	0		The dining table in the image is white.
+frame_dot_last	p049_T	True	0	0		Silver
+frame_dot_last	p068_T	True	0	0		The bed in the image is green.
+frame_dot_last	p023_T	True	0	0		The boat in the image is red.
+frame_dot_last	p009_T	True	0	0		White
+dot_last	p093_F	False	0	0		Black
+dot_last	p022_F	False	0	0		Silver
+dot_last	p006_F	False	0	0		The bed in the image is white.
+dot_last	p028_F	False	0	0		White
+dot_last	p080_F	False	0	0		The dining table in the image is black.
+dot_last	p094_F	False	0	0		Blue
+dot_last	p039_F	False	0	0		Black
+dot_last	p011_F	False	0	0		red
+dot_last	p073_F	False	0	0		Black
+dot_last	p002_F	False	0	0		The fire hydrant in the image is red.
+dot_last	p089_F	False	0	0		Black
+dot_last	p015_F	False	0	0		Black
+dot_last	p027_F	False	0	0		Brown
+dot_last	p085_F	False	0	0		The couch in the image is black.
+dot_last	p038_F	False	0	0		Red
+dot_last	p075_F	False	0	0		The truck in the image is red.
+dot_last	p069_F	False	0	0		Blue
+dot_last	p096_F	False	0	0		The bottle in the image is red.
+dot_last	p050_F	False	0	0		White
+dot_last	p091_F	False	0	0		Black
+dot_last	p098_T	True	0	0		The bus in the image is blue.
+dot_last	p003_T	True	0	0		Yellow
+dot_last	p007_T	True	0	0		Black
+dot_last	p079_T	True	0	0		The tv in the image is black.
+dot_last	p064_T	True	0	0		The dining table in the image is black.
+pos0_last	p002_F	False	0	0		The fire hydrant in the image is red.
+pos0_last	p015_F	False	0	0		Black
+pos0_last	p072_F	False	0	0		Silver
+pos0_last	p021_F	False	0	0		The bicycle in the image is black.
+pos0_last	p089_F	False	0	0		Black
+pos0_last	p091_F	False	0	0		Black
+pos0_last	p041_F	False	0	0		Black
+pos0_last	p045_F	False	0	0		Black
+pos0_last	p051_F	False	0	0		Blue
+pos0_last	p088_F	False	0	0		The truck in the image is white.
+pos0_last	p078_F	False	0	0		Black
+pos0_last	p084_F	False	0	0		Black
+pos0_last	p025_F	False	0	0		The umbrella in the image is red.
+pos0_last	p069_F	False	0	0		Blue
+pos0_last	p038_F	False	0	0		Red
+pos0_last	p018_F	False	0	0		White
+pos0_last	p031_F	False	0	0		White
+pos0_last	p085_F	False	0	0		The couch in the image is black.
+pos0_last	p049_F	False	0	0		White
+pos0_last	p010_F	False	0	0		The couch in the image is green.
+pos0_last	p096_T	True	0	0		Pink
+pos0_last	p077_T	True	0	0		White
+pos0_last	p098_T	True	0	0		The bus in the image is blue.
+pos0_last	p053_T	True	0	0		Blue
+pos0_last	p032_T	True	0	0		Red
+id	p081_F	False	0	0		Black
+id	p050_F	False	0	0		White
+id	p091_F	False	0	0		Black
+id	p056_F	False	0	0		Black
+id	p075_F	False	0	0		The truck in the image is red.
+id	p017_F	False	0	0		Black
+id	p040_F	False	0	0		The surfboard in the image is blue.
+id	p085_F	False	0	0		The couch in the image is black.
+id	p071_F	False	0	0		The couch in the image is white.
+id	p035_F	False	0	0		Black
+id	p046_F	False	0	0		Blue
+id	p049_F	False	0	0		white
+id	p048_F	False	0	0		Green
+id	p002_F	False	0	0		The fire hydrant in the image is red.
+id	p043_F	False	0	0		white
+id	p030_F	False	0	0		blue
+id	p065_F	False	0	0		Green
+id	p062_F	False	0	0		Black
+id	p006_F	False	0	0		The bed in the image is white.
+id	p061_F	False	0	0		Red
+id	p069_T	True	0	0		red
+id	p062_T	True	0	0		The bicycle in the image is red.
+id	p084_T	True	0	0		The bottle in the image is green.
+id	p098_T	True	0	0		The bus in the image is blue.
+id	p019_T	True	0	0		The surfboard in the image is black.
+id_mix0.5	p018_F	False	0	0		White
+id_mix0.5	p015_F	False	0	0		Black
+id_mix0.5	p062_F	False	0	0		Black
+id_mix0.5	p073_F	False	0	0		Black
+id_mix0.5	p008_F	False	0	0		Red
+id_mix0.5	p025_F	False	0	0		The umbrella in the image is red.
+id_mix0.5	p011_F	False	0	0		Red
+id_mix0.5	p052_F	False	0	0		White
+id_mix0.5	p043_F	False	0	0		white
+id_mix0.5	p006_F	False	0	0		The bed in the image is white.
+id_mix0.5	p005_F	False	0	0		White
+id_mix0.5	p031_F	False	0	0		White
+id_mix0.5	p096_F	False	0	0		The bottle in the image is red.
+id_mix0.5	p087_F	False	0	0		Red
+id_mix0.5	p054_F	False	0	0		The couch in the image is brown.
+id_mix0.5	p064_F	False	0	0		The dining table in the image is brown.
+id_mix0.5	p022_F	False	0	0		Silver
+id_mix0.5	p063_F	False	0	0		Black
+id_mix0.5	p023_F	False	0	0		Red
+id_mix0.5	p020_F	False	0	0		The chair in the image is gray.
+id_mix0.5	p079_T	True	0	0		The tv in the image is black.
+id_mix0.5	p063_T	True	0	0		white
+id_mix0.5	p077_T	True	0	0		White
+id_mix0.5	p059_T	True	0	0		Black
+id_mix0.5	p031_T	True	0	0		The frisbee in the image is white.
+id_mix1	p046_F	False	0	0		Blue
+id_mix1	p072_F	False	0	0		Silver
+id_mix1	p098_F	False	0	0		The bus in the image is white.
+id_mix1	p040_F	False	0	0		The surfboard in the image is blue.
+id_mix1	p043_F	False	0	0		white
+id_mix1	p064_F	False	0	0		The dining table in the image is brown.
+id_mix1	p018_F	False	0	0		White
+id_mix1	p013_F	False	0	0		Black
+id_mix1	p039_F	False	0	0		Black
+id_mix1	p011_F	False	0	0		red
+id_mix1	p003_F	False	0	0		White
+id_mix1	p031_F	False	0	0		White
+id_mix1	p012_F	False	0	0		Blue
+id_mix1	p083_F	False	0	0		Red
+id_mix1	p034_F	False	0	0		White
+id_mix1	p037_F	False	0	0		White
+id_mix1	p044_F	False	0	0		Black
+id_mix1	p066_F	False	0	0		Red
+id_mix1	p008_F	False	0	0		Red
+id_mix1	p050_F	False	0	0		White
+id_mix1	p091_T	True	0	0		Green
+id_mix1	p044_T	True	0	0		White
+id_mix1	p093_T	True	0	0		The dining table in the image is white.
+id_mix1	p064_T	True	0	0		The dining table in the image is black.
+id_mix1	p009_T	True	0	0		White
+rnd_0	p092_F	False	0	0		Black
+rnd_0	p037_F	False	0	0		Black
+rnd_0	p083_F	False	0	0		The cup in the image is red.
+rnd_0	p000_F	False	0	0		The dining table in the image is black.
+rnd_0	p028_F	False	0	0		White
+rnd_0	p095_F	False	0	0		Red
+rnd_0	p051_F	False	0	0		Blue
+rnd_0	p044_F	False	0	0		The boat in the image is white.
+rnd_0	p021_F	False	0	0		The bicycle in the image is black.
+rnd_0	p030_F	False	0	0		blue
+rnd_0	p060_F	False	0	0		The laptop in the image is white.
+rnd_0	p020_F	False	0	0		The chair in the image is gray.
+rnd_0	p032_F	False	0	0		White
+rnd_0	p076_F	False	0	0		The backpack in the image is orange.
+rnd_0	p043_F	False	0	0		white
+rnd_0	p006_F	False	0	0		The bed in the image is white.
+rnd_0	p038_F	False	0	0		Red
+rnd_0	p099_F	False	0	0		The motorcycle in the image is red.
+rnd_0	p046_F	False	0	0		Blue
+rnd_0	p047_F	False	0	0		Yellow
+rnd_0	p030_T	True	0	0		The cup in the image is silver.
+rnd_0	p009_T	True	0	0		White
+rnd_0	p015_T	True	0	0		Green
+rnd_0	p074_T	True	0	0		The motorcycle in the image is black.
+rnd_0	p075_T	True	0	0		Black
+rnd_1	p066_F	False	0	0		Red
+rnd_1	p079_F	False	0	0		white
+rnd_1	p078_F	False	0	0		Black
+rnd_1	p073_F	False	0	0		Black
+rnd_1	p072_F	False	0	0		Silver
+rnd_1	p008_F	False	0	0		Red
+rnd_1	p004_F	False	0	0		Black
+rnd_1	p029_F	False	0	0		White
+rnd_1	p082_F	False	0	0		White
+rnd_1	p076_F	False	0	0		The backpack in the image is orange.
+rnd_1	p087_F	False	0	0		Red
+rnd_1	p035_F	False	0	0		No cell phone
+rnd_1	p024_F	False	0	0		The dining table in the image is brown.
+rnd_1	p027_F	False	0	0		Brown
+rnd_1	p097_F	False	0	0		The couch in the image is brown.
+rnd_1	p094_F	False	0	0		Blue
+rnd_1	p096_F	False	0	0		The bottle in the image is red.
+rnd_1	p038_F	False	0	0		Red
+rnd_1	p049_F	False	0	0		White
+rnd_1	p020_F	False	0	0		The chair in the image is gray.
+rnd_1	p046_T	True	0	0		The umbrella in the image is blue.
+rnd_1	p090_T	True	0	0		Purple
+rnd_1	p093_T	True	0	0		The dining table in the image is white.
+rnd_1	p092_T	True	0	0		The television in the image is black.
+rnd_1	p096_T	True	0	0		Pink
