@@ -2,7 +2,7 @@
 data/*/images/
 data/*/blank/
 # generated
-results/
+results/**/feats/
 logs/
 __pycache__/
 *.pyc

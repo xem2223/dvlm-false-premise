@@ -1,0 +1,70 @@
+{
+  "args": {
+    "data_dir": "data/scaffold_pilot",
+    "model_path": "/users2/user2/models/LLaDA-V",
+    "run_name": "pilot_v1",
+    "out_root": "results",
+    "sanity": false,
+    "shard_id": 1,
+    "num_shards": 3,
+    "conditions": "C0,C1,C2,C3,C4,C4u,C3_blank",
+    "c0_len": 8,
+    "c1_len": 32,
+    "k_small": 1,
+    "k_large": 16,
+    "topk": 10,
+    "seed": 0
+  },
+  "conditions": {
+    "C0": {
+      "template": "C0_pope",
+      "budget": 8,
+      "total": 8,
+      "image": "real",
+      "block_first_eos": false
+    },
+    "C1": {
+      "template": "C1_free",
+      "budget": 32,
+      "total": 32,
+      "image": "real",
+      "block_first_eos": false
+    },
+    "C2": {
+      "template": "S_scaffold",
+      "budget": 1,
+      "total": 16,
+      "image": "real",
+      "block_first_eos": true
+    },
+    "C3": {
+      "template": "S_scaffold",
+      "budget": 16,
+      "total": 16,
+      "image": "real",
+      "block_first_eos": true
+    },
+    "C4": {
+      "template": "S_escape",
+      "budget": 16,
+      "total": 16,
+      "image": "real",
+      "block_first_eos": true
+    },
+    "C4u": {
+      "template": "S_escape_user",
+      "budget": 16,
+      "total": 16,
+      "image": "real",
+      "block_first_eos": true
+    },
+    "C3_blank": {
+      "template": "S_scaffold",
+      "budget": 16,
+      "total": 16,
+      "image": "blank",
+      "block_first_eos": true
+    }
+  },
+  "decoding": "vanilla single-block, temp=0, low_confidence, steps=budget; slot followed by fixed <|eot_id|> up to total; EOS blocked at slot[0] for scaffolds"
+}

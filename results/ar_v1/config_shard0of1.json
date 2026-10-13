@@ -1,0 +1,43 @@
+{
+  "args": {
+    "data_dir": "data/scaffold_pilot",
+    "model_path": "/users2/user2/models/llama3-llava-next-8b",
+    "run_name": "ar_v1",
+    "out_root": "results",
+    "sanity": false,
+    "conditions": "C0,C1,C3,C4u,C3_blank",
+    "c0_len": 8,
+    "c1_len": 32,
+    "k_large": 16,
+    "topk": 10,
+    "debug_prompt": false
+  },
+  "conditions": {
+    "C0": {
+      "template": "C0_pope",
+      "max_new": 8,
+      "image": "real"
+    },
+    "C1": {
+      "template": "C1_free",
+      "max_new": 32,
+      "image": "real"
+    },
+    "C3": {
+      "template": "S_scaffold",
+      "max_new": 16,
+      "image": "real"
+    },
+    "C4u": {
+      "template": "S_escape_user",
+      "max_new": 16,
+      "image": "real"
+    },
+    "C3_blank": {
+      "template": "S_scaffold",
+      "max_new": 16,
+      "image": "blank"
+    }
+  },
+  "decoding": "AR greedy, KV cache, manual LLaMA-3 prompt, scaffold prefix prefilled"
+}

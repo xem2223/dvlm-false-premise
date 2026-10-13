@@ -1,0 +1,34 @@
+{
+  "args": {
+    "data_dir": "data/scaffold_pilot",
+    "model_path": "/users2/user2/models/LLaDA-V",
+    "run_name": "c1_vcd_a2",
+    "out_root": "results",
+    "sanity": false,
+    "shard_id": 1,
+    "num_shards": 3,
+    "conditions": "C1",
+    "c0_len": 8,
+    "c1_len": 32,
+    "k_small": 1,
+    "k_large": 16,
+    "topk": 10,
+    "seed": 0,
+    "vcd_alpha": 2.0,
+    "vcd_beta": 0.05,
+    "order": "vcd_anchor"
+  },
+  "conditions": {
+    "C1": {
+      "template": "C1_free",
+      "budget": 32,
+      "total": 32,
+      "image": "real",
+      "block_first_eos": false
+    }
+  },
+  "order": "vcd_anchor",
+  "vcd_alpha": 2.0,
+  "vcd_beta": 0.05,
+  "decoding": "vanilla single-block, temp=0, steps=budget; slot followed by fixed <|eot_id|> up to total; EOS blocked at slot[0] for scaffolds"
+}

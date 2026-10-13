@@ -1,0 +1,51 @@
+{
+  "args": {
+    "data_dir": "data/scaffold_pilot",
+    "model_path": "/users2/user2/models/LLaDA-V",
+    "run_name": "sanity",
+    "out_root": "results",
+    "sanity": true,
+    "shard_id": 0,
+    "num_shards": 1,
+    "conditions": "C0,C1,C2,C3,C4,C3_blank",
+    "c0_len": 8,
+    "c1_len": 32,
+    "k_small": 1,
+    "k_large": 16,
+    "topk": 10,
+    "seed": 0
+  },
+  "conditions": {
+    "C0": {
+      "template": "C0_pope",
+      "gen_length": 8,
+      "image": "real"
+    },
+    "C1": {
+      "template": "C1_free",
+      "gen_length": 32,
+      "image": "real"
+    },
+    "C2": {
+      "template": "S_scaffold",
+      "gen_length": 1,
+      "image": "real"
+    },
+    "C3": {
+      "template": "S_scaffold",
+      "gen_length": 16,
+      "image": "real"
+    },
+    "C4": {
+      "template": "S_escape",
+      "gen_length": 16,
+      "image": "real"
+    },
+    "C3_blank": {
+      "template": "S_scaffold",
+      "gen_length": 16,
+      "image": "blank"
+    }
+  },
+  "decoding": "vanilla single-block, temp=0, low_confidence, steps=gen_length"
+}
