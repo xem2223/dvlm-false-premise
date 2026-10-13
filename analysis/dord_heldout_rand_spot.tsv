@@ -1,0 +1,201 @@
+order	uid	premise_true	regex_refusal	mixed	your_label	text
+frame_last	p026_F	False	1	0		I'm sorry, but I cannot determine the color of the car from the image as it is not visible. The image shows a person eating a sandwich.
+frame_last	p086_F	False	0	0		The potted plant in the image is green. It is situated on the floor near the couch, adding a touch of nature to the living room setting.
+frame_last	p002_F	False	0	0		The traffic light in the image is red. It is positioned at the intersection of the street, indicating that vehicles must stop and wait for pedestrians before proceeding.
+frame_last	p055_F	False	0	0		The scissors in the image are silver. They are placed on a table next to a pair of glasses, a book, and a pair of eyeglasses.
+frame_last	p075_F	False	1	0		There is no truck visible in the image. The image only shows a sandwich in a white plastic container and a small cup of sauce placed on the grass.
+frame_last	p093_F	False	1	0		The image does not contain a television. It shows a bus stop with a person sitting on a bench and a Star Wars character standing near the bus stop.
+frame_last	p016_F	False	1	0		I'm sorry, but I can't provide the color of the horse in the image as there is no horse present in this photograph of a kitchen scene.
+frame_last	p073_F	False	0	0		The bird in the image appears to be a mix of black and white, with a black head and back feathers, and a white breast and tail feathers.
+frame_last	p054_F	False	0	0		The color of the handbag in the image is black. It is being carried by a woman who is crouching on the sidewalk next to a yellow container.
+frame_last	p095_F	False	1	0		There is no bench visible in the image. The image shows a person hitting a tennis ball on a court, and there are trees visible in the background.
+frame_last	p053_F	False	0	0		The hot dog in the image is brown. It is being held by a person who is standing next to two children looking at pizzas on a baking tray.
+frame_last	p092_F	False	1	0		I'm sorry, but I can't determine the color of a car from this image as it shows a plate of food and does not include a vehicle.
+frame_last	p078_F	False	1	0		There is no suitcase visible in the image. The image is of a young boy with glasses and a blue jacket, throwing a baseball on a wooden deck.
+frame_last	p013_F	False	1	0		I'm sorry, but I cannot determine the color of the keyboard from the image as it shows a parking meter with a person's hand pointing at it.
+frame_last	p007_F	False	1	0		I'm sorry, but there is no cat visible in the image. The image shows a red bus parked at a bus stop with people waiting around it.
+frame_last	p030_F	False	1	0		There is no bench visible in the image. The image focuses on a police officer addressing a crowd, and there are no benches present in the immediate vicinity.
+frame_last	p022_F	False	1	0		There is no bottle visible in the image. The image primarily features a person riding a unicycle and a woman in a red dress standing in the background.
+frame_last	p024_F	False	0	0		The couch in the image is blue. It is positioned against the wall in the corner of the room, providing a comfortable seating area for relaxation or conversation.
+frame_last	p033_F	False	0	0		The baseball glove in the image is red. It is positioned on the ground near the airplane, and its vibrant color stands out against the wet airport environment.
+frame_last	p008_F	False	1	0		I'm sorry, but there is no suitcase visible in the image. The image shows a large pepperoni pizza and a Coca-Cola cup at a restaurant.
+frame_last	p018_T	True	0	0		The potted plant in the image is green. It is located on the right side of the image, next to a wooden cabinet and a wooden chair.
+frame_last	p029_T	True	0	0		The remote in the image is white. It is being held by one of the individuals in the room, who appears to be pointing it towards the television.
+frame_last	p064_T	True	0	0		The airplane in the image is predominantly white with a blue and green tail fin. It also has the name "WestJet" written on its fuselage.
+frame_last	p092_T	True	1	1		The car in the image appears to be a light color, possibly white or a similar shade, although the exact color is not discernible from the image.
+frame_last	p072_T	True	0	0		The sink in the image is white. It appears to be a standard bathroom sink with a silver faucet, and the cat is seen drinking water from it.
+frame_dot_last	p042_F	False	0	0		The frisbee in the image is yellow. It's a classic yellow frisbee with black edges, perfect for a game of frisbee.
+frame_dot_last	p096_F	False	1	0		I'm sorry, but there is no spoon visible in the image. The image depicts a baseball game with a batter, catcher, and an umpire.
+frame_dot_last	p058_F	False	1	0		I'm sorry, but I cannot determine the color of the fork from the image provided. There is no visible fork or eating utensil in the image.
+frame_dot_last	p014_F	False	1	0		I'm sorry, but I cannot determine the color of the bowl from the image provided. It seems that there is no bowl visible in the image description.
+frame_dot_last	p072_F	False	1	0		I'm sorry, but I cannot provide the color of the sink in the image as there is no visible sink or any bathroom-related objects in the image.
+frame_dot_last	p004_F	False	1	0		I'm sorry, but I cannot determine the color of a boat from the image provided. The image shows a toaster with food items, not a boat.
+frame_dot_last	p047_F	False	1	0		I'm sorry, but I cannot determine the color of the oven from the image provided. It's possible that there is no oven visible in the image.
+frame_dot_last	p064_F	False	1	0		I'm sorry, but there is no airplane visible in the image. The image depicts a group of people sitting around a table, enjoying food and conversation.
+frame_dot_last	p057_F	False	1	0		The image does not contain any broccoli. Instead, it shows a woman in a pink shirt and blue shorts playing a game of tennis on a clay court.
+frame_dot_last	p063_F	False	1	0		I'm sorry, but I cannot determine the color of the sports ball from the image as there is no visible sports ball or related equipment in the scene.
+frame_dot_last	p006_F	False	1	0		I'm sorry, but I cannot provide the color of the toothbrush in the image as there is no toothbrush present. The image shows a woman playing tennis.
+frame_dot_last	p038_F	False	1	0		I'm sorry, but I cannot determine the color of the cake from the image provided. The image shows a room with a desk, not a cake.
+frame_dot_last	p013_F	False	1	0		I'm sorry, but I cannot determine the color of the keyboard from the image as it shows a person interacting with a parking meter, not a keyboard.
+frame_dot_last	p059_F	False	1	0		I'm sorry, but I cannot determine the color of the clock from the image provided, as there is no clock or timepiece visible in the image.
+frame_dot_last	p066_F	False	1	0		There is no tennis racket in the image. The image shows a man with a beard and brown hair wearing a blue t-shirt and working on a laptop.
+frame_dot_last	p071_F	False	0	0		The stop sign in the image is red. This is the standard color for stop signs, which are universally recognized as a signal to come to a halt.
+frame_dot_last	p015_F	False	0	0		The orange in the image is vibrant and bright, with a distinct orange hue that stands out against the other colors of the fruits and vegetables in the scene.
+frame_dot_last	p022_F	False	1	0		There is no bottle visible in the image. The scene primarily features a person riding a unicycle and a woman in a red dress standing in the background.
+frame_dot_last	p019_F	False	0	0		The skateboard in the image is black. It's a classic, sleek design that stands out against the metallic tones of the stainless steel appliances in the background.
+frame_dot_last	p012_F	False	0	0		The backpack in the image is black. It appears to be a large, sturdy backpack with multiple compartments and pockets, suitable for carrying books and other items.
+frame_dot_last	p054_T	True	0	0		The handbag in the image is black. It is placed on the floor to the right of the bed, close to the round table in the hotel room.
+frame_dot_last	p084_T	True	0	0		The orange in the image is bright red. It is being held by a young girl who appears to be playing with a frisbee in a park.
+frame_dot_last	p033_T	True	0	0		The baseball glove in the image is black. It is being worn by the catcher, who is crouched behind the batter, ready to catch the ball.
+frame_dot_last	p053_T	True	0	0		The hot dog in the image is golden brown in color, indicating that it has been cooked to a perfect crisp, likely in a bun or similar preparation.
+frame_dot_last	p002_T	True	0	0		The traffic light in the image is green. It's located on the left side of the image, indicating that it's safe to proceed on the street.
+dot_last	p089_F	False	0	0		The cow in the image is black. It is sitting on a television set, seemingly trying to watch a show or movie with a man on the screen.
+dot_last	p056_F	False	0	0		The motorcycle in the image is black. It's a sleek, modern motorcycle with a stylish design and it's parked on the right side of the image.
+dot_last	p037_F	False	1	0		I'm sorry, but I cannot determine the color of the laptop from the image as it is not visible. The image shows a train at a station.
+dot_last	p046_F	False	0	0		The book in the image is white. It appears to be a newspaper, and it is placed next to the small white dog lying down on the counter.
+dot_last	p002_F	False	0	0		The traffic light in the image is red. It is located at the intersection of the road and the sidewalk, where a pedestrian is seen crossing the street.
+dot_last	p090_F	False	1	0		The image does not contain a couch. Instead, it shows a snowboarder wearing a red jacket and black pants, riding down a snow-covered slope.
+dot_last	p013_F	False	0	0		The keyboard in the image is black. It's a sleek and modern design, with a full set of keys and a backlit display for better visibility.
+dot_last	p015_F	False	0	0		The orange in the image is vibrant and colorful, with a bright orange hue that stands out against the other colors of the cupcakes and the bakery's interior.
+dot_last	p058_F	False	0	0		The fork in the image is red. It is positioned on the left side of the image, close to the fire hydrant and located on the street.
+dot_last	p067_F	False	1	0		I'm sorry, but there is no elephant in the image. The image shows a person sleeping on a conveyor belt in an airport or baggage claim area.
+dot_last	p016_F	False	0	0		The horse in the image is brown. It appears to be a dark brown color, which is a common shade for many horse breeds, especially draft horses.
+dot_last	p017_F	False	0	0		The pizza in the image is predominantly brown, with a golden-brown crust and patches of orange and red hues, likely from the melted cheese and other toppings.
+dot_last	p064_F	False	1	0		I'm sorry, but there is no airplane visible in the image. The image shows three people sitting around a table, enjoying a meal and a conversation.
+dot_last	p038_F	False	1	0		I'm sorry, but I cannot determine the color of the cake from the image provided. The image shows a computer setup and does not include a cake.
+dot_last	p040_F	False	0	0		The chair in the image is brown. It is positioned on the left side of the image, close to the tarmac where the activity is taking place.
+dot_last	p014_F	False	0	0		The bowl in the image is white. It is placed on the floor near the teddy bear and appears to be part of the clutter in the room.
+dot_last	p011_F	False	0	0		The cell phone in the image is black. It is located on the right side of the image, close to the edge and partially obscured by the child.
+dot_last	p062_F	False	0	0		The cup in the image is white. It is placed on the sand near the surfboards and towels, adding to the relaxed atmosphere of the beach scene.
+dot_last	p048_F	False	0	0		The snowboard in the image is white. It is positioned on the right side of the image, next to the person on the right in the background.
+dot_last	p045_F	False	0	0		The refrigerator in the image is blue. It is located to the right of the bus, which is being boarded by a group of people in military uniforms.
+dot_last	p093_T	True	0	0		The television in the image is black. It is placed on a couch, which is positioned next to a blue inflatable pool on the side of the street.
+dot_last	p049_T	True	0	0		The bicycle in the image is predominantly orange in color. It's a bright, vivid shade of orange that stands out against the other elements of the scene.
+dot_last	p068_T	True	0	0		The dog in the image is white. It appears to be a small breed with a fluffy coat and is seen hanging out of the window of the car.
+dot_last	p023_T	True	0	0		The cow in the image is black with a white spot on its forehead. It has a prominent horn and is lying on its side on a sandy beach.
+dot_last	p009_T	True	0	0		The bed in the image is adorned with a red and blue plaid bedspread, adding a vibrant splash of color to the rustic charm of the room.
+id	p093_F	False	1	0		There is no TV in the image. The image depicts a bus stop with a man sitting on a bench and a Star Wars character standing next to him.
+id	p022_F	False	1	0		There is no bottle visible in the image, so there is no color to be described. The image primarily features a person sitting on a large vintage bicycle.
+id	p006_F	False	1	0		There is no mention of a toothbrush in the image. The image shows a tennis player in action on a grass-court tennis court with spectators in the background.
+id	p028_F	False	1	0		I'm sorry, but there are no sheep in the image. The image shows a baseball game in progress with a batter, catcher, and umpire.
+id	p080_F	False	1	0		There is no baseball bat visible in the image. The scene depicts two people standing in a living room, one of whom is holding a stack of money.
+id	p094_F	False	1	0		There is no remote visible in the image. The image shows a plate with some food, including meat and vegetables, accompanied by a pair of chopsticks.
+id	p039_F	False	1	0		There is no person in the image, so I cannot provide a color for a person. The image shows a bathroom setting with a toilet and a sink.
+id	p011_F	False	1	0		There is no cell phone visible in the image. The focus is on a young child standing on a white step stool wearing black boots in a kitchen setting.
+id	p073_F	False	1	0		I'm sorry, there is no bird visible in the image. The image is actually of a bride and groom sitting on a bed in their wedding attire.
+id	p002_F	False	1	0		There is no traffic light visible in the image. The focus is on a tennis player on a clay court, swinging his racket to hit a tennis ball.
+id	p089_F	False	1	0		There is no cow visible in the image. The image shows a black cat sitting on top of a television watching a scene with a man in a suit.
+id	p015_F	False	1	0		There is no orange visible in the image. The image primarily features a variety of cupcakes displayed on stands, with a focus on chocolate and other assorted flavors.
+id	p027_F	False	1	0		The image does not contain a television. Instead, it shows a red fire hydrant on the side of a street with a white bus in the background.
+id	p085_F	False	1	0		I'm sorry, but there is no horse in the image. The image shows a bunch of green bananas and a red banana flower on a banana plant.
+id	p038_F	False	1	0		I'm sorry, but there is no cake in the image. The image shows a home office setup with a computer, a printer, and a chair.
+id	p075_F	False	1	0		There is no truck visible in the image. The image only shows a sandwich in a white styrofoam container and a condiment in a small container.
+id	p069_F	False	1	0		There is no banana in the image. Instead, there is a small figurine of a girl with blonde hair that is placed on a slice of pizza.
+id	p096_F	False	1	0		I'm sorry, there is no spoon visible in the image. The image shows a baseball player at bat with a catcher and umpire behind home plate.
+id	p050_F	False	1	0		I'm sorry, but there is no sandwich visible in the image. The image shows a baseball game in progress with players in various positions on the field.
+id	p091_F	False	1	0		There are no skis visible in the image, as the person appears to be indoors and focused on a laptop, not engaged in any sort of skiing activity.
+id	p098_T	True	0	0		The apple in the image is yellow with patches of red and brown, suggesting it may have been exposed to air or has undergone some form of color change.
+id	p003_T	True	0	0		The truck in the image is white. It is parked on the street alongside various other vehicles, including the white car that is the focus of the image.
+id	p007_T	True	0	0		The cat in the image is black, as indicated by the monochromatic nature of the photograph and the contrast with the white bow tie it is wearing.
+id	p079_T	True	0	0		The bed in the image is white with orange floral accents. The bedspread features a pattern of orange flowers, adding a pop of color to the room.
+id	p064_T	True	0	0		The airplane in the image is predominantly white with blue accents on the tail. The airline name, "WestJet," is prominently displayed on the fuselage.
+id_mix0.5	p002_F	False	0	0		The traffic light in the image is red. It is located at the intersection of the busy street, controlling the flow of vehicles and ensuring safety for pedestrians.
+id_mix0.5	p015_F	False	1	0		There is no orange visible in the image. The image shows a variety of cupcakes and pastries in a bakery setting, with different flavors displayed on cake stands.
+id_mix0.5	p072_F	False	1	0		I'm sorry, but there is no sink in the image. The image shows a woman riding a bicycle in front of the UK Parliament and Big Ben.
+id_mix0.5	p021_F	False	1	0		I'm sorry, but there is no toaster visible in the image. The image shows a city street with a bus and people waiting at a bus stop.
+id_mix0.5	p089_F	False	1	0		I'm sorry, but there is no cow in the image. The image shows a black cat sitting on top of a television, watching a TV show.
+id_mix0.5	p091_F	False	0	0		The skis in the image are black. The person in the image is holding a pair of black skis while looking at a tablet and drinking from a cup.
+id_mix0.5	p041_F	False	1	0		I'm sorry, but there is no bus visible in the image. The image shows a man playing tennis with a yellow tennis racket on a tennis court.
+id_mix0.5	p045_F	False	1	0		There is no mention of a refrigerator in the image. The image shows a group of police officers in black uniforms standing in front of a large blue bus.
+id_mix0.5	p051_F	False	1	0		The image does not contain a donut. It shows a man in a pink shirt and patterned tie standing in front of a reception counter holding a black bag.
+id_mix0.5	p088_F	False	1	0		There is no bottle in the image. The image depicts a busy airport scene with people waiting for their luggage, but no bottles are visible in the scene.
+id_mix0.5	p078_F	False	1	0		There is no suitcase in the image. The image shows a young boy wearing glasses and a blue jacket attempting to catch a baseball while wearing a baseball glove.
+id_mix0.5	p084_F	False	0	0		The orange in the image appears to be a vibrant orange color, which is consistent with the color of the orange slices visible in the glass on the table.
+id_mix0.5	p025_F	False	1	0		I'm sorry, but there are no skis in the image. The image shows a woman playing tennis on a blue court, preparing to hit the ball.
+id_mix0.5	p069_F	False	1	0		There is no banana in the image. The image shows a small figurine, which appears to be an anime character, placed on a slice of pizza.
+id_mix0.5	p038_F	False	1	0		I'm sorry, but there is no cake visible in the image. The image shows an office desk with a computer, a laptop, and a printer.
+id_mix0.5	p018_F	False	0	0		The potted plant in the image is green. It is positioned near the center of the table, adding a touch of nature to the indoor dining scene.
+id_mix0.5	p031_F	False	1	0		I'm sorry, there is no spoon visible in the image. The image shows a tennis match with players on the court and an audience in the stands.
+id_mix0.5	p085_F	False	1	0		I'm sorry, but there is no horse in the image. The image shows a bunch of green bananas and a red banana flower on a banana tree.
+id_mix0.5	p049_F	False	1	0		I'm sorry, there is no bicycle visible in the image. The focus is on a wide variety of colorful fruits and vegetables displayed at an outdoor market.
+id_mix0.5	p010_F	False	1	0		There is no baseball bat visible in the image. The image shows a man wearing a leopard print tie with a green border and a tattoo on his chest.
+id_mix0.5	p096_T	True	0	0		The spoon in the image is silver. It is located on the table, next to the bowl of food, to the right of one of the individuals.
+id_mix0.5	p077_T	True	0	0		The cat in the image is black and white. It has a mix of black fur with white markings, particularly on its chest, face, and paws.
+id_mix0.5	p098_T	True	0	0		The apple in the image is yellow with patches of red and brown, which could be due to the presence of blood or the natural color of the fruit.
+id_mix0.5	p053_T	True	0	0		The hot dog in the image is golden brown in color, indicating that it has been cooked to a crisp, which is a common preparation for hot dogs.
+id_mix0.5	p032_T	True	0	0		The tie in the image is green and white. It features a checkered pattern, adding a touch of color and contrast to the person's gray shirt.
+id_mix1	p081_F	False	0	0		The cell phone in the image is white. It is being held by the man on the right side of the image, who is wearing a green shirt.
+id_mix1	p050_F	False	1	0		I'm sorry, but there is no sandwich in the image. The image shows a baseball game in progress, with players on the field wearing various uniforms.
+id_mix1	p091_F	False	0	0		The skis in the image are black. The person in the image is holding a pair of black skis while looking at a tablet or laptop on a table.
+id_mix1	p056_F	False	0	0		The motorcycle in the image is black. It's a sleek and modern design, with a clean and minimalist look that complements the overall aesthetic of the scene.
+id_mix1	p075_F	False	1	0		There is no truck visible in the image. The image only shows a white food container with a sandwich and a small cup of sauce placed on the grass.
+id_mix1	p017_F	False	0	0		The pizza in the image has a golden-brown crust, indicating it has been baked. The toppings are also visible, adding color and variety to the pizza.
+id_mix1	p040_F	False	1	0		There is no chair visible in the image. The scene depicts an airport tarmac with passengers boarding an airplane, and there are no chairs in the frame.
+id_mix1	p085_F	False	1	0		I'm sorry, but there is no horse in the image. The image shows a bunch of green bananas and a red banana flower on a banana tree.
+id_mix1	p071_F	False	0	0		The stop sign in the image is red. This is a standard color for stop signs, which are universally recognized as a signal to come to a halt.
+id_mix1	p035_F	False	0	0		The train in the image is red. It is positioned on the tracks near the platform, and its vibrant color adds to the overall aesthetic of the scene.
+id_mix1	p046_F	False	0	0		The book in the image is white. It appears to be a newspaper, which is typically white in color, lying on the counter next to the dog.
+id_mix1	p049_F	False	1	0		I'm sorry, there is no bicycle visible in the image. The focus is on a wide variety of colorful fruits and vegetables displayed at an outdoor market.
+id_mix1	p048_F	False	0	0		The snowboard in the image appears to be white. It is positioned on the ground near the person, standing out against the snowy landscape in the background.
+id_mix1	p002_F	False	0	0		The traffic light in the image is red. It is located at the intersection of the road and the sidewalk, near the pedestrian who is crossing the street.
+id_mix1	p043_F	False	1	0		I'm sorry, but I don't see a wine glass in the image. The image shows a skier descending a snowy slope with a mountainous backdrop.
+id_mix1	p030_F	False	1	0		There is no bench visible in the image. The scene depicts a police officer in uniform, wearing a hat and badge, with a crowd in the background.
+id_mix1	p065_F	False	1	0		There is no presence of a toilet in the image. The image shows an outdoor setting with a wooden table, chairs, and a wall adorned with roses.
+id_mix1	p062_F	False	0	0		The cup in the image is white. It is placed on the sand near the surfboards, adding to the casual and relaxed atmosphere of the beach scene.
+id_mix1	p006_F	False	1	0		There is no mention of a toothbrush in the image. The image shows a tennis player in the middle of a serve, with spectators watching from the sidelines.
+id_mix1	p061_F	False	1	0		There is no mouse in the image. The image shows a vintage blue truck covered in graffiti and artwork, but there is no mouse present in the scene.
+id_mix1	p069_T	True	0	0		The banana in the image is yellow. It appears to be ripe, which is typical for bananas that are used in dishes like the one on the plate.
+id_mix1	p062_T	True	0	0		The cup in the image appears to be clear, which is a common color for cups used for beverages, as it allows for easy visibility of the contents.
+id_mix1	p084_T	True	0	0		The orange in the image is bright red. It is being tossed by a young girl who is dressed in a black dress with floral patterns and pink shoes.
+id_mix1	p098_T	True	0	0		The apple in the image is yellow with patches of red and brown, which suggests that it may be overripe or has undergone some form of color change.
+id_mix1	p019_T	True	0	0		The skateboard in the image appears to be black with a white underside, which is a common color combination for skateboards due to its contrast and aesthetic appeal.
+rnd_0	p018_F	False	0	0		The potted plant in the image appears to be green, adding a touch of nature to the scene as the family members enjoy their meal at the table.
+rnd_0	p015_F	False	0	0		The orange in the image is indeed orange in color. It has a vibrant orange color with a golden hue, which is the natural color of the fruit.
+rnd_0	p062_F	False	0	0		The cup placed on the beach in the image is white. It sits on the sandy surface of the beach, blending in with the rest of the scene.
+rnd_0	p073_F	False	1	0		I'm sorry, but there is no bird visible in the image. It is a wedding photograph. Therefore, there is no bird present in the image.
+rnd_0	p008_F	False	1	0		There is no information about a suitcase visible in the image. The scene appears to be a casual pizza restaurant setting with a couple of people in the background.
+rnd_0	p025_F	False	0	0		The skis in the image are blue in color. The blue hue stands out against the white backdrop of the snow, adding a vibrant contrast to the scene.
+rnd_0	p011_F	False	1	0		The color of the cell phone in the image is not explicitly mentioned in the image caption. The description is based on the visual information provided in the image.
+rnd_0	p052_F	False	0	0		The vase in the image is white in color. It is placed on a wooden table and filled with colorful flowers, creating a vibrant and visually appealing arrangement.
+rnd_0	p043_F	False	1	0		I'm sorry, but there is no wine glass in the image. The image is of a person skiing on a snowy slope with mountains in the background.
+rnd_0	p006_F	False	1	0		There is no visible toothbrush in the image. The image shows a female tennis player in mid-action on a tennis court, with spectators watching a tennis match.
+rnd_0	p005_F	False	1	0		I'm sorry, but there is no fire hydrant visible in the image. The image shows a glass and a bottle of beer in a bar setting.
+rnd_0	p031_F	False	1	0		There is no spoon visible in the image. Therefore, based on the description, it is not possible to determine the color of the spoon in the image.
+rnd_0	p096_F	False	1	0		I apologize for any confusion, but there is no spoon in the image. The image shows a baseball batter, catcher, and umpire at home plate.
+rnd_0	p087_F	False	0	0		The umbrella in the image is bright orange. This vibrant color stands out against the serene backdrop of the beach, adding warmth and contrast to the overall scene.
+rnd_0	p054_F	False	1	0		I apologize for mentioning the presence of a handbag in the image. However, to answer the question, there is no handbag to be found in the image.
+rnd_0	p064_F	False	1	0		There is no airplane in the image, as the image does not depict a flight scene. It shows a group of three people sitting around a dining table.
+rnd_0	p022_F	False	1	0		There is no visible bottle in the image. The focus of the image is on the person riding the large wheel bicycle, which does not include a bottle.
+rnd_0	p063_F	False	1	0		There is no sports ball visible in the image. The image shows a person dressed in a costume holding an umbrella, but the sports ball is not present.
+rnd_0	p023_F	False	1	0		There is no cow to be seen in the image. The image shows a deck with a striped umbrella, a red pot with plants, and a chair.
+rnd_0	p020_F	False	0	0		The umbrella in the image is red in color. The vibrant red hue of the umbrella stands out against the backdrop of the trees and sky in the image.
+rnd_0	p079_T	True	0	0		The bed in the image has a dark wooden headboard with a white and orange floral pattern, adding a vibrant touch to the overall neutral palette of the room.
+rnd_0	p063_T	True	0	0		The sports ball in the image appears to be a baseball and, likely due to the vintage nature of the photograph, the image is in black and white.
+rnd_0	p077_T	True	0	0		The cat in the image is a black and white cat, with a black coat and distinctive white markings on its face, chest, and around its paws.
+rnd_0	p059_T	True	0	0		The clock in the image is black with white numbers. It appears to be placed on the wall in the living room, near the center of the room.
+rnd_0	p031_T	True	0	0		The spoon in the image is silver-colored, which is visible in the hand of a person on the right side of the social gathering in the swimming pool.
+rnd_1	p046_F	False	0	0		To determine the color of the book in the image, we need to carefully observe the object in question on the table. The book appears to be white.
+rnd_1	p072_F	False	1	0		There is no sink visible in the image. It depicts a street scene with Big Ben, a person riding a bicycle, and a crowd in the background.
+rnd_1	p098_F	False	1	0		I'm unable to determine the color of the apple from the image. However, in the context of the image, the color of the shirt is green.
+rnd_1	p040_F	False	0	0		The chair in the image is blue. It is positioned in the center of the image, near the gathered people boarding the large airplane on the tarmac.
+rnd_1	p043_F	False	1	0		The wine glass in the image is not explicitly colored, but it appears to be a clear or transparent glass, possibly with a frosted or textured pattern.
+rnd_1	p064_F	False	1	0		There is no airplane visible in the image; the scene appears to be of a group of people sitting around a table enjoying a meal, not a plane.
+rnd_1	p018_F	False	0	0		The potted plant in the image is green. It is located near the wall, to the left of the family having a meal at the dining table.
+rnd_1	p013_F	False	1	0		I'm sorry, but I don't see a keyboard in the image. The image actually shows a parking meter with a hand placed on the coin slot.
+rnd_1	p039_F	False	1	0		There is no person visible in the image. The image depicts a small white bathroom with a toilet, a sink, a bathroom cabinet, and a mirror.
+rnd_1	p011_F	False	1	0		The image shows a young girl standing in a kitchen, but she is not holding a cell phone. Therefore, there is no cell phone in the image.
+rnd_1	p003_F	False	1	0		The truck in the image is not clearly visible. The image shows a cat looking at a keyboard, and there is not a truck present in the scene.
+rnd_1	p031_F	False	1	0		There is no spoon visible in the image. The image shows two players in action on a tennis court during a match, with an audience in the background.
+rnd_1	p012_F	False	1	0		The backpack in the image is not visible as it is not present in the frame. Therefore, it is not possible to determine the color of the backpack.
+rnd_1	p083_F	False	0	0		The bowl in the image is orange in color. It is located on the far right side of the image, near the feet of the man playing tennis.
+rnd_1	p034_F	False	1	0		There is no apple visible in the image. It appears to be a photograph of a group of people at a formal event, possibly a wedding or ceremony.
+rnd_1	p037_F	False	1	0		There is no laptop visible in the image. It appears to be a scene with several people, a yellow train, and a platform at a train station.
+rnd_1	p044_F	False	1	0		The dining table is not visible and the color is not mentioned in the image caption. Therefore, there is no information about the color of the dining table.
+rnd_1	p066_F	False	0	0		The tennis racket in the image appears to be black in color. It is seen resting on the edge of the chair next to the person in the image.
+rnd_1	p008_F	False	1	0		There is no suitcase visible in the image. The image shows a large pizza on a table and a woman and a child at a counter in a restaurant.
+rnd_1	p050_F	False	1	0		I'm sorry, there is no sandwich in the image. The image depicts a scene from a baseball game, and no sandwich is visible in the frame.
+rnd_1	p091_T	True	0	0		The skis in the image appear to be black, likely due to the contrast of the person's attire against the white snow and the angle of the photograph.
+rnd_1	p044_T	True	0	0		The dining table in the image is brown in color, providing a warm and inviting backdrop to the scene, and contributing to the lively atmosphere of the gathering.
+rnd_1	p093_T	True	0	0		The television in the image appears to be a dark gray color, which contrasts with the warm tones of the surrounding couch and the blue of the inflatable pool.
+rnd_1	p064_T	True	0	0		The airplane in the image is predominantly white, with blue and green accents, especially on the tail section where the WestJet logo and the bird are located.
+rnd_1	p009_T	True	0	0		The bed in the image is adorned with a plaid pattern featuring red, white, and possibly other colors, complementing the rustic aesthetic of the room.

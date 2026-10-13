@@ -1,0 +1,76 @@
+{
+  "true-ACC": {
+    "answer_pos": 6.767676767676767,
+    "answer_step": 10.696969696969697,
+    "answer_conf": 0.4908877777777777,
+    "prefix_conf": 0.8731186915704947,
+    "prefix_before_frac": 0.9846200096200096,
+    "frame_first": 0.8888888888888888,
+    "frame_done_step": 8.808080808080808,
+    "eot_before_answer": 1.0,
+    "ever_reject_preview": 0.0,
+    "lockin_step": 4.929292929292929,
+    "n": 99,
+    "s0_label": {
+      "OTHER": 52,
+      "ACCEPT": 47
+    }
+  },
+  "false-ACC": {
+    "answer_pos": 6.260416666666667,
+    "answer_step": 12.760416666666666,
+    "answer_conf": 0.421875,
+    "prefix_conf": 0.8414373487103175,
+    "prefix_before_frac": 0.9947916666666666,
+    "frame_first": 0.9791666666666666,
+    "frame_done_step": 7.302083333333333,
+    "eot_before_answer": 1.0,
+    "ever_reject_preview": 0.03125,
+    "lockin_step": 5.510416666666667,
+    "n": 96,
+    "s0_label": {
+      "OTHER": 79,
+      "ACCEPT": 16,
+      "REJECT": 1
+    }
+  },
+  "knows-ACC": {
+    "answer_pos": 6.238095238095238,
+    "answer_step": 13.222222222222221,
+    "answer_conf": 0.4042590476190476,
+    "prefix_conf": 0.831825268329554,
+    "prefix_before_frac": 0.9973544973544973,
+    "frame_first": 0.9841269841269841,
+    "frame_done_step": 7.285714285714286,
+    "eot_before_answer": 1.0,
+    "ever_reject_preview": 0.047619047619047616,
+    "lockin_step": 5.634920634920635,
+    "n": 63,
+    "s0_label": {
+      "OTHER": 56,
+      "ACCEPT": 6,
+      "REJECT": 1
+    }
+  },
+  "false-REJ": {
+    "answer_pos": 5.0,
+    "answer_step": 7.25,
+    "answer_conf": 0.8714350000000001,
+    "prefix_conf": 0.7098257142857143,
+    "prefix_before_frac": 0.8452380952380952,
+    "frame_first": 0.25,
+    "frame_done_step": 8.0,
+    "eot_before_answer": 1.0,
+    "ever_reject_preview": 1.0,
+    "lockin_step": NaN,
+    "n": 4,
+    "s0_label": {
+      "OTHER": 4
+    }
+  },
+  "false-ACC_lockin": {
+    "n": 96,
+    "locked_at_step0": 14,
+    "frame_before_lockin": 37
+  }
+}

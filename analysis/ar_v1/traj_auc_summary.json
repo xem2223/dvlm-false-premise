@@ -1,0 +1,148 @@
+{
+  "C3|A_trueACC_vs_falseACC": {
+    "cv_traj": 0.8251062925170067,
+    "cv_len": 0.5162627551020409,
+    "cv_traj_len": 0.8223639455782313,
+    "features": [
+      "commit_conf",
+      "s0_top1",
+      "s0_margin",
+      "s0_refusal",
+      "s0_color",
+      "mean_conf",
+      "min_conf"
+    ],
+    "n_false": 96,
+    "n_true": 98
+  },
+  "C3|B_trueACC_vs_knowsACC": {
+    "cv_traj": 0.8478674615913782,
+    "cv_len": 0.5265650080256821,
+    "cv_traj_len": 0.8457922494840633,
+    "features": [
+      "commit_conf",
+      "s0_top1",
+      "s0_margin",
+      "s0_refusal",
+      "s0_color",
+      "mean_conf",
+      "min_conf"
+    ],
+    "n_false": 89,
+    "n_true": 98
+  },
+  "C3|C_true_vs_false": {
+    "cv_traj": 0.8367800000000001,
+    "cv_len": 0.50904,
+    "cv_traj_len": 0.83496,
+    "features": [
+      "commit_conf",
+      "s0_top1",
+      "s0_margin",
+      "s0_refusal",
+      "s0_color",
+      "mean_conf",
+      "min_conf",
+      "preview_absent"
+    ],
+    "n_false": 100,
+    "n_true": 100
+  },
+  "C4u|A_trueACC_vs_falseACC": {
+    "cv_traj": 0.7762845849802372,
+    "cv_len": 0.49171607378129123,
+    "cv_traj_len": 0.7779973649538865,
+    "features": [
+      "commit_conf",
+      "s0_top1",
+      "s0_margin",
+      "s0_refusal",
+      "s0_color",
+      "mean_conf",
+      "min_conf"
+    ],
+    "n_false": 33,
+    "n_true": 92
+  },
+  "C4u|B_trueACC_vs_knowsACC": {
+    "cv_traj": 0.806814381270903,
+    "cv_len": 0.49299749163879597,
+    "cv_traj_len": 0.8088628762541805,
+    "features": [
+      "commit_conf",
+      "s0_top1",
+      "s0_margin",
+      "s0_refusal",
+      "s0_color",
+      "mean_conf",
+      "min_conf"
+    ],
+    "n_false": 26,
+    "n_true": 92
+  },
+  "C4u|C_true_vs_false": {
+    "cv_traj": 0.88491,
+    "cv_len": 0.5074000000000001,
+    "cv_traj_len": 0.8857700000000002,
+    "features": [
+      "commit_conf",
+      "s0_top1",
+      "s0_margin",
+      "s0_refusal",
+      "s0_color",
+      "mean_conf",
+      "min_conf",
+      "preview_absent"
+    ],
+    "n_false": 100,
+    "n_true": 100
+  },
+  "C3_blank|A_trueACC_vs_falseACC": {
+    "cv_traj": 0.40126,
+    "cv_len": 0.49178999999999995,
+    "cv_traj_len": 0.40556000000000003,
+    "features": [
+      "commit_conf",
+      "s0_top1",
+      "s0_margin",
+      "s0_refusal",
+      "s0_color",
+      "mean_conf",
+      "min_conf"
+    ],
+    "n_false": 100,
+    "n_true": 100
+  },
+  "C3_blank|B_trueACC_vs_knowsACC": {
+    "cv_traj": 0.43046774193548387,
+    "cv_len": 0.4954731182795699,
+    "cv_traj_len": 0.4255322580645161,
+    "features": [
+      "commit_conf",
+      "s0_top1",
+      "s0_margin",
+      "s0_refusal",
+      "s0_color",
+      "mean_conf",
+      "min_conf"
+    ],
+    "n_false": 93,
+    "n_true": 100
+  },
+  "C3_blank|C_true_vs_false": {
+    "cv_traj": 0.40126,
+    "cv_len": 0.49178999999999995,
+    "cv_traj_len": 0.40556000000000003,
+    "features": [
+      "commit_conf",
+      "s0_top1",
+      "s0_margin",
+      "s0_refusal",
+      "s0_color",
+      "mean_conf",
+      "min_conf"
+    ],
+    "n_false": 100,
+    "n_true": 100
+  }
+}

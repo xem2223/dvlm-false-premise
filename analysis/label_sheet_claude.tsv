@@ -1,0 +1,251 @@
+id	object_present_in_image	label	answer	note
+0	False	0	The bus in the image is white. It is traveling on the road in the foreground of the image, with a subway train and buildings in the background.	
+1	False	1	I'm sorry, but I cannot determine the color of the car from the image as it is not visible. The image only shows a woman playing tennis.	
+2	False	0	The surfboard in the image is blue with red accents. It's a vibrant and eye-catching design that stands out against the natural backdrop of the beach.	
+3	False	0	The chair in the image is pink. It is positioned on the ground near the bottom of the frame and is visible on the left side of the image.	
+4	True	0	The chair in the image appears to be dark brown in color, providing a nice contrast to the lighter tones of the kitchen and the rest of the room.	
+5	False	0	The bed in the image is blue in color. It has a modern design and is positioned against a wall, contributing to the overall ambiance of the room.	
+6	False	1	I'm sorry, but I cannot determine the color of the truck from the image as it is not visible. The image shows two young girls playing soccer.	
+7	False	0	The banana in the image is yellow. It appears to be a ripe banana, which is typically yellow when it's fully ripened and ready to eat.	
+8	False	0	The couch in the image is white. It's a clean, neutral color that provides a stark contrast to the dark fur of the cats resting on it.	
+9	True	0	The fire hydrant in the image is red. It stands out against the white snow, making it easily noticeable even though it's partially obscured by snow.	
+10	False	0	The cell phone in the image is black. It is positioned on the desk to the right of the cat, closer to the right edge of the image.	
+11	False	0	The knife in the image is white. It is visible inside the open takeout container, and its color stands out against the white interior of the container.	
+12	False	0	The couch in the image is black. It's a sleek, modern piece of furniture that complements the overall black and white color scheme of the living room.	
+13	False	1	I apologize for any confusion, but the question asked about the color of the spoon in the image. However, there is no spoon visible in the image.	
+14	False	1	There is no television present in the visible frame of the image. The focus is entirely on the person playing with a video game controller in the living room.	
+15	False	1	There is no tennis racket in the image. The image shows a baseball player in a purple and white uniform attempting to catch a ball during a baseball game.	
+16	False	0	The dining table in the image appears to be a light brown color. It is situated in the center, providing a warm and inviting atmosphere to the room.	
+17	False	0	The vase in the image is white in color. It is placed neatly on the table in the center of the room, complementing the overall minimalist decor.	
+18	False	0	The bottle in the image is clear. It is located on the desk, next to the computer monitor, and appears to be a standard plastic water bottle.	
+19	False	0	The bottle in the image is silver in color. It is positioned to the left of the laptop and the right of the computer monitor on the wooden desk.	
+20	False	0	The fire hydrant in the image is white in color. It is located on the right side of the street, close to the center of the image.	
+21	False	0	The cell phone in the image appears to be black in color. It is placed on the desk to the left of the laptop and below the computer monitor.	
+22	False	1	There is no mouse visible in the image. The image shows a black and white cat sitting on a desk, appearing to be looking at a computer monitor.	
+23	False	0	The bottle in the image is brown. It appears to be a clear glass bottle, possibly containing a beverage, given its size and placement on the table.	
+24	False	0	The fork in the image is silver in color. It is placed on the plate alongside the sandwich and salad, ready to be used for enjoying the meal.	
+25	False	0	The cup in the image is red. It is located on the left side of the plate, next to the sandwich, chicken wings, and French fries.	
+26	True	0	The baseball glove in the image is black. It is worn by the catcher behind the batter, ready to catch the ball in response to the incoming pitch.	
+27	True	1	The image is in black and white, so the color of the boat cannot be determined in the photograph as it can only be seen in shades of gray.	present+B&W photo, refuses
+28	False	0	The snowboard in the image is white. The skier is descending a snow-covered slope with a breathtaking view of snow-capped mountains in the background.	
+29	False	1	The image does not contain a spoon; the person is holding a pizza on a tray. Therefore, there is no spoon color to describe in this image.	
+30	True	0	The bicycle in the image is red. It's a vibrant color that stands out against the muted tones of the street and the blurred figures in the background.	
+31	False	0	The dining table in the image is brown. It appears to be a wooden dining table, which is a common color for furniture made from this natural material.	
+32	False	0	The skis in the image are white. This is evident from the visible part of the snowboarder's feet and the way they contrast with the snow.	
+33	False	0	The bed in the image appears to be white, as it provides a clean and neutral background that complements the photo of the woman and the teddy bear.	
+34	False	0	The bench in the image is green. It is located in the background to the right, and provides a contrasting color to the skateboard ramp in the foreground.	
+35	True	0	The bottle in the image is clear, which is typical for glass bottles used to store liquids. It has a brown cork on top and a green label.	
+36	True	0	The backpack in the image is red. It is visible on the skier's back, providing additional gear or supplies as they navigate through the snowy landscape.	
+37	False	0	The oven in the image is white. It is located in the kitchen area in the background, adjacent to the table where the women are having a meal.	
+38	False	0	The bench in the image is blue. It's positioned behind the batter and catcher, providing a place for players to rest during a pause in the game.	
+39	False	0	The car in the image is black. It's a classic sedan with a sleek design, parked parallel to the curb on the right side of the street.	
+40	False	0	The potted plant in the image is white. It is placed on the nightstand next to the bed, adding a touch of greenery to the room.	
+41	False	0	The cell phone in the image is white. It is placed on the desk next to the computer monitor, complementing the overall color scheme of the workspace.	
+42	False	1	I'm sorry, but there is no dog in the image. The image shows a baseball game in progress with players on the field dressed in baseball uniforms.	
+43	False	1	I apologize for any confusion, but upon close inspection, there is no banana visible in the image. The image focuses on the breakfast items and the table.	
+44	False	0	The bench in the image is blue. It is positioned in the background, providing a place for spectators or players to sit and rest during the tennis match.	
+45	False	0	The couch in the image is white. It appears to be a comfortable, plush couch, providing a warm and inviting surface for the cats to rest on.	
+46	False	0	The backpack in the image is black. It is being carried by a person walking through the indoor market, which features a variety of fresh fruits and vegetables.	
+47	False	0	The cup in the image is blue. It is placed on the coffee table in the center of the room, next to the vase with the green flowers.	
+48	False	1	There is no chair in the image. Therefore, I cannot provide an answer regarding its color. The image shows a man playing tennis on an outdoor court.	
+49	False	1	I'm sorry, but I cannot determine the color of the kite from the image provided. It's possible that there is no kite visible in the image.	
+50	False	0	The backpack in the image is black. It is lying on the snow next to a snowboard, suggesting it may have been left behind by its owner.	
+51	False	1	I'm sorry, but there is no dog in the image. The image shows a baseball game in progress, with players and a pitcher on the field.	
+52	False	0	The bicycle in the image appears to be red, although it is not certain due to the motion blur of the camera and the low resolution of the image.	colour given but 'not certain'
+53	False	1	There is no bus visible in the image. The image shows a red Honda motorcycle parked on the side of the road with a silver car in the background.	
+54	False	0	The dining table in the image is brown. It's a simple wooden table with a woven round mat on top, placed in the center of the room.	
+55	False	1	There is no frisbee in the image. The image shows a person taking a selfie with a dog, reflected in the side mirror of a car.	
+56	False	0	The boat in the image is blue in color. It floats gently on the water, surrounded by the greenery of the trees and the tranquility of the lake.	
+57	False	0	The bowl in the image is yellow. It is placed on a table next to a menu, a cell phone, and a shaker of salt and pepper.	
+58	True	0	The knife in the image is black. It is being used to slice a pizza on a camping stove, indicating a meal being prepared in an outdoor setting.	
+59	False	0	The frisbee in the image is red. It's thrown by the man driving the carriage to the large dog sitting on the back of the carriage.	
+60	False	1	There is no chair in the image. The image shows a group of people playing tennis on a tennis court with a fence and a building in the background.	
+61	False	0	The spoon in the image is white. It is placed on the table next to a white coffee mug and a red teapot filled with pink flowers.	
+62	False	1	There is no bus present in the image. The image shows a red Honda motorcycle parked on a street, with a dark-colored car visible in the background.	
+63	False	0	The bowl in the image is white, which contrasts with the colorful food items it holds, including a banana, vegetables, cooked meat, and a beverage.	
+64	False	0	The spoon in the image is white. It is held by the person in the kitchen, who appears to be preparing to take a slice of the pizza.	
+65	True	0	The dining table in the image is adorned with a colorful tablecloth featuring green and purple grapes and leaves, adding a vibrant and fresh touch to the setting.	
+66	True	0	The bottle in the image is clear blue, which contrasts nicely with the colorful tablecloth and the warm tones of the pizza and other items on the table.	
+67	False	0	The cake in the image appears to be golden brown with a light yellow color, and the golden color of the cake also gives it a light yellow hue.	
+68	False	0	The snowboard in the image is white. It contrasts with the snowy background and the clothing of the person, making it a prominent feature in the scene.	
+69	False	0	The bottle in the image is red. The child is holding a red bottle up to their face, suggesting they might be sniffing or drinking from it.	
+70	True	0	The dining table in the image is brown. It appears to be a wooden dining table, which is a common color for furniture made from this natural material.	
+71	True	0	The fork in the image is silver in color. It is placed on the table next to a plate of pizza, ready to be used for a meal.	
+72	False	0	The handbag in the image is black. It is positioned on the ground near the center of the image, close to a group of people and a blanket.	
+73	False	0	The fork in the image is black. It is positioned on the right side of the plate, next to the pastry, ready to be used for eating.	
+74	False	0	The color of the vase in the image is specified in the question. It appears to be a white vase, located on the right side of the image.	
+75	False	0	The truck in the image is red. It's a double-decker bus, which is a type of bus with two levels of seating for transporting passengers.	
+76	False	0	The bicycle in the image appears to be black, with the green color of the wheels and the seat, which provides a striking contrast against the black frame.	
+77	False	0	The television in the image appears to be blue in color. This can be inferred from the visible coloration of the TV's screen in the provided image.	
+78	False	0	The television in the image is black. It is mounted on the wall to the left of the man and appears to be a significant object in the room.	
+79	False	0	The vase in the image is white. It is placed on the table next to the television, providing a stark contrast to the other objects in the room.	
+80	False	0	The backpack in the image is black. It is positioned on a table next to a suitcase with various stickers and a bottle of water placed next to it.	
+81	False	1	There is no bench visible in the image. The scene is focused on a moment during a baseball game, featuring a batter, catcher, and umpire.	
+82	True	1	There is no bicycle visible in the image. The scene depicts an urban setting with a building, street signs, a traffic light, and a bowling alley.	present item but says absent
+83	False	1	There is no person visible in the image. The image shows a modern bathroom with a white sink, bathtub, toilet, and mosaic tiles on the walls.	
+84	False	0	The color of the fork in the image is black. It appears on the right side of the serving tray, alongside the other visible components of the meal.	
+85	True	0	The baseball bat in the image is white. It is being held by the batter, who is standing at the home plate, ready to hit the ball.	
+86	True	0	The truck in the image appears to be white in color. It is positioned on the right side of the image, close to the tail of the airplane.	
+87	True	0	The individuals in the image are of various skin tones, indicating a diverse group. Each person's skin color is distinct to the extent visible in the photograph.	
+88	False	1	I'm sorry, there is no kite visible in the image. The image focuses on two people walking barefoot with one carrying a surfboard on a beach.	
+89	False	1	There is no cow visible in the image. The image shows a person wearing a tie with a leopard print pattern and has a rose tattoo on their chest.	
+90	False	0	The bed in the image is white. It has a clean and crisp appearance, providing a stark contrast to the brown teddy bear sitting comfortably on it.	
+91	False	0	The backpack in the image is black. It is placed on the table next to the suitcase and the bottle of water, suggesting a camping or outdoor setting.	
+92	False	0	The sports ball in the image is white. It is a standard baseball, which is typically white with a dark brown center and red stitching around the seams.	
+93	False	0	The dining table in the image is white. It's a wooden dining table with a white top and legs, and it's located in a dining room.	
+94	False	2	The TV is not visible in the image, but it's likely that it would be a white or neutral color, given the overall aesthetic of the room.	'not visible, but likely white'
+95	False	1	There is no baseball glove in the image but a tennis racket. The person in the image is seen holding a tennis racket while wearing a blue t-shirt.	
+96	False	0	The oven in the image is white. It is located in the kitchen area to the right of the scene where the three women are seated at the table.	
+97	False	0	The bicycle in the image is green. It is parked on the side of the street, close to the yellow and green trolley car traveling on the tracks.	
+98	False	0	The cell phone in the image is black. It is located on the desk to the right of the monitor, closer to the right edge of the image.	
+99	False	0	The truck in the image is red. It's a double-decker bus, which is a type of bus with two levels of seating for transporting passengers.	
+100	True	0	The car in the image is white. It is parked on the street behind the blue sofa that is being transported on a small trailer attached to a bicycle.	
+101	True	0	The bed in the image is white with a wooden frame and headboard. It's a clean and neutral color that complements the overall color scheme of the room.	
+102	False	0	The color of the chair in the image is not explicitly mentioned in the description of the image you provided, but the chair appears to be a wooden chair.	no colour, but treats chair as existing (wooden)
+103	False	0	The vase in the image is red. It is positioned on the deck next to the white and pink umbrella, adding a pop of color to the scene.	
+104	False	0	The bus in the image is red. It's a classic red double-decker bus, which is a common sight in the UK, particularly in London.	
+105	False	1	There is no stop sign visible in the image. The focus is on a red fire hydrant located on a street with a white bus in the background.	
+106	True	0	The motorcycle in the image appears to be predominantly black, with chrome accents visible on the parts such as the front headlight and the side of the bike.	
+107	False	1	I'm sorry, but I cannot determine the color of the TV from the image as it is not visible. The image only shows a dining room setup.	
+108	False	1	There is no frisbee visible in the image. It's a picture of two men and a dog enjoying a ride in a horse-drawn carriage.	
+109	False	0	The fire hydrant in the image is white. It is located on the right side of the street, close to the traffic lights and the stop sign.	
+110	False	1	The image does not include a couch; it shows a computer setup with multiple monitors, a laptop, a gaming console, and various items on a desk.	
+111	False	0	The knife in the image appears to be silver, as it is visible among other kitchen utensils and is placed on the counter in the restaurant or bar setting.	
+112	False	1	There is no laptop present in the image. Therefore, it is not possible to determine the color of a laptop as it is not visible in the image.	
+113	False	0	The TV in the image is silver in color. It's a sleek, modern design that contrasts nicely with the vibrant colors of the food on the plate.	
+114	False	1	I'm sorry, there is no book visible in the image. The image appears to be of a living room with a white mattress lying on the floor.	
+115	False	1	There is no umbrella visible in the image. The image primarily features two colorful kites, one shaped like a shark and the other like an octopus.	
+116	False	0	The snowboard in the image is white. It stands out against the white snow of the mountain slope and the red jacket of the skier's attire.	
+117	False	0	The cup in the image is white. It's a simple, ceramic cup with a smooth surface and a small handle, commonly used for drinking hot beverages.	
+118	False	1	There is no surfboard in the image. The snowboard held by the person in the foreground is green, which is a common color for snowboarding.	refuses surfboard, gives colour of another object
+119	False	1	There is no truck visible in the image. The image shows a person riding a bicycle and has a clear view of a flock of sheep on the road.	
+120	False	1	The vase in the image is missing, and since there is no vase present in the image, I cannot determine the color of the vase in the image.	
+121	True	0	The couch in the image is beige. It's a warm, neutral color that contrasts nicely with the black cat and adds a cozy feel to the scene.	
+122	False	1	There is no bottle visible in the image. It appears to be a close-up of a steaming pot of vegetable-based soup in a black stainless steel pot.	
+123	False	0	The frisbee in the image is white. It is visible in the dog's mouth in the reflection of the mirror on the window of the car.	
+124	False	1	There is no mention of a bus in the image description. The image shows a man walking with his dog on a mountainside path while holding an umbrella.	
+125	False	1	There is no cell phone visible in the image. The image shows a desktop computer setup with a silver monitor, white keyboard, mouse, and two speakers.	
+126	False	0	The fork in the image is white. It is placed on the plate with the other food items, including a piece of cheese, carrots, and strawberries.	
+127	False	0	The tennis racket in the image is black. It is being held by one of the men in the group, positioned on the right side of the image.	
+128	False	0	The color of the bottle in the image is black. It is located towards the back of the display, closer to the upper left corner of the image.	
+129	True	0	The baseball glove in the image is brown. It is being held by the man on the right, who is having a conversation with the other two men.	
+130	True	0	The book in the image appears to be predominantly red in color. It is placed on the right side of the bed, next to a clear plastic bag.	
+131	False	1	There is no mention of a bicycle in the image. The image depicts a young man performing a trick on a skateboard under a bridge in an urban setting.	
+132	False	0	The umbrella in the image is purple. It is located on the right side of the image, close to the people flying the kites in the park.	
+133	True	0	The cup in the image is blue. It is placed on the table to the left of the woman, who is seated in the center of the group.	
+134	False	0	The color of the bus in the image is white. It can be seen on the right side of the image, moving in the direction of the train.	
+135	False	0	The backpack in the image is black. It is positioned on the left side of the image, next to the suitcase and the water bottle on the table.	
+136	False	1	The image does not contain a car. It shows a group of people skiing on a snowy slope, and there is no visible car present in the scene.	
+137	False	0	The backpack in the image is black. It is being carried by one of the individuals in the boat, likely containing personal belongings or supplies for the outing.	
+138	False	0	The motorcycle in the image is black. It is parked on the side of the street, close to a large clock, against a backdrop of tall buildings.	
+139	True	0	The dining table in the image is black. It provides a stark contrast to the vibrant colors of the cake and the attire of the individuals gathered around it.	
+140	False	0	The dining table in the image is brown. It has a warm, earthy tone that contrasts with the vibrant colors of the fruits and vegetables displayed on it.	
+141	True	0	The backpack in the image is orange in color. It contrasts with the more muted tones of the surroundings, making it a noticeable item in the outdoor setting.	
+142	True	0	The broccoli in the image is green in color. It appears fresh and vibrant, adding a healthy contrast to the other components of the meal on the plate.	
+143	False	0	The couch in the image is pink. It adds a warm and cozy touch to the interior of the room, contributing to the overall ambiance of the scene.	
+144	True	0	The remote in the image is black. It is located on the coffee table in the center of the room, next to the telephone and other decorative items.	
+145	False	0	The traffic light in the image is red. It is located at the intersection of the street, controlling the flow of vehicles and ensuring safety on the road.	
+146	True	0	The couch in the image appears to be a neutral color, possibly brown or beige, which complements the warm lighting and the cozy atmosphere of the living room.	
+147	False	0	The motorcycle in the image is blue. It is positioned on a table in the foreground, with a group of people engaged in a discussion in the background.	
+148	False	0	The bowl in the image is yellow. It is placed on the table next to a menu, a cell phone, and a picture of a dessert item.	
+149	True	0	The bottle in the image is white. It's being held by the man in the red shirt and khaki shorts, who is running towards the camera.	
+150	True	0	The banana in the image is yellow. It is placed on a shelf among various other items, such as bottles and a spoon, in a kitchen setting.	
+151	True	0	The bottle in the image is white in color. It appears to have a black cap, making it stand out against the natural backdrop of the outdoor setting.	
+152	False	1	I'm sorry, but I cannot determine the color of the sink from the image as it shows a yellow container used as a food stall on a street.	
+153	True	0	The toilet in the image is white. It's a standard porcelain toilet with a white seat and tank, which matches the overall color scheme of the bathroom.	
+154	True	0	The bottle in the image is white. It's being held by the man on the right, who is wearing a red t-shirt and khaki shorts.	
+155	True	0	The bus in the image is predominantly blue with white and yellow accents. It has a classic design and is seen in the middle of a busy city street.	
+156	False	0	The orange in the image is blue and orange. It appears to be a frisbee, which is being caught by a large dog in mid-air.	obj=orange, answers colours and calls it a frisbee
+157	False	1	There is no spoon visible in the image. The image shows a hot dog in a bun with a side of ketchup, placed on a paper tray.	
+158	False	1	I'm sorry, there are no skis visible in the image. The image shows a person walking on a cobblestone street while holding a black umbrella.	
+159	False	1	There is no bus visible in the image. The main subject is a woman and a dog in a blue car, with other vehicles visible in the background.	
+160	False	0	The spoon in the image is red. It is located on the left side of the image, partially obscured by the hot dog and the white paper tray.	
+161	False	0	The snowboard in the image is white. It is used by the person who is standing in the snow, preparing for a winter activity with the dog.	
+162	True	0	The backpack in the image is red. It is worn by the person skiing down the slope, and its vibrant color stands out against the snowy winter landscape.	
+163	False	0	The vase in the image is white. It is positioned on a shelf above the toilet, and its color blends well with the neutral tones of the bathroom.	
+164	True	0	The surfboard in the image is black. It is being used by the person who is wearing a green life vest while waterskiing on the water.	
+165	False	1	The image does not contain a cow. It shows a person wearing a leopard print tie with a green and black pattern, and a tattoo on their chest.	
+166	False	1	There is no bird visible in the image. The image shows a car and a motorcycle on a street, with a person and a passenger on a motorcycle.	
+167	False	1	The image does not contain a truck. It shows a person sitting on a motorcycle in a forested area, and no truck is visible in the scene.	
+168	False	0	The motorcycle in the image is black. It is parked on the left side of the street, close to the market stalls selling UK-themed clothing and umbrellas.	
+169	False	0	The motorcycle in the image appears to be predominantly blue. This is evident from the frame, the handlebars, and the front wheel visible in the image.	
+170	False	1	I'm sorry, but there is no airplane in the image. The image shows a zoo scene with giraffes and zebras near a pond.	
+171	True	0	"The airplane in the image is predominantly white with a red tail and the logo of Japan Airlines, abbreviated ""JAL,"" prominently displayed on the fuselage."	
+172	False	0	The bus in the image is dark blue. It is visible in the background of the scene, and its color contrasts with the lighter blue of the car.	
+173	False	1	There is no car visible in the image. The focus is on people seated in a room with a high ceiling, each engaged in activities on their laptops.	
+174	False	0	The broccoli in the image is green. It is part of the variety of fresh vegetables displayed in the market, which is bustling with activity despite the rain.	
+175	False	1	I'm sorry, but there is no backpack visible in the image. The image shows an airplane being refueled by a fuel truck at an airport.	
+176	False	0	The car in the image is black. This can be determined by observing the color of the visible areas on the car and the overall appearance of the vehicle.	
+177	False	0	The surfboard in the image is green. It's positioned on the snow, next to a person who appears to be taking a break from snowboarding.	
+178	True	0	The bicycle in the image is blue. It is positioned on the right side of the image, close to the van and other bicycles parked in the background.	
+179	True	0	The bottle in the image is blue. It is located on the right side of the image, next to a set of cooking utensils on the kitchen counter.	
+180	False	0	The television in the image is silver in color. It is placed on the wooden table in the background, next to the plate of food and the laptop.	
+181	True	0	The snowboard in the image appears to be yellow. It is worn by the person in the foreground, and its color stands out against the white snow.	
+182	False	1	There is no laptop visible in the image. The image shows a pizza on a wooden board placed on a table with wine glasses and a bottle of wine.	
+183	False	0	The bench in the image is brown. It's a simple wooden bench with a flat backrest design, positioned at the top of the skateboarding ramp.	
+184	False	1	There is no vase visible in the image. The image shows a bathroom with a sink, mirror, toilet, and towels, but no vase is present.	
+185	False	0	The handbag in the image is black. It is located on the right side of the image, resting on one of the chairs in front of the window.	
+186	True	0	The fork in the image is silver in color. It is positioned to the left of the pizza plate, resting on a white napkin on the table.	
+187	False	0	The vase in the image is white. It is placed on the table, adding a touch of elegance and lightness to the overall aesthetic of the room.	
+188	False	0	The skis in the image are white. This is a common color for skis due to its association with snow, which can help with visibility in the snow.	
+189	True	0	The fork in the image is silver in color. It is being used by the man to eat a piece of food, which appears to be a pastry.	
+190	False	0	The cake in the image is light yellow in color, which is a common hue for many types of cakes, especially those with a vanilla or lemon flavor.	
+191	False	0	The bus in the image is white, as indicated by the description of the bus's interior and the color of the steering wheel and the windshield wipers.	
+192	False	0	The knife in the image is white. It is positioned inside the open food container, and its white color stands out against the lighter background of the container.	
+193	True	0	The TV in the image is black. It is positioned in the background, displaying a soccer match, which contrasts with the pizza and beer in the foreground.	
+194	False	0	The bus in the image is white. It is visible through the windshield of the car, reflecting the colors of the surroundings and the vehicles on the road.	
+195	False	0	The oven in the image is white. It is located in the kitchen, next to the refrigerator, and is positioned on the right side of the image.	
+196	False	0	The cup in the image is blue. It is placed on the coffee table in the center of the room, next to the vase with the green flowers.	
+197	False	0	The vase on the wooden deck in the image is a bold, red color, which makes for a striking contrast against the natural tones of the outdoor setting.	
+198	False	0	The banana in the image is yellow. It is placed on the table near the center of the image, close to the area where the children are seated.	
+199	False	1	There is no television set or the color of the TV visible in the image. The focus is primarily on the man and the other person in the room.	
+200	False	0	The bus in the image is white in color. This can be determined by observing the contrast between the color of the bus and the background in the image.	
+201	False	0	The bowl in the image is yellow. It is placed on the table next to a menu and a salt shaker, suggesting it is in a dining setting.	
+202	False	0	The bicycle in the image is black. It is being ridden by a person who is dressed in a cowboy hat and is participating in a rodeo event.	
+203	False	1	There is no bicycle visible in the image. The image shows a mountain road with a flock of sheep crossing it, and a red bus in the background.	
+204	False	0	The baseball bat in the image is black. It is being held by the batter who is preparing to hit the ball during a play in the baseball game.	
+205	False	0	The dining table in the image is brown. It appears to be made of wood, giving it a warm tone that complements the cozy atmosphere of the room.	
+206	False	1	The color of the bus in the image cannot be determined with certainty as the perspective is from inside a car, without a view of the bus's exterior.	'cannot be determined… no view of the bus exterior' (implies bus exists)
+207	False	0	The truck in the image is white. It's parked alongside the motorcycles in the parking lot, matching the color of other vehicles at the biker gathering.	
+208	False	1	The image does not contain a bicycle; instead, it shows a person skateboarding on a concrete ledge under an overpass, performing a skateboarding trick.	
+209	False	0	The toilet in the image is white. It's a classic, clean design with a smooth finish that blends well with the overall color scheme of the bathroom.	
+210	True	0	The couch in the image appears to be a light color, possibly a pale yellow or cream, as it stands out against the backdrop of the living room.	
+211	False	1	There is no bus visible in the image. The image shows a busy intersection with multiple cars and traffic lights, but no bus is visible in the scene.	
+212	False	0	The truck in the image is white. It is parked near the edge of the field, close to the fence that separates the field from the parking area.	
+213	False	0	The couch in the image is brown. It has a warm, inviting hue that complements the surrounding wooden elements, contributing to the overall ambiance of the room.	
+214	False	0	The cow in the image is brown. It's a dark brown color, which is typical for many cow breeds, especially those raised for dairy or meat.	
+215	False	0	The bicycle in the image is black. It is being held by a man who is also wearing a black helmet and appears to be pushing a baby stroller.	
+216	False	1	There is no television visible in the image. Instead, the woman is holding a game controller and appears to be playing a video game in the living room.	
+217	False	0	The cell phone in the image is white. It is placed on the desk next to the computer monitor, complementing the overall aesthetic of the computer setup.	
+218	False	0	The bus in the image is blue. It's a light blue color, which is a common choice for public transportation due to its visibility and aesthetic appeal.	
+219	False	0	The traffic light in the image is green. It is located on the right side of the image, just in front of the yellow bus on the street.	
+220	False	1	I'm sorry, but I cannot determine the color of the bird in the image as there is no bird visible. The image shows people in a boat.	
+221	False	0	The dining table in the image is white. It's a classic and neutral color that complements the warm tones of the kitchen and other elements in the scene.	
+222	False	0	The television in the image is white. It is mounted on the wall in the background, providing a stark contrast to the other colorful elements in the room.	
+223	False	1	There is no tennis racket visible with the men in the image. They are dressed in baseball uniforms and appear to be posing for a black-and-white photograph.	
+224	False	0	The potted plant in the image is green. It is placed in a clear glass vase, which is sitting on top of a stack of candy boxes.	
+225	True	0	The bus in the image is white. It is a vintage model, likely from the 1960s or 1970s.	
+226	False	0	The vase in the image is red. It is located on the right side of the image, next to the yellow umbrella and the red potted plant.	
+227	False	0	The dog in the image appears to be brown. It is seen walking on the sand alongside a woman walking on the beach in a town near the sea.	
+228	True	0	The bottle in the image is clear with a brown cork on top. It appears to be a standard glass bottle, commonly used for storing liquids or beverages.	
+229	False	0	The bed in the image is white. It's a clean and neutral color that contrasts nicely with the brown teddy bear, making it stand out prominently.	
+230	False	0	The backpack in the image is black. It is being carried by a person walking through the indoor market, which features a variety of fresh fruits and vegetables.	
+231	False	0	The laptop in the image is black. It's placed on the table in the background, next to the man who is taking a bite of the cake.	
+232	False	0	The cup in the image is bright blue, providing a striking contrast to the vibrant yellow of the bananas and the varied colors of the fruits in the scene.	
+233	True	0	The bus in the image is predominantly red. It's a red double-decker bus, which is a common sight in the UK, particularly in London.	
+234	False	1	I'm sorry, there is no boat visible in the image. The image depicts a busy street scene with a man riding a bicycle loaded with live chickens.	
+235	True	0	The color of the chair in the image is blue. The chair is clearly visible in the image, with a distinct blue color that contrasts with the surroundings.	
+236	False	0	The bus in the image is white. It is visible in the background, contributing to the busy urban scene along with other vehicles and people on the street.	
+237	False	1	There is no book in the image, so I cannot determine its color. The image shows a framed photograph of a bride and groom sitting on a bed.	
+238	False	0	The knife in the image is white. It is placed inside the white plastic container, which holds the sandwich, and is sticking out from the open lid.	
+239	False	0	The baseball bat in the image is black. It is visible in the boy's hand as he prepares to hit a baseball that is flying through the air.	
+240	False	0	The cell phone in the image appears to be black in color. It is placed on the desk to the right, away from the cat and the laptop.	
+241	True	0	The backpack in the image is black. It is being carried by one of the skiers who is lying on the ground at the bottom of the slope.	
+242	False	0	The truck in the image is white. It is parked near the edge of the field, close to the fence that separates the field from the parking area.	
+243	False	0	The vase in the image is blue. It is placed on the table near the camera, adding a pop of color to the overall decor of the room.	
+244	False	0	The bottle in the image is white. It is situated on the counter near the sink, contributing to the overall cleanliness and orderliness in the kitchen setting.	
+245	False	1	The color of the couch in the image cannot be determined due to the lack of visible details in the background. The couch is not visible in the image.	
+246	False	0	The backpack in the image appears to be of a solid, dark color, which contrasts with the lighter tones of the rainy environment and the person's attire.	
+247	False	0	The book in the image is white. It appears to be a hardcover book, but the specific contents of the book are not visible in the image.	
+248	True	0	The dining table in the image is black, which provides a stark contrast to the vibrant attire of the individuals and the colorful decorations on the heart-shaped cake.	
+249	False	1	I'm sorry, there is no bird visible in the image. The scene primarily features a person riding a motorcycle and a black minivan on a street.	

@@ -1,0 +1,50 @@
+{
+  "n_true": 100,
+  "n_false": 100,
+  "C0": {
+    "acc_true(yes)": 0.96,
+    "acc_false(no)": 0.67,
+    "acc_all": 0.815,
+    "yes_ratio": 0.645,
+    "unclear": 0
+  },
+  "n_knows": 67,
+  "label_dist": {
+    "C1|true": {
+      "ACCEPT": 0.85,
+      "REJECT": 0.12,
+      "MIXED": 0.0,
+      "EVADE": 0.0,
+      "OTHER": 0.03,
+      "n": 100
+    },
+    "C1|false": {
+      "ACCEPT": 0.29,
+      "REJECT": 0.68,
+      "MIXED": 0.0,
+      "EVADE": 0.01,
+      "OTHER": 0.02,
+      "n": 100
+    },
+    "C1|knows": {
+      "ACCEPT": 0.16417910447761194,
+      "REJECT": 0.8208955223880597,
+      "MIXED": 0.0,
+      "EVADE": 0.014925373134328358,
+      "OTHER": 0.0,
+      "n": 67
+    }
+  },
+  "discriminability": {
+    "C1": {
+      "fill_knows": 0.16417910447761194,
+      "fill_or_mixed_knows": 0.16417910447761194,
+      "hit": 0.68,
+      "fa": 0.12,
+      "hit_minus_fa": 0.56,
+      "dprime": 1.6191034709539573
+    }
+  },
+  "mcnemar": {},
+  "step0": {}
+}

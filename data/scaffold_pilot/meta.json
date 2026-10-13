@@ -1,0 +1,108 @@
+{
+  "source": "lmms-lab/POPE default/test",
+  "category": "adversarial",
+  "seed": 0,
+  "n_pairs": 100,
+  "n_items": 200,
+  "n_sanity": 10,
+  "repope_filter": true,
+  "slot_placeholder": "<SLOT>",
+  "conditions": {
+    "C0": {
+      "template": "C0_pope",
+      "k": null,
+      "image": "real"
+    },
+    "C1": {
+      "template": "C1_free",
+      "k": null,
+      "image": "real"
+    },
+    "C2": {
+      "template": "S_scaffold",
+      "k": 1,
+      "image": "real"
+    },
+    "C3": {
+      "template": "S_scaffold",
+      "k": 16,
+      "image": "real"
+    },
+    "C4": {
+      "template": "S_escape",
+      "k": 16,
+      "image": "real"
+    },
+    "C3_blank": {
+      "template": "S_scaffold",
+      "k": 16,
+      "image": "blank"
+    }
+  },
+  "whitelist": [
+    "car",
+    "truck",
+    "bus",
+    "bicycle",
+    "motorcycle",
+    "train",
+    "boat",
+    "airplane",
+    "fire hydrant",
+    "bench",
+    "umbrella",
+    "backpack",
+    "suitcase",
+    "tie",
+    "kite",
+    "frisbee",
+    "surfboard",
+    "skateboard",
+    "bottle",
+    "cup",
+    "vase",
+    "chair",
+    "couch",
+    "bed",
+    "dining table",
+    "laptop",
+    "cell phone",
+    "tv",
+    "clock",
+    "refrigerator",
+    "teddy bear",
+    "toothbrush"
+  ],
+  "per_object_pairs": {
+    "airplane": 1,
+    "backpack": 5,
+    "bed": 4,
+    "bench": 4,
+    "bicycle": 5,
+    "boat": 2,
+    "bottle": 6,
+    "bus": 6,
+    "car": 6,
+    "cell phone": 4,
+    "chair": 5,
+    "couch": 6,
+    "cup": 5,
+    "dining table": 6,
+    "fire hydrant": 1,
+    "frisbee": 3,
+    "kite": 1,
+    "laptop": 3,
+    "motorcycle": 6,
+    "surfboard": 2,
+    "truck": 5,
+    "tv": 5,
+    "umbrella": 3,
+    "vase": 6
+  },
+  "drops": {
+    "not_whitelisted": 1334,
+    "repope_missing(dropped)": 196,
+    "repope_disagree(no)": 66,
+    "repope_disagree(yes)": 19
+  }
+}

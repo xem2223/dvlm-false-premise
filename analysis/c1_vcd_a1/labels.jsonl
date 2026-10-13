@@ -1,0 +1,400 @@
+{"uid": "p000_T", "cond": "C1", "obj": "dining table", "premise_true": true, "label": "ACCEPT", "output_text": "The dining table in the image is brown, which is a common color for wooden tables. It provides a warm and rustic backdrop for the pizza and beer."}
+{"uid": "p000_F", "cond": "C1", "obj": "dining table", "premise_true": false, "label": "ACCEPT", "output_text": "The dining table in the image is black, providing a stark contrast to the vibrant colors of the glassware and the unique design of the mouse-shaped object."}
+{"uid": "p003_T", "cond": "C1", "obj": "vase", "premise_true": true, "label": "ACCEPT", "output_text": "The vase in the image is yellow. It is positioned on the wall near the bathtub, adding a pop of color to the overall aesthetic of the bathroom."}
+{"uid": "p003_F", "cond": "C1", "obj": "vase", "premise_true": false, "label": "REJECT", "output_text": "There is no vase in the image. The image shows a bathroom with a sink, mirror, toilet, and folded towels, but no vase is visible."}
+{"uid": "p006_T", "cond": "C1", "obj": "bed", "premise_true": true, "label": "ACCEPT", "output_text": "The bed in the image is covered with a multicolored quilt featuring a variety of colors such as orange, yellow, green, blue, and red."}
+{"uid": "p006_F", "cond": "C1", "obj": "bed", "premise_true": false, "label": "ACCEPT", "output_text": "The bed in the image is white. It has a clean and crisp appearance, providing a stark contrast to the brown teddy bear sitting comfortably on it."}
+{"uid": "p009_T", "cond": "C1", "obj": "bottle", "premise_true": true, "label": "ACCEPT", "output_text": "The bottle in the image is clear, which is a common color for water bottles. It is positioned to the right side of the pizza on the table."}
+{"uid": "p009_F", "cond": "C1", "obj": "bottle", "premise_true": false, "label": "ACCEPT", "output_text": "The bottle in the image appears to be white with a shiny gold cap, giving it a distinctive appearance that stands out against the darker tones of the room."}
+{"uid": "p012_T", "cond": "C1", "obj": "kite", "premise_true": true, "label": "ACCEPT", "output_text": "The kite in the image is multicolored, featuring hues of red, yellow, green, and blue, which stand out against the clear blue sky."}
+{"uid": "p012_F", "cond": "C1", "obj": "kite", "premise_true": false, "label": "REJECT", "output_text": "There is no kite in the image. The image shows a person carrying a surfboard on a beach, and there is no kite visible in the scene."}
+{"uid": "p015_T", "cond": "C1", "obj": "truck", "premise_true": true, "label": "ACCEPT", "output_text": "The truck in the image is blue. It is visible on the street next to the train tracks, adding to the variety of transportation modes in the scene."}
+{"uid": "p015_F", "cond": "C1", "obj": "truck", "premise_true": false, "label": "REJECT", "output_text": "There is no truck in the image. The image shows a person riding a bicycle on a road, and there is a flock of sheep crossing the road."}
+{"uid": "p018_T", "cond": "C1", "obj": "airplane", "premise_true": true, "label": "ACCEPT", "output_text": "The airplane in the image is predominantly white with a red tail and the logo of Japan Airlines, abbreviated \"JAL,\" prominently displayed on the fuselage."}
+{"uid": "p018_F", "cond": "C1", "obj": "airplane", "premise_true": false, "label": "REJECT", "output_text": "There is no airplane in the image. The image depicts a group of giraffes and zebras standing near a pond, surrounded by lush greenery."}
+{"uid": "p021_T", "cond": "C1", "obj": "bicycle", "premise_true": true, "label": "ACCEPT", "output_text": "The bicycle in the image is black. The person riding the bicycle is wearing a yellow shirt, but this does not affect the overall color of the bicycle."}
+{"uid": "p021_F", "cond": "C1", "obj": "bicycle", "premise_true": false, "label": "ACCEPT", "output_text": "The bicycle in the image is blue in color. This color stands out against the urban backdrop of the street and adds to the overall aesthetic of the scene."}
+{"uid": "p024_T", "cond": "C1", "obj": "dining table", "premise_true": true, "label": "OTHER", "output_text": "The dining table in the image appears to be dark-colored, possibly black or dark brown, which contrasts with the vibrant colors of the pizza and its toppings."}
+{"uid": "p024_F", "cond": "C1", "obj": "dining table", "premise_true": false, "label": "ACCEPT", "output_text": "The dining table in the image is brown. It has a warm, earthy tone that contrasts with the vibrant colors of the fruits and vegetables displayed on it."}
+{"uid": "p027_T", "cond": "C1", "obj": "bench", "premise_true": true, "label": "ACCEPT", "output_text": "The bench in the image is painted in a light shade of blue, which contrasts with the dark attire of the individual and the neutral tones of the surroundings."}
+{"uid": "p027_F", "cond": "C1", "obj": "bench", "premise_true": false, "label": "ACCEPT", "output_text": "The bench in the image is brown. It appears to be made of wood and is positioned on the sidewalk, providing a resting spot for passersby."}
+{"uid": "p030_T", "cond": "C1", "obj": "cup", "premise_true": true, "label": "ACCEPT", "output_text": "The cup in the image is pink. It is placed on the table next to the plate of food which includes a burger and a bucket of French fries."}
+{"uid": "p030_F", "cond": "C1", "obj": "cup", "premise_true": false, "label": "REJECT", "output_text": "There is no cup in the image. However, there is a blue vase with a green flower sitting on the coffee table in the center of the room."}
+{"uid": "p033_T", "cond": "C1", "obj": "couch", "premise_true": true, "label": "ACCEPT", "output_text": "The couch in the image appears to be a shade of brown, which matches well with the warm tones of the flooring and the overall aesthetic of the room."}
+{"uid": "p033_F", "cond": "C1", "obj": "couch", "premise_true": false, "label": "ACCEPT", "output_text": "The couch in the image is brown. It has a warm, inviting hue that complements the surrounding wooden elements, contributing to the overall ambiance of the room."}
+{"uid": "p036_T", "cond": "C1", "obj": "motorcycle", "premise_true": true, "label": "ACCEPT", "output_text": "The motorcycle in the image is predominantly black in color. This can be determined by observing the visible details on the motorcycle and the overall appearance of the vehicle."}
+{"uid": "p036_F", "cond": "C1", "obj": "motorcycle", "premise_true": false, "label": "REJECT", "output_text": "There is no motorcycle visible in the image. The image shows a street scene with a ice cream truck, traffic cones, and people walking on the sidewalk."}
+{"uid": "p039_T", "cond": "C1", "obj": "laptop", "premise_true": true, "label": "ACCEPT", "output_text": "The laptop in the image is white. It is placed on a couch next to a bowl of noodles and a copy of the \"Hellsing\" manga."}
+{"uid": "p039_F", "cond": "C1", "obj": "laptop", "premise_true": false, "label": "REJECT", "output_text": "There is no laptop in the image. The image shows a pizza on a wooden board, a bottle of wine, and some glasses on an outdoor table."}
+{"uid": "p042_T", "cond": "C1", "obj": "bicycle", "premise_true": true, "label": "ACCEPT", "output_text": "The bicycle in the image is black. It's a road bike, which is characterized by its thin tires and is designed for high speed on paved surfaces."}
+{"uid": "p042_F", "cond": "C1", "obj": "bicycle", "premise_true": false, "label": "REJECT", "output_text": "There is no bicycle in the image. The image shows a man wearing a black jacket and a plaid shirt, holding a helmet and pushing a stroller."}
+{"uid": "p045_T", "cond": "C1", "obj": "dining table", "premise_true": true, "label": "ACCEPT", "output_text": "The dining table in the image is red. It's a vibrant color that contrasts with the warm tones of the pizza and the neutral color of the plate."}
+{"uid": "p045_F", "cond": "C1", "obj": "dining table", "premise_true": false, "label": "ACCEPT", "output_text": "The dining table in the image is brown. It is located in the center of the room and appears to be a key piece of furniture in the space."}
+{"uid": "p048_T", "cond": "C1", "obj": "bench", "premise_true": true, "label": "ACCEPT", "output_text": "The bench in the image is brown. It appears to be made of wood and is situated in front of the doughnut shop where three people are sitting."}
+{"uid": "p048_F", "cond": "C1", "obj": "bench", "premise_true": false, "label": "ACCEPT", "output_text": "The bench in the image is brown. It's a simple wooden bench with a flat backrest design, positioned at the top of the skateboarding ramp."}
+{"uid": "p051_T", "cond": "C1", "obj": "cup", "premise_true": true, "label": "ACCEPT", "output_text": "The cup in the image is white. It is positioned on a table with a basket of croissants and a cup of coffee with foam on top."}
+{"uid": "p051_F", "cond": "C1", "obj": "cup", "premise_true": false, "label": "ACCEPT", "output_text": "The cup in the image is blue. It is placed on the table among the children, which is covered with blue plates and filled with slices of pizza."}
+{"uid": "p054_T", "cond": "C1", "obj": "couch", "premise_true": true, "label": "ACCEPT", "output_text": "The couch in the image is beige. It's a warm, neutral color that contrasts nicely with the black cat and the other colorful elements in the scene."}
+{"uid": "p054_F", "cond": "C1", "obj": "couch", "premise_true": false, "label": "ACCEPT", "output_text": "The couch in the image is pink. It adds a warm and cozy touch to the interior of the room, contributing to the overall ambiance of the scene."}
+{"uid": "p057_T", "cond": "C1", "obj": "motorcycle", "premise_true": true, "label": "ACCEPT", "output_text": "The motorcycle in the image is blue. It is driven by a man wearing a white shirt and is positioned in front of the green bus on the road."}
+{"uid": "p057_F", "cond": "C1", "obj": "motorcycle", "premise_true": false, "label": "REJECT", "output_text": "There is no motorcycle visible in the image. The image shows a city street with tall buildings and a clock tower, but it does not include any motorcycles."}
+{"uid": "p060_T", "cond": "C1", "obj": "laptop", "premise_true": true, "label": "ACCEPT", "output_text": "The laptop in the image is black. It is placed on a table in the background, while the man and child are engaged in playing a video game."}
+{"uid": "p060_F", "cond": "C1", "obj": "laptop", "premise_true": false, "label": "ACCEPT", "output_text": "The laptop in the image is white. It is placed on top of a coffee mug, a stapler, and a pack of batteries on a desk."}
+{"uid": "p063_T", "cond": "C1", "obj": "tv", "premise_true": true, "label": "ACCEPT", "output_text": "The TV in the image is blue. It is located in the background, slightly to the right of the center, and behind the woman in the foreground."}
+{"uid": "p063_F", "cond": "C1", "obj": "tv", "premise_true": false, "label": "REJECT", "output_text": "There is no television visible in the image. The image shows a modern living space with a dining area, living room, and a view of the backyard."}
+{"uid": "p066_T", "cond": "C1", "obj": "bench", "premise_true": true, "label": "ACCEPT", "output_text": "The bench in the image is black. It appears to be a standard metal bench with a wooden seat, providing a comfortable resting place for the two men."}
+{"uid": "p066_F", "cond": "C1", "obj": "bench", "premise_true": false, "label": "ACCEPT", "output_text": "The bench in the image is blue. It is located towards the right of the image, adjacent to the area where the catcher and umpire are positioned."}
+{"uid": "p069_T", "cond": "C1", "obj": "cup", "premise_true": true, "label": "REJECT", "output_text": "There is no cup in the image, so I cannot determine its color. The image shows a group of people, including children, posing for a photo."}
+{"uid": "p069_F", "cond": "C1", "obj": "cup", "premise_true": false, "label": "REJECT", "output_text": "There is no cup in the image. The image shows a person holding a bunch of bananas and several bowls filled with bananas, but no cup is visible."}
+{"uid": "p072_T", "cond": "C1", "obj": "bus", "premise_true": true, "label": "ACCEPT", "output_text": "The bus in the image is white. It is a vintage model, likely from the 1960s or 1970s."}
+{"uid": "p072_F", "cond": "C1", "obj": "bus", "premise_true": false, "label": "REJECT", "output_text": "There is no bus in the image. The image shows a red Honda motorcycle parked on the side of the road with a silver car visible in the background."}
+{"uid": "p075_T", "cond": "C1", "obj": "truck", "premise_true": true, "label": "ACCEPT", "output_text": "The truck in the image is black. It is parked on the road behind the woman and child who are holding an umbrella to protect themselves from the rain."}
+{"uid": "p075_F", "cond": "C1", "obj": "truck", "premise_true": false, "label": "ACCEPT", "output_text": "The truck in the image is red. It's a double-decker bus, which is a type of bus with two levels of seating for transporting passengers."}
+{"uid": "p078_T", "cond": "C1", "obj": "bicycle", "premise_true": true, "label": "ACCEPT", "output_text": "The bicycle in the image is blue. The man is riding a blue bicycle on a street, passing by a red car, while talking on the phone."}
+{"uid": "p078_F", "cond": "C1", "obj": "bicycle", "premise_true": false, "label": "REJECT", "output_text": "There is no bicycle in the image. The image shows a yellow and green trolley car on a street with traffic lights and a bank building in the background."}
+{"uid": "p081_T", "cond": "C1", "obj": "vase", "premise_true": true, "label": "ACCEPT", "output_text": "The vase in the image is green. It appears to be made from a glass bottle, which is a common material for decorative and eco-friendly vases."}
+{"uid": "p081_F", "cond": "C1", "obj": "vase", "premise_true": false, "label": "REJECT", "output_text": "There is no vase in the image. The image shows a group of people playing a video game in a living room with a television and a bookcase."}
+{"uid": "p084_T", "cond": "C1", "obj": "bottle", "premise_true": true, "label": "ACCEPT", "output_text": "The bottle in the image is clear, which is a common color for glass bottles used for storing liquids, such as water, juice, or other beverages."}
+{"uid": "p084_F", "cond": "C1", "obj": "bottle", "premise_true": false, "label": "REJECT", "output_text": "There is no bottle in the image. The image shows a pot of soup with various vegetables and ingredients, and there is no bottle visible in the scene."}
+{"uid": "p087_T", "cond": "C1", "obj": "motorcycle", "premise_true": true, "label": "ACCEPT", "output_text": "The motorcycle in the image is black. It is positioned on the road behind the red bus, closer to the sidewalk on the right side of the image."}
+{"uid": "p087_F", "cond": "C1", "obj": "motorcycle", "premise_true": false, "label": "OTHER", "output_text": "Upon examining the image, the motorcycle appears to be red. It is parked on the sidewalk near the bus, which is adorned with a colorful iPod advertisement."}
+{"uid": "p090_T", "cond": "C1", "obj": "chair", "premise_true": true, "label": "REJECT", "output_text": "There is no chair in the image. The image shows a person skateboarding on a street with a blue tent and a purple inflatable structure in the background."}
+{"uid": "p090_F", "cond": "C1", "obj": "chair", "premise_true": false, "label": "ACCEPT", "output_text": "The chair in the image is blue. It's a vibrant color that complements the white plate on the table, contributing to the overall aesthetic of the scene."}
+{"uid": "p093_T", "cond": "C1", "obj": "dining table", "premise_true": true, "label": "ACCEPT", "output_text": "The dining table in the image is covered with a green and white tablecloth, which adds a vibrant and fresh touch to the overall presentation of the meal."}
+{"uid": "p093_F", "cond": "C1", "obj": "dining table", "premise_true": false, "label": "EVADE", "output_text": "I'm sorry, but I cannot determine the color of the dining table from the image as it depicts a street scene with no mention of a dining table."}
+{"uid": "p096_T", "cond": "C1", "obj": "bottle", "premise_true": true, "label": "ACCEPT", "output_text": "The bottle in the image is blue. It is visible in the pink bag held by the person in the center, who is holding a frisbee."}
+{"uid": "p096_F", "cond": "C1", "obj": "bottle", "premise_true": false, "label": "ACCEPT", "output_text": "The bottle in the image is red. The child is holding the bottle up to their face, and it appears to be a clear, red plastic bottle."}
+{"uid": "p099_T", "cond": "C1", "obj": "motorcycle", "premise_true": true, "label": "ACCEPT", "output_text": "The motorcycle in the image is predominantly black with chrome accents, which is a common color scheme for many high-performance motorcycles due to its durability and aesthetic appeal."}
+{"uid": "p099_F", "cond": "C1", "obj": "motorcycle", "premise_true": false, "label": "REJECT", "output_text": "There is no motorcycle in the image. The image shows a man throwing a frisbee at a tree stump with a playground and trees in the background."}
+{"uid": "p001_T", "cond": "C1", "obj": "umbrella", "premise_true": true, "label": "ACCEPT", "output_text": "The umbrella in the image is blue. It is located in the background, slightly to the left of the center, providing a colorful contrast to the scene."}
+{"uid": "p001_F", "cond": "C1", "obj": "umbrella", "premise_true": false, "label": "REJECT", "output_text": "There is no umbrella in the image. The image shows a person windsurfing on the ocean with a colorful kite and a rocky island in the background."}
+{"uid": "p004_T", "cond": "C1", "obj": "bench", "premise_true": true, "label": "ACCEPT", "output_text": "The bench in the image is red. It's a vibrant color that contrasts with the green ground and the blue uniforms of the baseball players in the scene."}
+{"uid": "p004_F", "cond": "C1", "obj": "bench", "premise_true": false, "label": "ACCEPT", "output_text": "The bench in the image is blue. It is situated in the background, providing seating for spectators or for players to take a break during the tennis match."}
+{"uid": "p007_T", "cond": "C1", "obj": "cup", "premise_true": true, "label": "ACCEPT", "output_text": "The cup in the image is white. It is visible on the shelf in the background, and its color stands out against the other items in the room."}
+{"uid": "p007_F", "cond": "C1", "obj": "cup", "premise_true": false, "label": "REJECT", "output_text": "There is no cup in the image. The image shows a sandwich with lettuce, carrots, and sprouts, and a toothpick is inserted into the sandwich."}
+{"uid": "p010_T", "cond": "C1", "obj": "couch", "premise_true": true, "label": "ACCEPT", "output_text": "The couch in the image is white. It's a classic, unadorned piece that fits well with the neutral color scheme of the living room."}
+{"uid": "p010_F", "cond": "C1", "obj": "couch", "premise_true": false, "label": "ACCEPT", "output_text": "The couch in the image is black. It appears to be a comfortable piece of furniture with a modern design, contributing to the overall ambiance of the room."}
+{"uid": "p013_T", "cond": "C1", "obj": "cell phone", "premise_true": true, "label": "REJECT", "output_text": "There is no cell phone visible in the image. The image is of a white bus with the number 41 and the destination Crosstown on it."}
+{"uid": "p013_F", "cond": "C1", "obj": "cell phone", "premise_true": false, "label": "REJECT", "output_text": "There is no cell phone visible in the image. The image shows a computer setup with a monitor, keyboard, mouse, and speakers on a wooden desk."}
+{"uid": "p016_T", "cond": "C1", "obj": "backpack", "premise_true": true, "label": "ACCEPT", "output_text": "The backpack in the image is orange. It is located on the left side of the image, close to the person who is selling peanuts at the fair."}
+{"uid": "p016_F", "cond": "C1", "obj": "backpack", "premise_true": false, "label": "ACCEPT", "output_text": "The backpack in the image is black. It is lying on the snow next to a snowboard, suggesting it may have been left behind by its owner."}
+{"uid": "p019_T", "cond": "C1", "obj": "surfboard", "premise_true": true, "label": "ACCEPT", "output_text": "The surfboard in the image is black. The person is balancing on the surfboard while being pulled by a rope, creating a wake in the water."}
+{"uid": "p019_F", "cond": "C1", "obj": "surfboard", "premise_true": false, "label": "ACCEPT", "output_text": "The surfboard in the image is blue. It is lying on the sandy beach, close to the water, ready for its owner to ride the waves."}
+{"uid": "p022_T", "cond": "C1", "obj": "tv", "premise_true": true, "label": "ACCEPT", "output_text": "The television in the image is black. It is positioned on a stand to the right of the room, blending in with the overall decor of the space."}
+{"uid": "p022_F", "cond": "C1", "obj": "tv", "premise_true": false, "label": "ACCEPT", "output_text": "The television in the image is silver in color. It is placed on the wooden table in the background, next to the plate of food and the laptop."}
+{"uid": "p025_T", "cond": "C1", "obj": "umbrella", "premise_true": true, "label": "ACCEPT", "output_text": "The umbrella in the image is yellow. It is situated on the beach, providing shade for the person holding the surfboard and the person in the water."}
+{"uid": "p025_F", "cond": "C1", "obj": "umbrella", "premise_true": false, "label": "ACCEPT", "output_text": "The umbrella in the image is red. It is being used by a person kitesurfing in the ocean, with a large mountain in the background."}
+{"uid": "p028_T", "cond": "C1", "obj": "car", "premise_true": true, "label": "ACCEPT", "output_text": "The car in the image is black. It's a classic model with a wooden barrel in its truck bed, likely at a vintage or classic car show."}
+{"uid": "p028_F", "cond": "C1", "obj": "car", "premise_true": false, "label": "REJECT", "output_text": "There is no car visible in the image. The scene is indoors, likely a classroom or conference room, where people are seated and working on their laptops."}
+{"uid": "p031_T", "cond": "C1", "obj": "frisbee", "premise_true": true, "label": "ACCEPT", "output_text": "The frisbee in the image is white. It appears to be a standard white frisbee, commonly used for playing games like fetch with dogs."}
+{"uid": "p031_F", "cond": "C1", "obj": "frisbee", "premise_true": false, "label": "REJECT", "output_text": "There is no frisbee in the image. The image shows a person taking a selfie with a dog while looking into the side mirror of a car."}
+{"uid": "p034_T", "cond": "C1", "obj": "bus", "premise_true": true, "label": "ACCEPT", "output_text": "The bus in the image is primarily white with green accents. The green accents are particularly visible on the roof, sides, and front bumper of the bus."}
+{"uid": "p034_F", "cond": "C1", "obj": "bus", "premise_true": false, "label": "REJECT", "output_text": "There is no bus in the image. The image shows a person walking with a German Shepherd dog on a leash on a sidewalk with mountains in the background."}
+{"uid": "p037_T", "cond": "C1", "obj": "truck", "premise_true": true, "label": "ACCEPT", "output_text": "The truck in the image is white. It is visible on the road in the background, adjacent to the \"No Left Turn\" sign in the foreground."}
+{"uid": "p037_F", "cond": "C1", "obj": "truck", "premise_true": false, "label": "ACCEPT", "output_text": "The truck in the image is white. It is parked near the edge of the parking lot, adjacent to the group of motorcycles that are parked closely together."}
+{"uid": "p040_T", "cond": "C1", "obj": "surfboard", "premise_true": true, "label": "ACCEPT", "output_text": "The surfboard in the image is yellow. It is being held by the woman in the bikini while playing with the black and white dog in the water."}
+{"uid": "p040_F", "cond": "C1", "obj": "surfboard", "premise_true": false, "label": "ACCEPT", "output_text": "The surfboard in the image is green. It's positioned on the snow, next to a person who appears to be taking a break from snowboarding."}
+{"uid": "p043_T", "cond": "C1", "obj": "tv", "premise_true": true, "label": "ACCEPT", "output_text": "The television in the image is black. It is placed on a table with a cat sitting on top of it, watching the content displayed on the screen."}
+{"uid": "p043_F", "cond": "C1", "obj": "tv", "premise_true": false, "label": "REJECT", "output_text": "There is no television visible in the image, so we cannot determine its color. The focus is on the person playing a video game in the living room."}
+{"uid": "p046_T", "cond": "C1", "obj": "umbrella", "premise_true": true, "label": "ACCEPT", "output_text": "The umbrella in the image is blue. It is being held by a person walking on a sidewalk beside a river, likely to protect themselves from the rain."}
+{"uid": "p046_F", "cond": "C1", "obj": "umbrella", "premise_true": false, "label": "REJECT", "output_text": "There is no umbrella in the image. The image shows colorful kites in the sky, and there is no indication of an umbrella present in the scene."}
+{"uid": "p049_T", "cond": "C1", "obj": "car", "premise_true": true, "label": "ACCEPT", "output_text": "The car in the image is white. It is parked on the snow-covered ground in front of the church, adding to the winter atmosphere of the scene."}
+{"uid": "p049_F", "cond": "C1", "obj": "car", "premise_true": false, "label": "REJECT", "output_text": "There is no car visible in the image. The image shows a person preparing a pizza in a kitchen with a window and a kitchen appliance in the background."}
+{"uid": "p052_T", "cond": "C1", "obj": "frisbee", "premise_true": true, "label": "ACCEPT", "output_text": "The frisbee in the image is orange. It is being held by one of the individuals standing next to each other near a serene body of water."}
+{"uid": "p052_F", "cond": "C1", "obj": "frisbee", "premise_true": false, "label": "REJECT", "output_text": "There is no frisbee in the image. The image shows a vintage fire engine with a driver and a dog sitting on the back of the truck."}
+{"uid": "p055_T", "cond": "C1", "obj": "bus", "premise_true": true, "label": "ACCEPT", "output_text": "The bus in the image is blue and white. It appears to be a typical public transportation bus, with the route number and destination displayed on the front."}
+{"uid": "p055_F", "cond": "C1", "obj": "bus", "premise_true": false, "label": "REJECT", "output_text": "There is no bus in the image. The image shows a dashboard of a car with a view of a group of people riding oxen on the road."}
+{"uid": "p058_T", "cond": "C1", "obj": "truck", "premise_true": true, "label": "ACCEPT", "output_text": "The truck in the image is white. It is parked on the left side of the image, adjacent to the Harley-Davidson dealership in the background."}
+{"uid": "p058_F", "cond": "C1", "obj": "truck", "premise_true": false, "label": "REJECT", "output_text": "There is no truck in the image. The image shows a person sitting on a motorcycle in a forested area, with no vehicles visible in the scene."}
+{"uid": "p061_T", "cond": "C1", "obj": "chair", "premise_true": true, "label": "ACCEPT", "output_text": "The chair in the image is bright red. It has a high backrest and armrests, and it appears to be a modern swivel office chair."}
+{"uid": "p061_F", "cond": "C1", "obj": "chair", "premise_true": false, "label": "REJECT", "output_text": "There is no chair in the image. The scene depicts a woman and two children playing tennis on a court, and no chairs are visible in the frame."}
+{"uid": "p064_T", "cond": "C1", "obj": "dining table", "premise_true": true, "label": "ACCEPT", "output_text": "The dining table in the image is black. It provides a stark contrast to the vibrant colors of the cake and the attire of the individuals gathered around it."}
+{"uid": "p064_F", "cond": "C1", "obj": "dining table", "premise_true": false, "label": "ACCEPT", "output_text": "The dining table in the image is brown. It appears to be a wooden dining table, which is a common choice due to its durability and aesthetic appeal."}
+{"uid": "p067_T", "cond": "C1", "obj": "car", "premise_true": true, "label": "REJECT", "output_text": "There is no car in the image. The image shows a vintage steam locomotive with the number 71 on the front, illuminated by string lights."}
+{"uid": "p067_F", "cond": "C1", "obj": "car", "premise_true": false, "label": "REJECT", "output_text": "There is no car in the image. The image shows a person holding a partially peeled banana and another person walking on a path surrounded by lush green foliage."}
+{"uid": "p070_T", "cond": "C1", "obj": "bottle", "premise_true": true, "label": "ACCEPT", "output_text": "The bottle in the image is white. It is located on the left side of the image, next to the cup and other items on the kitchen counter."}
+{"uid": "p070_F", "cond": "C1", "obj": "bottle", "premise_true": false, "label": "REJECT", "output_text": "There is no bottle in the image. The image shows a produce stand with a variety of fruits and vegetables, but no bottles are visible in the scene."}
+{"uid": "p073_T", "cond": "C1", "obj": "cell phone", "premise_true": true, "label": "ACCEPT", "output_text": "The cell phone in the image is black. The woman is holding the phone up to the camera, and the screen is illuminated, highlighting its black color."}
+{"uid": "p073_F", "cond": "C1", "obj": "cell phone", "premise_true": false, "label": "ACCEPT", "output_text": "The cell phone in the image is black. It is located on the desk to the right of the monitor, closer to the right edge of the image."}
+{"uid": "p076_T", "cond": "C1", "obj": "backpack", "premise_true": true, "label": "ACCEPT", "output_text": "The backpack in the image is black. It's resting on the snow, contrasting with the white and the colorful attire of the other individuals in the scene."}
+{"uid": "p076_F", "cond": "C1", "obj": "backpack", "premise_true": false, "label": "ACCEPT", "output_text": "The backpack in the image is predominantly orange with a black and white zebra stripe pattern. It's a bold and vibrant design that stands out against the background."}
+{"uid": "p079_T", "cond": "C1", "obj": "tv", "premise_true": true, "label": "ACCEPT", "output_text": "The TV in the image is black. It is mounted on the wall above the mirror and is displaying a colorful image, possibly a game or a show."}
+{"uid": "p079_F", "cond": "C1", "obj": "tv", "premise_true": false, "label": "ACCEPT", "output_text": "The television in the image is black. It is positioned on a stand against the wall, providing a stark contrast to the lighter-colored furniture in the room."}
+{"uid": "p082_T", "cond": "C1", "obj": "car", "premise_true": true, "label": "REJECT", "output_text": "There is no car in the image, so I cannot provide a color for it. The image shows two skateboarders performing stunts at a skate park."}
+{"uid": "p082_F", "cond": "C1", "obj": "car", "premise_true": false, "label": "REJECT", "output_text": "There is no car in the image, so I cannot determine its color. The image shows a close-up view of a person typing on a computer keyboard."}
+{"uid": "p085_T", "cond": "C1", "obj": "couch", "premise_true": true, "label": "ACCEPT", "output_text": "The couch in the image is a light shade of cream or beige. It has a soft, neutral tone that complements the overall color scheme of the room."}
+{"uid": "p085_F", "cond": "C1", "obj": "couch", "premise_true": false, "label": "ACCEPT", "output_text": "The couch in the image is black. It's a sleek, modern piece of furniture that fits well with the overall design and color scheme of the room."}
+{"uid": "p088_T", "cond": "C1", "obj": "truck", "premise_true": true, "label": "ACCEPT", "output_text": "The truck in the image is black. It is parked in front of the school building, and its color stands out against the lighter tones of the surroundings."}
+{"uid": "p088_F", "cond": "C1", "obj": "truck", "premise_true": false, "label": "ACCEPT", "output_text": "The truck in the image is white. It is parked on the side of the road in the background, observing the baseball game taking place on the field."}
+{"uid": "p091_T", "cond": "C1", "obj": "bicycle", "premise_true": true, "label": "REJECT", "output_text": "Upon reviewing the image, there is no bicycle present. The scene depicts a street corner with a bowling alley, traffic lights, and a pedestrian crossing signal."}
+{"uid": "p091_F", "cond": "C1", "obj": "bicycle", "premise_true": false, "label": "REJECT", "output_text": "There is no bicycle in the image. The image depicts a rodeo event with a bull rider riding a bucking bull, but no bicycle is present."}
+{"uid": "p094_T", "cond": "C1", "obj": "vase", "premise_true": true, "label": "ACCEPT", "output_text": "The vase in the image is predominantly green, with a hint of blue in the hair of the figure and the decorative patterns on the body of the vase."}
+{"uid": "p094_F", "cond": "C1", "obj": "vase", "premise_true": false, "label": "REJECT", "output_text": "There is no vase in the image, so I cannot determine its color. The image shows a bathroom with a toilet, sink, mirror, and door."}
+{"uid": "p097_T", "cond": "C1", "obj": "couch", "premise_true": true, "label": "ACCEPT", "output_text": "The couch in the image is yellow. It's a vibrant piece of furniture that stands out in the background, contributing to the overall ambiance of the room."}
+{"uid": "p097_F", "cond": "C1", "obj": "couch", "premise_true": false, "label": "ACCEPT", "output_text": "The couch in the image is brown. It appears to be a comfortable piece of furniture with a classic design, contributing to the overall ambiance of the room."}
+{"uid": "p002_T", "cond": "C1", "obj": "fire hydrant", "premise_true": true, "label": "ACCEPT", "output_text": "The fire hydrant in the image is red. It stands out against the white snow, making it easily noticeable amidst the monochrome backdrop of the scene."}
+{"uid": "p002_F", "cond": "C1", "obj": "fire hydrant", "premise_true": false, "label": "ACCEPT", "output_text": "The fire hydrant in the image is white. It is located on the right side of the street, close to the traffic lights and the stop sign."}
+{"uid": "p005_T", "cond": "C1", "obj": "car", "premise_true": true, "label": "ACCEPT", "output_text": "The car in the image is white. It is parked on the street near the bottom of the image, with red buses and other vehicles in the background."}
+{"uid": "p005_F", "cond": "C1", "obj": "car", "premise_true": false, "label": "REJECT", "output_text": "There is no car visible in the image. The image shows a person dining at a restaurant, enjoying a meal and beer, and focused on their phone."}
+{"uid": "p008_T", "cond": "C1", "obj": "frisbee", "premise_true": true, "label": "ACCEPT", "output_text": "The frisbee in the image is red. It's a bright, eye-catching color that stands out against the green grass and the dog's coat."}
+{"uid": "p008_F", "cond": "C1", "obj": "frisbee", "premise_true": false, "label": "REJECT", "output_text": "There is no frisbee in the image. The image shows two men and a dog riding in a horse-drawn carriage on a forested path."}
+{"uid": "p011_T", "cond": "C1", "obj": "bus", "premise_true": true, "label": "ACCEPT", "output_text": "The bus in the image is primarily yellow with a white front and sides. It has a classic design with the route number and destination displayed on the front."}
+{"uid": "p011_F", "cond": "C1", "obj": "bus", "premise_true": false, "label": "REJECT", "output_text": "There is no bus visible in the image. The scene depicts a street intersection with traffic lights and various vehicles, but no bus is present in the frame."}
+{"uid": "p014_T", "cond": "C1", "obj": "motorcycle", "premise_true": true, "label": "ACCEPT", "output_text": "The motorcycle in the image is predominantly black with chrome accents, which include the headlight, exhaust pipes, and some parts of the engine and handlebars."}
+{"uid": "p014_F", "cond": "C1", "obj": "motorcycle", "premise_true": false, "label": "REJECT", "output_text": "There is no motorcycle in the image. The image shows a red double-decker bus parked on a street, and there are no motorcycles visible in it."}
+{"uid": "p017_T", "cond": "C1", "obj": "laptop", "premise_true": true, "label": "ACCEPT", "output_text": "The laptop in the image is white. It is positioned on the desk, with its screen displaying some content, which could be a document or a webpage."}
+{"uid": "p017_F", "cond": "C1", "obj": "laptop", "premise_true": false, "label": "ACCEPT", "output_text": "The laptop in the image is black. It's placed on the table near the cake, and its dark color contrasts with the lighter tones of the scene."}
+{"uid": "p020_T", "cond": "C1", "obj": "chair", "premise_true": true, "label": "ACCEPT", "output_text": "The chair in the image is brown. It is situated on a deck that overlooks a serene grassy area, with a body of water visible in the background."}
+{"uid": "p020_F", "cond": "C1", "obj": "chair", "premise_true": false, "label": "ACCEPT", "output_text": "The chair in the image is black. It's a sleek, modern design with a high backrest and armrest, perfect for reading or lounging."}
+{"uid": "p023_T", "cond": "C1", "obj": "boat", "premise_true": true, "label": "ACCEPT", "output_text": "The boat in the image is red. It has a vibrant red color that stands out against the natural hues of the water and the greenery in the background."}
+{"uid": "p023_F", "cond": "C1", "obj": "boat", "premise_true": false, "label": "REJECT", "output_text": "I'm sorry, but I cannot determine the color of the boat from the image provided, as there is no visible boat or water present in the scene."}
+{"uid": "p026_T", "cond": "C1", "obj": "vase", "premise_true": true, "label": "ACCEPT", "output_text": "The vase in the image is green. It has a smooth, glossy surface and is placed on a wooden table, holding a small bouquet of white roses."}
+{"uid": "p026_F", "cond": "C1", "obj": "vase", "premise_true": false, "label": "ACCEPT", "output_text": "The vase in the image is white. It is placed on the table, adding a touch of elegance and lightness to the overall aesthetic of the room."}
+{"uid": "p029_T", "cond": "C1", "obj": "bed", "premise_true": true, "label": "ACCEPT", "output_text": "The bed in the image is white with a wooden frame and headboard. It's a clean and neutral color that complements the overall color scheme of the room."}
+{"uid": "p029_F", "cond": "C1", "obj": "bed", "premise_true": false, "label": "ACCEPT", "output_text": "The bed in the image is white. It has a clean and bright appearance, which contrasts with the more varied colors of the other objects in the room."}
+{"uid": "p032_T", "cond": "C1", "obj": "bottle", "premise_true": true, "label": "ACCEPT", "output_text": "The bottle in the image is white. It is situated on the counter near the pizzas, which are topped with cheese, tomato sauce, and other ingredients."}
+{"uid": "p032_F", "cond": "C1", "obj": "bottle", "premise_true": false, "label": "ACCEPT", "output_text": "The bottle in the image is purple. It is placed on the table next to the three-tiered wedding cake, which is adorned with a blue ribbon."}
+{"uid": "p035_T", "cond": "C1", "obj": "cell phone", "premise_true": true, "label": "ACCEPT", "output_text": "The cell phone in the image is black. The child is holding the phone to their ear, suggesting they are either having a conversation or examining the device."}
+{"uid": "p035_F", "cond": "C1", "obj": "cell phone", "premise_true": false, "label": "ACCEPT", "output_text": "The cell phone in the image is black. It is positioned on the desk to the right of the cat, closer to the right edge of the image."}
+{"uid": "p038_T", "cond": "C1", "obj": "backpack", "premise_true": true, "label": "ACCEPT", "output_text": "The backpack in the image is black. It is being carried by a person who appears to be attending to the skier who has fallen on the snow."}
+{"uid": "p038_F", "cond": "C1", "obj": "backpack", "premise_true": false, "label": "REJECT", "output_text": "There is no backpack in the image. The image shows a white airplane being refueled by a truck on a tarmac with mountains in the background."}
+{"uid": "p041_T", "cond": "C1", "obj": "chair", "premise_true": true, "label": "ACCEPT", "output_text": "The chair in the image is blue. It's a simple, modern chair with a bright, calming color that complements the overall color scheme of the room."}
+{"uid": "p041_F", "cond": "C1", "obj": "chair", "premise_true": false, "label": "REJECT", "output_text": "There is no chair in the image, so it's not possible to determine its color. The image shows two elephants in an outdoor area surrounded by trees."}
+{"uid": "p044_T", "cond": "C1", "obj": "boat", "premise_true": true, "label": "ACCEPT", "output_text": "The boat in the image is white. It is visible on the water in the background, adding to the overall ambiance of the tranquil scene by the waterfront."}
+{"uid": "p044_F", "cond": "C1", "obj": "boat", "premise_true": false, "label": "REJECT", "output_text": "There is no boat in the image. The image shows a person riding a bicycle with a large number of chickens attached to the back on a busy street."}
+{"uid": "p047_T", "cond": "C1", "obj": "vase", "premise_true": true, "label": "ACCEPT", "output_text": "The vase in the image is clear, suggesting it is made of glass, and is adorned with a purple ribbon that adds a touch of color to it."}
+{"uid": "p047_F", "cond": "C1", "obj": "vase", "premise_true": false, "label": "ACCEPT", "output_text": "The vase in the image is white. It is placed on the counter next to the toilet in the bathroom, complementing the overall aesthetic of the room."}
+{"uid": "p050_T", "cond": "C1", "obj": "bed", "premise_true": true, "label": "ACCEPT", "output_text": "The bed in the image is blue with a white blanket. It's part of a train compartment, which is designed to provide a comfortable space for travelers."}
+{"uid": "p050_F", "cond": "C1", "obj": "bed", "premise_true": false, "label": "ACCEPT", "output_text": "The bed in the image is blue in color. It has a modern design and is positioned against the wall, contributing to the overall ambiance of the room."}
+{"uid": "p053_T", "cond": "C1", "obj": "bottle", "premise_true": true, "label": "ACCEPT", "output_text": "The bottle in the image is blue. It is located on the left side of the image, near the center, on the top shelf of the cabinet."}
+{"uid": "p053_F", "cond": "C1", "obj": "bottle", "premise_true": false, "label": "REJECT", "output_text": "There is no bottle in the image. The image shows a commercial kitchen with stainless steel appliances and utensils, but there are no bottles visible in the scene."}
+{"uid": "p056_T", "cond": "C1", "obj": "cell phone", "premise_true": true, "label": "ACCEPT", "output_text": "The cell phone in the image is white. The man is holding the phone up to the mirror, and the reflection of the phone shows its white color."}
+{"uid": "p056_F", "cond": "C1", "obj": "cell phone", "premise_true": false, "label": "ACCEPT", "output_text": "The cell phone in the image is black. It is placed on the desk to the left of the laptop, closer to the left side of the image."}
+{"uid": "p059_T", "cond": "C1", "obj": "backpack", "premise_true": true, "label": "ACCEPT", "output_text": "The backpack in the image is black. It is hanging on the wall in the background, complementing the overall theme of the black cat in the foreground."}
+{"uid": "p059_F", "cond": "C1", "obj": "backpack", "premise_true": false, "label": "ACCEPT", "output_text": "The backpack in the image is black. It is being carried by one of the individuals in the boat, partially visible on the right side of the image."}
+{"uid": "p062_T", "cond": "C1", "obj": "bicycle", "premise_true": true, "label": "ACCEPT", "output_text": "The bicycle in the image is red. It's a vibrant color that stands out against the muted tones of the street and the blurred figures in the background."}
+{"uid": "p062_F", "cond": "C1", "obj": "bicycle", "premise_true": false, "label": "ACCEPT", "output_text": "The bicycle in the image appears to be red, although it is not certain due to the motion blur of the camera and the low resolution of the image."}
+{"uid": "p065_T", "cond": "C1", "obj": "vase", "premise_true": true, "label": "ACCEPT", "output_text": "The vase in the image is a rustic brown color, which is characteristic of terracotta pottery, often used in decor for its natural and earthy aesthetic."}
+{"uid": "p065_F", "cond": "C1", "obj": "vase", "premise_true": false, "label": "ACCEPT", "output_text": "The vase in the image is blue. It is placed on the table near the people, adding a pop of color to the overall decor of the room."}
+{"uid": "p068_T", "cond": "C1", "obj": "bed", "premise_true": true, "label": "ACCEPT", "output_text": "The bed in the image is covered with a white sheet and a blue mattress. There is also a green blanket draped over the side of the bed."}
+{"uid": "p068_F", "cond": "C1", "obj": "bed", "premise_true": false, "label": "ACCEPT", "output_text": "The bed in the image appears to be white, which contrasts with the cream color of the teddy bears and the silver and gold tones of their crowns."}
+{"uid": "p071_T", "cond": "C1", "obj": "couch", "premise_true": true, "label": "ACCEPT", "output_text": "The couch in the image is a vibrant shade of green, which contrasts with the warmer tones of the man's shirt and the other elements in the room."}
+{"uid": "p071_F", "cond": "C1", "obj": "couch", "premise_true": false, "label": "ACCEPT", "output_text": "The couch in the image is white. It appears to be a comfortable, plush couch, providing a warm and inviting surface for the cats to rest on."}
+{"uid": "p074_T", "cond": "C1", "obj": "motorcycle", "premise_true": true, "label": "ACCEPT", "output_text": "The motorcycle in the image is silver. It has a sleek design and is being ridden by a man and a child, both wearing helmets on the road."}
+{"uid": "p074_F", "cond": "C1", "obj": "motorcycle", "premise_true": false, "label": "REJECT", "output_text": "There is no motorcycle visible in the image. The image shows a cityscape with a train station, construction sites, and a red bridge in the background."}
+{"uid": "p077_T", "cond": "C1", "obj": "chair", "premise_true": true, "label": "ACCEPT", "output_text": "The chair in the image is white. It is positioned in the background, slightly to the right of the person holding the donut, in the kitchen setting."}
+{"uid": "p077_F", "cond": "C1", "obj": "chair", "premise_true": false, "label": "REJECT", "output_text": "There is no chair in the image, so I cannot determine its color. The image shows a person preparing to hit a tennis ball on a tennis court."}
+{"uid": "p080_T", "cond": "C1", "obj": "dining table", "premise_true": true, "label": "ACCEPT", "output_text": "The dining table in the image is brown. It appears to be a wooden dining table with a warm brown hue that complements the overall aesthetic of the room."}
+{"uid": "p080_F", "cond": "C1", "obj": "dining table", "premise_true": false, "label": "ACCEPT", "output_text": "The dining table in the image is black. It has a sleek and modern appearance, which contrasts with the vibrant colors of the food items displayed on it."}
+{"uid": "p083_T", "cond": "C1", "obj": "cup", "premise_true": true, "label": "ACCEPT", "output_text": "The cup in the image is white. It is positioned to the right of the can of cocoa powder and appears to be used for measuring or mixing ingredients."}
+{"uid": "p083_F", "cond": "C1", "obj": "cup", "premise_true": false, "label": "ACCEPT", "output_text": "The cup in the image is red. It is placed on the table near the plate of food, which includes a breaded chicken sandwich and French fries."}
+{"uid": "p086_T", "cond": "C1", "obj": "bus", "premise_true": true, "label": "ACCEPT", "output_text": "The bus in the image is predominantly white with a blue top and a black front. It also has a yellow and green sign with text on its side."}
+{"uid": "p086_F", "cond": "C1", "obj": "bus", "premise_true": false, "label": "ACCEPT", "output_text": "The bus in the image is white. It is traveling on the road in the foreground of the image, with a subway train and buildings in the background."}
+{"uid": "p089_T", "cond": "C1", "obj": "backpack", "premise_true": true, "label": "ACCEPT", "output_text": "The backpack in the image is blue. It is being carried by a person walking towards the open door of the Air Force Reserve Command plane at the airport."}
+{"uid": "p089_F", "cond": "C1", "obj": "backpack", "premise_true": false, "label": "REJECT", "output_text": "There is no backpack in the image. The image shows a display of croissants with a sign in the foreground and a market scene in the background."}
+{"uid": "p092_T", "cond": "C1", "obj": "tv", "premise_true": true, "label": "ACCEPT", "output_text": "The TV in the image is black. It is positioned in the background, displaying a soccer match, which contrasts with the pizza and beer in the foreground."}
+{"uid": "p092_F", "cond": "C1", "obj": "tv", "premise_true": false, "label": "ACCEPT", "output_text": "The television in the image is black. It is mounted on the wall to the left of the man and appears to be a significant object in the room."}
+{"uid": "p095_T", "cond": "C1", "obj": "car", "premise_true": true, "label": "REJECT", "output_text": "There is no car in the image. The image shows a rugby player on a grassy field, holding a ball, with trees and buildings in the background."}
+{"uid": "p095_F", "cond": "C1", "obj": "car", "premise_true": false, "label": "REJECT", "output_text": "There is no car in the image. The image shows a group of people skiing on a snowy slope, and there are no vehicles visible in the scene."}
+{"uid": "p098_T", "cond": "C1", "obj": "bus", "premise_true": true, "label": "ACCEPT", "output_text": "The bus in the image is blue. It is a large, passenger bus with a distinct blue color that stands out among the other vehicles on the road."}
+{"uid": "p098_F", "cond": "C1", "obj": "bus", "premise_true": false, "label": "ACCEPT", "output_text": "The bus in the image is white. It's a large white bus, and it's visible in the background while the car is driving in the rain."}
+{"uid": "p002_T", "cond": "C0", "obj": "fire hydrant", "premise_true": true, "label": "yes", "output_text": "Yes\n<end of description>"}
+{"uid": "p002_F", "cond": "C0", "obj": "fire hydrant", "premise_true": false, "label": "no", "output_text": "There is no fire hydrant."}
+{"uid": "p005_T", "cond": "C0", "obj": "car", "premise_true": true, "label": "yes", "output_text": "Yes, there is a car."}
+{"uid": "p005_F", "cond": "C0", "obj": "car", "premise_true": false, "label": "no", "output_text": "No, there is no car."}
+{"uid": "p008_T", "cond": "C0", "obj": "frisbee", "premise_true": true, "label": "yes", "output_text": "Yes, a frisbee."}
+{"uid": "p008_F", "cond": "C0", "obj": "frisbee", "premise_true": false, "label": "no", "output_text": "There is no frisbee."}
+{"uid": "p011_T", "cond": "C0", "obj": "bus", "premise_true": true, "label": "yes", "output_text": "Yes, there is a bus."}
+{"uid": "p011_F", "cond": "C0", "obj": "bus", "premise_true": false, "label": "no", "output_text": "No, there is no bus."}
+{"uid": "p014_T", "cond": "C0", "obj": "motorcycle", "premise_true": true, "label": "yes", "output_text": "Yes, there is a motorcycle."}
+{"uid": "p014_F", "cond": "C0", "obj": "motorcycle", "premise_true": false, "label": "no", "output_text": "No, there is no motorcycle."}
+{"uid": "p017_T", "cond": "C0", "obj": "laptop", "premise_true": true, "label": "yes", "output_text": "Yes, there is a laptop."}
+{"uid": "p017_F", "cond": "C0", "obj": "laptop", "premise_true": false, "label": "no", "output_text": "No, there is no laptop."}
+{"uid": "p020_T", "cond": "C0", "obj": "chair", "premise_true": true, "label": "yes", "output_text": "Yes, there is a chair."}
+{"uid": "p020_F", "cond": "C0", "obj": "chair", "premise_true": false, "label": "yes", "output_text": "Yes, there is a chair."}
+{"uid": "p023_T", "cond": "C0", "obj": "boat", "premise_true": true, "label": "yes", "output_text": "Yes, there is a boat."}
+{"uid": "p023_F", "cond": "C0", "obj": "boat", "premise_true": false, "label": "no", "output_text": "No, there is no boat."}
+{"uid": "p026_T", "cond": "C0", "obj": "vase", "premise_true": true, "label": "yes", "output_text": "Yes, there is a vase."}
+{"uid": "p026_F", "cond": "C0", "obj": "vase", "premise_true": false, "label": "no", "output_text": "No, there is no vase."}
+{"uid": "p029_T", "cond": "C0", "obj": "bed", "premise_true": true, "label": "yes", "output_text": "Yes, there are two beds."}
+{"uid": "p029_F", "cond": "C0", "obj": "bed", "premise_true": false, "label": "no", "output_text": "No, there is no bed."}
+{"uid": "p032_T", "cond": "C0", "obj": "bottle", "premise_true": true, "label": "yes", "output_text": "Yes, there is a bottle."}
+{"uid": "p032_F", "cond": "C0", "obj": "bottle", "premise_true": false, "label": "yes", "output_text": "Yes, there is a bottle."}
+{"uid": "p035_T", "cond": "C0", "obj": "cell phone", "premise_true": true, "label": "yes", "output_text": "Yes, there is a cellphone."}
+{"uid": "p035_F", "cond": "C0", "obj": "cell phone", "premise_true": false, "label": "no", "output_text": "No, there is a laptop."}
+{"uid": "p038_T", "cond": "C0", "obj": "backpack", "premise_true": true, "label": "yes", "output_text": "Yes, there is a backpack."}
+{"uid": "p038_F", "cond": "C0", "obj": "backpack", "premise_true": false, "label": "no", "output_text": "No, there is no backpack."}
+{"uid": "p041_T", "cond": "C0", "obj": "chair", "premise_true": true, "label": "yes", "output_text": "Yes, there is a chair."}
+{"uid": "p041_F", "cond": "C0", "obj": "chair", "premise_true": false, "label": "no", "output_text": "No, there are no chairs."}
+{"uid": "p044_T", "cond": "C0", "obj": "boat", "premise_true": true, "label": "yes", "output_text": "Yes, there is a boat."}
+{"uid": "p044_F", "cond": "C0", "obj": "boat", "premise_true": false, "label": "no", "output_text": "No, there is no boat."}
+{"uid": "p047_T", "cond": "C0", "obj": "vase", "premise_true": true, "label": "yes", "output_text": "Yes, there is a vase."}
+{"uid": "p047_F", "cond": "C0", "obj": "vase", "premise_true": false, "label": "yes", "output_text": "Yes, there is a vase."}
+{"uid": "p050_T", "cond": "C0", "obj": "bed", "premise_true": true, "label": "yes", "output_text": "Yes, there is a bed."}
+{"uid": "p050_F", "cond": "C0", "obj": "bed", "premise_true": false, "label": "no", "output_text": "No, there is no bed."}
+{"uid": "p053_T", "cond": "C0", "obj": "bottle", "premise_true": true, "label": "yes", "output_text": "Yes, there is a bottle."}
+{"uid": "p053_F", "cond": "C0", "obj": "bottle", "premise_true": false, "label": "no", "output_text": "No, there are no bottles."}
+{"uid": "p056_T", "cond": "C0", "obj": "cell phone", "premise_true": true, "label": "yes", "output_text": "Yes, there is a cellphone."}
+{"uid": "p056_F", "cond": "C0", "obj": "cell phone", "premise_true": false, "label": "no", "output_text": "no\n<end of description>"}
+{"uid": "p059_T", "cond": "C0", "obj": "backpack", "premise_true": true, "label": "yes", "output_text": "Yes, there is a backpack."}
+{"uid": "p059_F", "cond": "C0", "obj": "backpack", "premise_true": false, "label": "yes", "output_text": "Yes, there is a backpack."}
+{"uid": "p062_T", "cond": "C0", "obj": "bicycle", "premise_true": true, "label": "no", "output_text": "No, there are no bicycles."}
+{"uid": "p062_F", "cond": "C0", "obj": "bicycle", "premise_true": false, "label": "yes", "output_text": "Yes, there is a bicycle."}
+{"uid": "p065_T", "cond": "C0", "obj": "vase", "premise_true": true, "label": "yes", "output_text": "Yes, there is a vase."}
+{"uid": "p065_F", "cond": "C0", "obj": "vase", "premise_true": false, "label": "yes", "output_text": "Yes, there is a vase."}
+{"uid": "p068_T", "cond": "C0", "obj": "bed", "premise_true": true, "label": "yes", "output_text": "Yes, there is a bed."}
+{"uid": "p068_F", "cond": "C0", "obj": "bed", "premise_true": false, "label": "yes", "output_text": "Yes, there is a bed."}
+{"uid": "p071_T", "cond": "C0", "obj": "couch", "premise_true": true, "label": "yes", "output_text": "Yes, there is a couch."}
+{"uid": "p071_F", "cond": "C0", "obj": "couch", "premise_true": false, "label": "yes", "output_text": "Yes, there is a couch."}
+{"uid": "p074_T", "cond": "C0", "obj": "motorcycle", "premise_true": true, "label": "yes", "output_text": "Yes, there is a motorcycle."}
+{"uid": "p074_F", "cond": "C0", "obj": "motorcycle", "premise_true": false, "label": "no", "output_text": "No, there is no motorcycle."}
+{"uid": "p077_T", "cond": "C0", "obj": "chair", "premise_true": true, "label": "yes", "output_text": "Yes, there is a chair."}
+{"uid": "p077_F", "cond": "C0", "obj": "chair", "premise_true": false, "label": "no", "output_text": "No, there is no chair."}
+{"uid": "p080_T", "cond": "C0", "obj": "dining table", "premise_true": true, "label": "yes", "output_text": "Yes, there is a dining table"}
+{"uid": "p080_F", "cond": "C0", "obj": "dining table", "premise_true": false, "label": "yes", "output_text": "Yes, there is a dining table"}
+{"uid": "p083_T", "cond": "C0", "obj": "cup", "premise_true": true, "label": "yes", "output_text": "Yes, there is a cup."}
+{"uid": "p083_F", "cond": "C0", "obj": "cup", "premise_true": false, "label": "yes", "output_text": "Yes, there is a cup."}
+{"uid": "p086_T", "cond": "C0", "obj": "bus", "premise_true": true, "label": "yes", "output_text": "Yes, there is a bus."}
+{"uid": "p086_F", "cond": "C0", "obj": "bus", "premise_true": false, "label": "yes", "output_text": "Yes, there is a bus."}
+{"uid": "p089_T", "cond": "C0", "obj": "backpack", "premise_true": true, "label": "yes", "output_text": "Yes, there is a backpack."}
+{"uid": "p089_F", "cond": "C0", "obj": "backpack", "premise_true": false, "label": "yes", "output_text": "Yes, there is a backpack."}
+{"uid": "p092_T", "cond": "C0", "obj": "tv", "premise_true": true, "label": "yes", "output_text": "Yes, there is a tv."}
+{"uid": "p092_F", "cond": "C0", "obj": "tv", "premise_true": false, "label": "yes", "output_text": "Yes, there is a tv."}
+{"uid": "p095_T", "cond": "C0", "obj": "car", "premise_true": true, "label": "yes", "output_text": "Yes, there is a car."}
+{"uid": "p095_F", "cond": "C0", "obj": "car", "premise_true": false, "label": "no", "output_text": "No, there is no car."}
+{"uid": "p098_T", "cond": "C0", "obj": "bus", "premise_true": true, "label": "yes", "output_text": "Yes, there is a bus."}
+{"uid": "p098_F", "cond": "C0", "obj": "bus", "premise_true": false, "label": "yes", "output_text": "Yes, there is a bus."}
+{"uid": "p000_T", "cond": "C0", "obj": "dining table", "premise_true": true, "label": "yes", "output_text": "Yes, there is a dining table"}
+{"uid": "p000_F", "cond": "C0", "obj": "dining table", "premise_true": false, "label": "yes", "output_text": "Yes, there is a dining table"}
+{"uid": "p003_T", "cond": "C0", "obj": "vase", "premise_true": true, "label": "yes", "output_text": "Yes, there is a vase."}
+{"uid": "p003_F", "cond": "C0", "obj": "vase", "premise_true": false, "label": "no", "output_text": "No, there is no vase."}
+{"uid": "p006_T", "cond": "C0", "obj": "bed", "premise_true": true, "label": "yes", "output_text": "There is a bed in the image"}
+{"uid": "p006_F", "cond": "C0", "obj": "bed", "premise_true": false, "label": "no", "output_text": "There is no bed in the image"}
+{"uid": "p009_T", "cond": "C0", "obj": "bottle", "premise_true": true, "label": "yes", "output_text": "Yes, there is a bottle."}
+{"uid": "p009_F", "cond": "C0", "obj": "bottle", "premise_true": false, "label": "yes", "output_text": "Yes, there is a bottle."}
+{"uid": "p012_T", "cond": "C0", "obj": "kite", "premise_true": true, "label": "yes", "output_text": "Yes, there is a kite."}
+{"uid": "p012_F", "cond": "C0", "obj": "kite", "premise_true": false, "label": "no", "output_text": "No, there is no kite."}
+{"uid": "p015_T", "cond": "C0", "obj": "truck", "premise_true": true, "label": "yes", "output_text": "Yes, there is a truck."}
+{"uid": "p015_F", "cond": "C0", "obj": "truck", "premise_true": false, "label": "no", "output_text": "no\n<end of description>"}
+{"uid": "p018_T", "cond": "C0", "obj": "airplane", "premise_true": true, "label": "yes", "output_text": "Yes, there is an airplane."}
+{"uid": "p018_F", "cond": "C0", "obj": "airplane", "premise_true": false, "label": "no", "output_text": "No, there are no airplanes."}
+{"uid": "p021_T", "cond": "C0", "obj": "bicycle", "premise_true": true, "label": "yes", "output_text": "Yes, there is a bicycle."}
+{"uid": "p021_F", "cond": "C0", "obj": "bicycle", "premise_true": false, "label": "yes", "output_text": "Yes, there is a bicycle."}
+{"uid": "p024_T", "cond": "C0", "obj": "dining table", "premise_true": true, "label": "yes", "output_text": "Yes, there is a dining table"}
+{"uid": "p024_F", "cond": "C0", "obj": "dining table", "premise_true": false, "label": "no", "output_text": "No, there is no dining table"}
+{"uid": "p027_T", "cond": "C0", "obj": "bench", "premise_true": true, "label": "yes", "output_text": "Yes, there is a bench."}
+{"uid": "p027_F", "cond": "C0", "obj": "bench", "premise_true": false, "label": "yes", "output_text": "Yes, there is a bench."}
+{"uid": "p030_T", "cond": "C0", "obj": "cup", "premise_true": true, "label": "yes", "output_text": "Yes, there is a cup."}
+{"uid": "p030_F", "cond": "C0", "obj": "cup", "premise_true": false, "label": "no", "output_text": "No, there is a vase."}
+{"uid": "p033_T", "cond": "C0", "obj": "couch", "premise_true": true, "label": "yes", "output_text": "Yes, there is a couch."}
+{"uid": "p033_F", "cond": "C0", "obj": "couch", "premise_true": false, "label": "no", "output_text": "No, there is no couch."}
+{"uid": "p036_T", "cond": "C0", "obj": "motorcycle", "premise_true": true, "label": "yes", "output_text": "Yes, there is a motorcycle."}
+{"uid": "p036_F", "cond": "C0", "obj": "motorcycle", "premise_true": false, "label": "no", "output_text": "no\n<end of description>"}
+{"uid": "p039_T", "cond": "C0", "obj": "laptop", "premise_true": true, "label": "yes", "output_text": "Yes, there is a laptop."}
+{"uid": "p039_F", "cond": "C0", "obj": "laptop", "premise_true": false, "label": "no", "output_text": "There is no laptop in the image"}
+{"uid": "p042_T", "cond": "C0", "obj": "bicycle", "premise_true": true, "label": "yes", "output_text": "Yes, there is a bicycle."}
+{"uid": "p042_F", "cond": "C0", "obj": "bicycle", "premise_true": false, "label": "no", "output_text": "No, there is no bicycle."}
+{"uid": "p045_T", "cond": "C0", "obj": "dining table", "premise_true": true, "label": "yes", "output_text": "Yes, there is a dining table"}
+{"uid": "p045_F", "cond": "C0", "obj": "dining table", "premise_true": false, "label": "no", "output_text": "No, there is no dining table"}
+{"uid": "p048_T", "cond": "C0", "obj": "bench", "premise_true": true, "label": "yes", "output_text": "Yes, there is a bench."}
+{"uid": "p048_F", "cond": "C0", "obj": "bench", "premise_true": false, "label": "no", "output_text": "No, there is no bench."}
+{"uid": "p051_T", "cond": "C0", "obj": "cup", "premise_true": true, "label": "yes", "output_text": "Yes, there are two cups."}
+{"uid": "p051_F", "cond": "C0", "obj": "cup", "premise_true": false, "label": "yes", "output_text": "Yes, there is a cup."}
+{"uid": "p054_T", "cond": "C0", "obj": "couch", "premise_true": true, "label": "yes", "output_text": "Yes, there is a couch."}
+{"uid": "p054_F", "cond": "C0", "obj": "couch", "premise_true": false, "label": "no", "output_text": "No, there is a bed."}
+{"uid": "p057_T", "cond": "C0", "obj": "motorcycle", "premise_true": true, "label": "yes", "output_text": "Yes, there is a motorcycle."}
+{"uid": "p057_F", "cond": "C0", "obj": "motorcycle", "premise_true": false, "label": "yes", "output_text": "Yes, there is a motorcycle."}
+{"uid": "p060_T", "cond": "C0", "obj": "laptop", "premise_true": true, "label": "yes", "output_text": "Yes, there is a laptop."}
+{"uid": "p060_F", "cond": "C0", "obj": "laptop", "premise_true": false, "label": "no", "output_text": "No, there is no laptop."}
+{"uid": "p063_T", "cond": "C0", "obj": "tv", "premise_true": true, "label": "yes", "output_text": "Yes, there is a tv."}
+{"uid": "p063_F", "cond": "C0", "obj": "tv", "premise_true": false, "label": "no", "output_text": "There is no tv in the image"}
+{"uid": "p066_T", "cond": "C0", "obj": "bench", "premise_true": true, "label": "yes", "output_text": "Yes, there is a bench."}
+{"uid": "p066_F", "cond": "C0", "obj": "bench", "premise_true": false, "label": "no", "output_text": "no\n<end of description>"}
+{"uid": "p069_T", "cond": "C0", "obj": "cup", "premise_true": true, "label": "yes", "output_text": "Yes, there is a cup."}
+{"uid": "p069_F", "cond": "C0", "obj": "cup", "premise_true": false, "label": "no", "output_text": "No, there is no cup."}
+{"uid": "p072_T", "cond": "C0", "obj": "bus", "premise_true": true, "label": "yes", "output_text": "Yes\n<end of description>"}
+{"uid": "p072_F", "cond": "C0", "obj": "bus", "premise_true": false, "label": "no", "output_text": "No, there is a car."}
+{"uid": "p075_T", "cond": "C0", "obj": "truck", "premise_true": true, "label": "yes", "output_text": "Yes, there is a truck."}
+{"uid": "p075_F", "cond": "C0", "obj": "truck", "premise_true": false, "label": "no", "output_text": "No, there is a bus."}
+{"uid": "p078_T", "cond": "C0", "obj": "bicycle", "premise_true": true, "label": "yes", "output_text": "Yes, there is a bicycle."}
+{"uid": "p078_F", "cond": "C0", "obj": "bicycle", "premise_true": false, "label": "no", "output_text": "No, there is a tram."}
+{"uid": "p081_T", "cond": "C0", "obj": "vase", "premise_true": true, "label": "yes", "output_text": "Yes, there is a vase."}
+{"uid": "p081_F", "cond": "C0", "obj": "vase", "premise_true": false, "label": "no", "output_text": "No, there is no vase."}
+{"uid": "p084_T", "cond": "C0", "obj": "bottle", "premise_true": true, "label": "yes", "output_text": "Yes, there is a bottle."}
+{"uid": "p084_F", "cond": "C0", "obj": "bottle", "premise_true": false, "label": "no", "output_text": "There is no bottle in the image"}
+{"uid": "p087_T", "cond": "C0", "obj": "motorcycle", "premise_true": true, "label": "yes", "output_text": "Yes, there is a motorcycle."}
+{"uid": "p087_F", "cond": "C0", "obj": "motorcycle", "premise_true": false, "label": "yes", "output_text": "Yes, there is a motorcycle."}
+{"uid": "p090_T", "cond": "C0", "obj": "chair", "premise_true": true, "label": "yes", "output_text": "Yes, there is a chair."}
+{"uid": "p090_F", "cond": "C0", "obj": "chair", "premise_true": false, "label": "no", "output_text": "There is no chair in the image"}
+{"uid": "p093_T", "cond": "C0", "obj": "dining table", "premise_true": true, "label": "yes", "output_text": "Yes, there is a dining table"}
+{"uid": "p093_F", "cond": "C0", "obj": "dining table", "premise_true": false, "label": "no", "output_text": "No, there are no tables."}
+{"uid": "p096_T", "cond": "C0", "obj": "bottle", "premise_true": true, "label": "yes", "output_text": "Yes, there is a bottle."}
+{"uid": "p096_F", "cond": "C0", "obj": "bottle", "premise_true": false, "label": "yes", "output_text": "Yes, there is a bottle."}
+{"uid": "p099_T", "cond": "C0", "obj": "motorcycle", "premise_true": true, "label": "yes", "output_text": "Yes, there are two motorcycles."}
+{"uid": "p099_F", "cond": "C0", "obj": "motorcycle", "premise_true": false, "label": "yes", "output_text": "Yes, there is a motorcycle."}
+{"uid": "p001_T", "cond": "C0", "obj": "umbrella", "premise_true": true, "label": "yes", "output_text": "Yes, there is an umbrella."}
+{"uid": "p001_F", "cond": "C0", "obj": "umbrella", "premise_true": false, "label": "no", "output_text": "No, there is no umbrella."}
+{"uid": "p004_T", "cond": "C0", "obj": "bench", "premise_true": true, "label": "yes", "output_text": "Yes, there is a bench."}
+{"uid": "p004_F", "cond": "C0", "obj": "bench", "premise_true": false, "label": "yes", "output_text": "Yes, there is a bench."}
+{"uid": "p007_T", "cond": "C0", "obj": "cup", "premise_true": true, "label": "yes", "output_text": "Yes, there is a cup."}
+{"uid": "p007_F", "cond": "C0", "obj": "cup", "premise_true": false, "label": "no", "output_text": "No, there is no cup."}
+{"uid": "p010_T", "cond": "C0", "obj": "couch", "premise_true": true, "label": "yes", "output_text": "Yes, there is a couch."}
+{"uid": "p010_F", "cond": "C0", "obj": "couch", "premise_true": false, "label": "yes", "output_text": "Yes, there is a couch."}
+{"uid": "p013_T", "cond": "C0", "obj": "cell phone", "premise_true": true, "label": "no", "output_text": "no\n<end of description>"}
+{"uid": "p013_F", "cond": "C0", "obj": "cell phone", "premise_true": false, "label": "no", "output_text": "No, there is no cellphone."}
+{"uid": "p016_T", "cond": "C0", "obj": "backpack", "premise_true": true, "label": "yes", "output_text": "Yes, there is a backpack."}
+{"uid": "p016_F", "cond": "C0", "obj": "backpack", "premise_true": false, "label": "yes", "output_text": "Yes, there is a backpack."}
+{"uid": "p019_T", "cond": "C0", "obj": "surfboard", "premise_true": true, "label": "no", "output_text": "no\n<end of description>"}
+{"uid": "p019_F", "cond": "C0", "obj": "surfboard", "premise_true": false, "label": "no", "output_text": "No, there is a kite."}
+{"uid": "p022_T", "cond": "C0", "obj": "tv", "premise_true": true, "label": "yes", "output_text": "Yes, there is a tv."}
+{"uid": "p022_F", "cond": "C0", "obj": "tv", "premise_true": false, "label": "yes", "output_text": "Yes, there is a TV."}
+{"uid": "p025_T", "cond": "C0", "obj": "umbrella", "premise_true": true, "label": "yes", "output_text": "Yes, there is an umbrella."}
+{"uid": "p025_F", "cond": "C0", "obj": "umbrella", "premise_true": false, "label": "no", "output_text": "No, there is no umbrella."}
+{"uid": "p028_T", "cond": "C0", "obj": "car", "premise_true": true, "label": "yes", "output_text": "Yes, there is a car."}
+{"uid": "p028_F", "cond": "C0", "obj": "car", "premise_true": false, "label": "no", "output_text": "No, there is no car."}
+{"uid": "p031_T", "cond": "C0", "obj": "frisbee", "premise_true": true, "label": "yes", "output_text": "Yes, a frisbee."}
+{"uid": "p031_F", "cond": "C0", "obj": "frisbee", "premise_true": false, "label": "no", "output_text": "There is no frisbee."}
+{"uid": "p034_T", "cond": "C0", "obj": "bus", "premise_true": true, "label": "yes", "output_text": "Yes, there is a bus."}
+{"uid": "p034_F", "cond": "C0", "obj": "bus", "premise_true": false, "label": "no", "output_text": "No, there is no bus."}
+{"uid": "p037_T", "cond": "C0", "obj": "truck", "premise_true": true, "label": "yes", "output_text": "Yes, there is a truck."}
+{"uid": "p037_F", "cond": "C0", "obj": "truck", "premise_true": false, "label": "yes", "output_text": "Yes, there is a truck."}
+{"uid": "p040_T", "cond": "C0", "obj": "surfboard", "premise_true": true, "label": "yes", "output_text": "Yes, a yellow surfboard."}
+{"uid": "p040_F", "cond": "C0", "obj": "surfboard", "premise_true": false, "label": "no", "output_text": "No, there are snowboards."}
+{"uid": "p043_T", "cond": "C0", "obj": "tv", "premise_true": true, "label": "yes", "output_text": "Yes, there is a tv."}
+{"uid": "p043_F", "cond": "C0", "obj": "tv", "premise_true": false, "label": "no", "output_text": "There is no tv in the image"}
+{"uid": "p046_T", "cond": "C0", "obj": "umbrella", "premise_true": true, "label": "yes", "output_text": "Yes, there is an umbrella."}
+{"uid": "p046_F", "cond": "C0", "obj": "umbrella", "premise_true": false, "label": "yes", "output_text": "Yes, there is an umbrella."}
+{"uid": "p049_T", "cond": "C0", "obj": "car", "premise_true": true, "label": "yes", "output_text": "Yes, there is a car."}
+{"uid": "p049_F", "cond": "C0", "obj": "car", "premise_true": false, "label": "no", "output_text": "No, there is no car."}
+{"uid": "p052_T", "cond": "C0", "obj": "frisbee", "premise_true": true, "label": "yes", "output_text": "Yes\n<end of description>"}
+{"uid": "p052_F", "cond": "C0", "obj": "frisbee", "premise_true": false, "label": "no", "output_text": "no\n<end of description>"}
+{"uid": "p055_T", "cond": "C0", "obj": "bus", "premise_true": true, "label": "yes", "output_text": "Yes, there is a bus."}
+{"uid": "p055_F", "cond": "C0", "obj": "bus", "premise_true": false, "label": "no", "output_text": "No, there is no bus."}
+{"uid": "p058_T", "cond": "C0", "obj": "truck", "premise_true": true, "label": "yes", "output_text": "Yes, there is a truck."}
+{"uid": "p058_F", "cond": "C0", "obj": "truck", "premise_true": false, "label": "no", "output_text": "No\n<end of description>"}
+{"uid": "p061_T", "cond": "C0", "obj": "chair", "premise_true": true, "label": "yes", "output_text": "Yes, there is a chair."}
+{"uid": "p061_F", "cond": "C0", "obj": "chair", "premise_true": false, "label": "no", "output_text": "No, there is no chair."}
+{"uid": "p064_T", "cond": "C0", "obj": "dining table", "premise_true": true, "label": "yes", "output_text": "Yes, there is a table."}
+{"uid": "p064_F", "cond": "C0", "obj": "dining table", "premise_true": false, "label": "yes", "output_text": "Yes, there is a dining table"}
+{"uid": "p067_T", "cond": "C0", "obj": "car", "premise_true": true, "label": "yes", "output_text": "Yes, there is a car."}
+{"uid": "p067_F", "cond": "C0", "obj": "car", "premise_true": false, "label": "no", "output_text": "No, there is no car."}
+{"uid": "p070_T", "cond": "C0", "obj": "bottle", "premise_true": true, "label": "yes", "output_text": "Yes, there is a bottle."}
+{"uid": "p070_F", "cond": "C0", "obj": "bottle", "premise_true": false, "label": "no", "output_text": "No, there are no bottles."}
+{"uid": "p073_T", "cond": "C0", "obj": "cell phone", "premise_true": true, "label": "yes", "output_text": "Yes, there is a cellphone."}
+{"uid": "p073_F", "cond": "C0", "obj": "cell phone", "premise_true": false, "label": "no", "output_text": "No, there is a telephone."}
+{"uid": "p076_T", "cond": "C0", "obj": "backpack", "premise_true": true, "label": "yes", "output_text": "Yes, there is a backpack."}
+{"uid": "p076_F", "cond": "C0", "obj": "backpack", "premise_true": false, "label": "yes", "output_text": "Yes, there is a backpack."}
+{"uid": "p079_T", "cond": "C0", "obj": "tv", "premise_true": true, "label": "yes", "output_text": "Yes, there is a tv."}
+{"uid": "p079_F", "cond": "C0", "obj": "tv", "premise_true": false, "label": "no", "output_text": "There is no tv in the image"}
+{"uid": "p082_T", "cond": "C0", "obj": "car", "premise_true": true, "label": "yes", "output_text": "Yes, there is a car."}
+{"uid": "p082_F", "cond": "C0", "obj": "car", "premise_true": false, "label": "no", "output_text": "No, there is no car."}
+{"uid": "p085_T", "cond": "C0", "obj": "couch", "premise_true": true, "label": "yes", "output_text": "Yes, there is a couch."}
+{"uid": "p085_F", "cond": "C0", "obj": "couch", "premise_true": false, "label": "no", "output_text": "There is no couch in the image"}
+{"uid": "p088_T", "cond": "C0", "obj": "truck", "premise_true": true, "label": "yes", "output_text": "Yes, there is a truck."}
+{"uid": "p088_F", "cond": "C0", "obj": "truck", "premise_true": false, "label": "yes", "output_text": "Yes, there is a truck."}
+{"uid": "p091_T", "cond": "C0", "obj": "bicycle", "premise_true": true, "label": "no", "output_text": "No, there is no bicycle."}
+{"uid": "p091_F", "cond": "C0", "obj": "bicycle", "premise_true": false, "label": "no", "output_text": "No, there is no bicycle."}
+{"uid": "p094_T", "cond": "C0", "obj": "vase", "premise_true": true, "label": "yes", "output_text": "Yes, there is a vase."}
+{"uid": "p094_F", "cond": "C0", "obj": "vase", "premise_true": false, "label": "yes", "output_text": "Yes, there is a vase."}
+{"uid": "p097_T", "cond": "C0", "obj": "couch", "premise_true": true, "label": "yes", "output_text": "Yes, there is a couch."}
+{"uid": "p097_F", "cond": "C0", "obj": "couch", "premise_true": false, "label": "no", "output_text": "No, there is no couch."}

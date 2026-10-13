@@ -1,0 +1,17 @@
+# data: keep item lists, drop images
+data/*/images/
+data/*/blank/
+# generated
+results/
+logs/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# weights / big binaries
+*.pt
+*.pth
+*.bin
+*.safetensors
+*.npy
+*.npz
+*.arrow

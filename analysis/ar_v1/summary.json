@@ -1,0 +1,238 @@
+{
+  "n_true": 100,
+  "n_false": 100,
+  "C0": {
+    "acc_true(yes)": 0.93,
+    "acc_false(no)": 0.93,
+    "acc_all": 0.93,
+    "yes_ratio": 0.5,
+    "unclear": 0
+  },
+  "n_knows": 93,
+  "label_dist": {
+    "C1|true": {
+      "ACCEPT": 0.94,
+      "REJECT": 0.03,
+      "MIXED": 0.0,
+      "EVADE": 0.01,
+      "OTHER": 0.02,
+      "n": 100
+    },
+    "C1|false": {
+      "ACCEPT": 0.33,
+      "REJECT": 0.61,
+      "MIXED": 0.01,
+      "EVADE": 0.0,
+      "OTHER": 0.05,
+      "n": 100
+    },
+    "C1|knows": {
+      "ACCEPT": 0.27956989247311825,
+      "REJECT": 0.6559139784946236,
+      "MIXED": 0.010752688172043012,
+      "EVADE": 0.0,
+      "OTHER": 0.053763440860215055,
+      "n": 93
+    },
+    "C3|true": {
+      "ACCEPT": 0.98,
+      "REJECT": 0.0,
+      "MIXED": 0.0,
+      "EVADE": 0.0,
+      "OTHER": 0.02,
+      "n": 100
+    },
+    "C3|false": {
+      "ACCEPT": 0.96,
+      "REJECT": 0.04,
+      "MIXED": 0.0,
+      "EVADE": 0.0,
+      "OTHER": 0.0,
+      "n": 100
+    },
+    "C3|knows": {
+      "ACCEPT": 0.956989247311828,
+      "REJECT": 0.043010752688172046,
+      "MIXED": 0.0,
+      "EVADE": 0.0,
+      "OTHER": 0.0,
+      "n": 93
+    },
+    "C4u|true": {
+      "ACCEPT": 0.92,
+      "REJECT": 0.07,
+      "MIXED": 0.0,
+      "EVADE": 0.0,
+      "OTHER": 0.01,
+      "n": 100
+    },
+    "C4u|false": {
+      "ACCEPT": 0.33,
+      "REJECT": 0.67,
+      "MIXED": 0.0,
+      "EVADE": 0.0,
+      "OTHER": 0.0,
+      "n": 100
+    },
+    "C4u|knows": {
+      "ACCEPT": 0.27956989247311825,
+      "REJECT": 0.7204301075268817,
+      "MIXED": 0.0,
+      "EVADE": 0.0,
+      "OTHER": 0.0,
+      "n": 93
+    },
+    "C3_blank|true": {
+      "ACCEPT": 1.0,
+      "REJECT": 0.0,
+      "MIXED": 0.0,
+      "EVADE": 0.0,
+      "OTHER": 0.0,
+      "n": 100
+    },
+    "C3_blank|false": {
+      "ACCEPT": 1.0,
+      "REJECT": 0.0,
+      "MIXED": 0.0,
+      "EVADE": 0.0,
+      "OTHER": 0.0,
+      "n": 100
+    },
+    "C3_blank|knows": {
+      "ACCEPT": 1.0,
+      "REJECT": 0.0,
+      "MIXED": 0.0,
+      "EVADE": 0.0,
+      "OTHER": 0.0,
+      "n": 93
+    }
+  },
+  "discriminability": {
+    "C1": {
+      "fill_knows": 0.27956989247311825,
+      "fill_or_mixed_knows": 0.2903225806451613,
+      "hit": 0.61,
+      "fa": 0.03,
+      "hit_minus_fa": 0.58,
+      "dprime": 2.092895293417099
+    },
+    "C3": {
+      "fill_knows": 0.956989247311828,
+      "fill_or_mixed_knows": 0.956989247311828,
+      "hit": 0.04,
+      "fa": 0.0,
+      "hit_minus_fa": 0.04,
+      "dprime": 0.8791510858310261
+    },
+    "C4u": {
+      "fill_knows": 0.27956989247311825,
+      "fill_or_mixed_knows": 0.27956989247311825,
+      "hit": 0.67,
+      "fa": 0.07,
+      "hit_minus_fa": 0.6000000000000001,
+      "dprime": 1.8800673895571232
+    },
+    "C3_blank": {
+      "fill_knows": 1.0,
+      "fill_or_mixed_knows": 1.0,
+      "hit": 0.0,
+      "fa": 0.0,
+      "hit_minus_fa": 0.0,
+      "dprime": 0.0
+    }
+  },
+  "mcnemar": {
+    "C1_vs_C3": {
+      "n": 93,
+      "C1_only": 0,
+      "C3_only": 63,
+      "C1_rate": 0.27956989247311825,
+      "C3_rate": 0.956989247311828,
+      "p": 2.168404344971009e-19
+    },
+    "C3_vs_C4u": {
+      "n": 93,
+      "C3_only": 63,
+      "C4u_only": 0,
+      "C3_rate": 0.956989247311828,
+      "C4u_rate": 0.27956989247311825,
+      "p": 2.168404344971009e-19
+    },
+    "C3_vs_C3_blank": {
+      "n": 93,
+      "C3_only": 0,
+      "C3_blank_only": 4,
+      "C3_rate": 0.956989247311828,
+      "C3_blank_rate": 1.0,
+      "p": 0.125
+    }
+  },
+  "image_reliance": {
+    "true": {
+      "n_both_accept": 98,
+      "same_color": 0.01020408163265306
+    },
+    "false": {
+      "n_both_accept": 96,
+      "same_color": 0.010416666666666666
+    }
+  },
+  "step0": {
+    "C3|true": {
+      "p_refusal": 0.036770300000000006,
+      "p_color": 0.6237897000000002,
+      "commit_step": 0.0,
+      "commit_conf": 0.4368971000000003,
+      "n": 100
+    },
+    "C3|knows-acc": {
+      "p_refusal": 0.08873011235955054,
+      "p_color": 0.6016214606741574,
+      "commit_step": 0.0,
+      "commit_conf": 0.3323186516853932,
+      "n": 89
+    },
+    "C3|knows-rej": {
+      "p_refusal": 0.18733,
+      "p_color": 0.47458500000000003,
+      "commit_step": 0.0,
+      "commit_conf": 0.18733,
+      "n": 4
+    },
+    "C4u|true": {
+      "p_refusal": 0.11595050000000005,
+      "p_color": 0.6431261,
+      "commit_step": 0.0,
+      "commit_conf": 0.48870529999999995,
+      "n": 100
+    },
+    "C4u|knows-acc": {
+      "p_refusal": 0.21962653846153846,
+      "p_color": 0.5569011538461538,
+      "commit_step": 0.0,
+      "commit_conf": 0.4232457692307692,
+      "n": 26
+    },
+    "C4u|knows-rej": {
+      "p_refusal": 0.5045164179104478,
+      "p_color": 0.25007552238805963,
+      "commit_step": 0.0,
+      "commit_conf": 0.4459837313432837,
+      "n": 67
+    },
+    "C3_blank|true": {
+      "p_refusal": 0.05447380000000001,
+      "p_color": 0.4025815000000002,
+      "commit_step": 0.0,
+      "commit_conf": 0.28264549999999994,
+      "n": 100
+    },
+    "C3_blank|knows-acc": {
+      "p_refusal": 0.05359924731182796,
+      "p_color": 0.40056311827956986,
+      "commit_step": 0.0,
+      "commit_conf": 0.28394419354838696,
+      "n": 93
+    }
+  }
+}

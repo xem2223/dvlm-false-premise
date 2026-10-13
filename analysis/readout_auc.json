@@ -1,0 +1,38 @@
+{
+  "LLaDA-V": {
+    "n": 200,
+    "probe_last": 0.877,
+    "probe_best": 0.8838,
+    "probe_best_layer": 28,
+    "readout_opener_auc": 0.8738,
+    "readout_opener_ci": [
+      0.8198975,
+      0.9190075
+    ],
+    "readout_logratio_auc": 0.872,
+    "readout_logratio_ci": [
+      0.8188,
+      0.917405
+    ],
+    "top1_opener_false": 0.0,
+    "top1_opener_true": 0.0
+  },
+  "AR": {
+    "n": 200,
+    "probe_last": 0.8976999999999999,
+    "probe_best": 0.9112,
+    "probe_best_layer": 16,
+    "readout_opener_auc": 0.931,
+    "readout_opener_ci": [
+      0.896935,
+      0.96131
+    ],
+    "readout_logratio_auc": 0.9309,
+    "readout_logratio_ci": [
+      0.896965,
+      0.9612050000000001
+    ],
+    "top1_opener_false": 0.6,
+    "top1_opener_true": 0.03
+  }
+}

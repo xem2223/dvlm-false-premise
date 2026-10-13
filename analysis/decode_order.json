@@ -1,0 +1,511 @@
+{
+  "confidence": {
+    "accept_absent": 0.95,
+    "accept_knows": 0.9452054794520548,
+    "normal_present": 0.99,
+    "pos0_step_median": 2.0,
+    "first_words_absent": [
+      [
+        "The",
+        98
+      ],
+      [
+        "I",
+        2
+      ]
+    ],
+    "specificity": 0.040000000000000036,
+    "echo_frac_early": 0.6533333333333334,
+    "obj_early_rate": 0.48,
+    "acc_obj_early": 0.9791666666666666,
+    "acc_obj_late": 0.9230769230769231,
+    "colour_early_rate": 0.0,
+    "neg_early_rate": 0.02
+  },
+  "frame_last": {
+    "accept_absent": 0.74,
+    "accept_knows": 0.6712328767123288,
+    "normal_present": 0.97,
+    "pos0_step_median": 28.0,
+    "first_words_absent": [
+      [
+        "The",
+        76
+      ],
+      [
+        "I",
+        13
+      ],
+      [
+        "There",
+        11
+      ]
+    ],
+    "specificity": 0.22999999999999998,
+    "echo_frac_early": 0.5133333333333333,
+    "obj_early_rate": 0.0,
+    "acc_obj_early": null,
+    "acc_obj_late": 0.74,
+    "colour_early_rate": 0.0,
+    "neg_early_rate": 0.19
+  },
+  "the_last": {
+    "accept_absent": 0.82,
+    "accept_knows": 0.7808219178082192,
+    "normal_present": 0.98,
+    "pos0_step_median": 29.0,
+    "first_words_absent": [
+      [
+        "The",
+        83
+      ],
+      [
+        "I",
+        10
+      ],
+      [
+        "There",
+        7
+      ]
+    ],
+    "specificity": 0.16000000000000003,
+    "echo_frac_early": 0.5566666666666665,
+    "obj_early_rate": 0.67,
+    "acc_obj_early": 0.9701492537313433,
+    "acc_obj_late": 0.5151515151515151,
+    "colour_early_rate": 0.0,
+    "neg_early_rate": 0.13
+  },
+  "obj_last": {
+    "accept_absent": 0.91,
+    "accept_knows": 0.9041095890410958,
+    "normal_present": 0.99,
+    "pos0_step_median": 2.0,
+    "first_words_absent": [
+      [
+        "The",
+        98
+      ],
+      [
+        "I",
+        2
+      ]
+    ],
+    "specificity": 0.07999999999999996,
+    "echo_frac_early": 0.6533333333333334,
+    "obj_early_rate": 0.0,
+    "acc_obj_early": null,
+    "acc_obj_late": 0.91,
+    "colour_early_rate": 0.0,
+    "neg_early_rate": 0.02
+  },
+  "frame_dot_last": {
+    "accept_absent": 0.69,
+    "accept_knows": 0.589041095890411,
+    "normal_present": 0.95,
+    "pos0_step_median": 28.0,
+    "first_words_absent": [
+      [
+        "The",
+        74
+      ],
+      [
+        "I",
+        15
+      ],
+      [
+        "There",
+        11
+      ]
+    ],
+    "specificity": 0.26,
+    "echo_frac_early": 0.7166666666666667,
+    "obj_early_rate": 0.0,
+    "acc_obj_early": null,
+    "acc_obj_late": 0.69,
+    "colour_early_rate": 0.0,
+    "neg_early_rate": 0.27
+  },
+  "dot_last": {
+    "accept_absent": 0.92,
+    "accept_knows": 0.9041095890410958,
+    "normal_present": 0.99,
+    "pos0_step_median": 1.0,
+    "first_words_absent": [
+      [
+        "The",
+        99
+      ],
+      [
+        "I",
+        1
+      ]
+    ],
+    "specificity": 0.06999999999999995,
+    "echo_frac_early": 0.9866666666666666,
+    "obj_early_rate": 0.67,
+    "acc_obj_early": 0.9552238805970149,
+    "acc_obj_late": 0.8484848484848485,
+    "colour_early_rate": 0.0,
+    "neg_early_rate": 0.02
+  },
+  "pos0_last": {
+    "accept_absent": 0.85,
+    "accept_knows": 0.821917808219178,
+    "normal_present": 0.99,
+    "pos0_step_median": 31.0,
+    "first_words_absent": [
+      [
+        "The",
+        86
+      ],
+      [
+        "I",
+        9
+      ],
+      [
+        "There",
+        5
+      ]
+    ],
+    "specificity": 0.14,
+    "echo_frac_early": 0.5866666666666666,
+    "obj_early_rate": 0.65,
+    "acc_obj_early": 0.9692307692307692,
+    "acc_obj_late": 0.6285714285714286,
+    "colour_early_rate": 0.0,
+    "neg_early_rate": 0.14
+  },
+  "id": {
+    "accept_absent": 0.42,
+    "accept_knows": 0.273972602739726,
+    "normal_present": 0.93,
+    "pos0_step_median": 23.0,
+    "first_words_absent": [
+      [
+        "The",
+        51
+      ],
+      [
+        "There",
+        37
+      ],
+      [
+        "I",
+        12
+      ]
+    ],
+    "specificity": 0.5100000000000001,
+    "echo_frac_early": 0.4325,
+    "obj_early_rate": 0.38,
+    "acc_obj_early": 0.3157894736842105,
+    "acc_obj_late": 0.4838709677419355,
+    "colour_early_rate": 0.3,
+    "neg_early_rate": 0.33
+  },
+  "id_colorlast": {
+    "accept_absent": 0.42,
+    "accept_knows": 0.273972602739726,
+    "normal_present": 0.93,
+    "pos0_step_median": 23.0,
+    "first_words_absent": [
+      [
+        "The",
+        51
+      ],
+      [
+        "There",
+        37
+      ],
+      [
+        "I",
+        12
+      ]
+    ],
+    "specificity": 0.5100000000000001,
+    "echo_frac_early": 0.4675,
+    "obj_early_rate": 0.4,
+    "acc_obj_early": 0.35,
+    "acc_obj_late": 0.4666666666666667,
+    "colour_early_rate": 0.0,
+    "neg_early_rate": 0.32
+  },
+  "id_mix0.5": {
+    "accept_absent": 0.64,
+    "accept_knows": 0.5342465753424658,
+    "normal_present": 0.97,
+    "pos0_step_median": 4.0,
+    "first_words_absent": [
+      [
+        "The",
+        69
+      ],
+      [
+        "There",
+        19
+      ],
+      [
+        "I",
+        12
+      ]
+    ],
+    "specificity": 0.32999999999999996,
+    "echo_frac_early": 0.5258333333333333,
+    "obj_early_rate": 0.47,
+    "acc_obj_early": 0.6808510638297872,
+    "acc_obj_late": 0.6037735849056604,
+    "colour_early_rate": 0.08,
+    "neg_early_rate": 0.24
+  },
+  "id_mix0.5_colorlast": {
+    "accept_absent": 0.63,
+    "accept_knows": 0.5205479452054794,
+    "normal_present": 0.97,
+    "pos0_step_median": 4.0,
+    "first_words_absent": [
+      [
+        "The",
+        69
+      ],
+      [
+        "There",
+        19
+      ],
+      [
+        "I",
+        12
+      ]
+    ],
+    "specificity": 0.33999999999999997,
+    "echo_frac_early": 0.5491666666666666,
+    "obj_early_rate": 0.48,
+    "acc_obj_early": 0.6666666666666666,
+    "acc_obj_late": 0.5961538461538461,
+    "colour_early_rate": 0.0,
+    "neg_early_rate": 0.24
+  },
+  "id_mix1": {
+    "accept_absent": 0.76,
+    "accept_knows": 0.684931506849315,
+    "normal_present": 0.99,
+    "pos0_step_median": 2.0,
+    "first_words_absent": [
+      [
+        "The",
+        78
+      ],
+      [
+        "There",
+        12
+      ],
+      [
+        "I",
+        10
+      ]
+    ],
+    "specificity": 0.22999999999999998,
+    "echo_frac_early": 0.5633333333333332,
+    "obj_early_rate": 0.47,
+    "acc_obj_early": 0.8085106382978723,
+    "acc_obj_late": 0.7169811320754716,
+    "colour_early_rate": 0.01,
+    "neg_early_rate": 0.2
+  },
+  "confidence_colorlast": {
+    "accept_absent": 0.93,
+    "accept_knows": 0.9178082191780822,
+    "normal_present": 1.0,
+    "pos0_step_median": 2.0,
+    "first_words_absent": [
+      [
+        "The",
+        98
+      ],
+      [
+        "I",
+        2
+      ]
+    ],
+    "specificity": 0.06999999999999995,
+    "echo_frac_early": 0.6533333333333334,
+    "obj_early_rate": 0.48,
+    "acc_obj_early": 0.9791666666666666,
+    "acc_obj_late": 0.8846153846153846,
+    "colour_early_rate": 0.0,
+    "neg_early_rate": 0.02
+  },
+  "rnd_0": {
+    "accept_absent": 0.62,
+    "accept_knows": 0.5205479452054794,
+    "normal_present": 0.96,
+    "pos0_step_median": 14.5,
+    "first_words_absent": [
+      [
+        "The",
+        71
+      ],
+      [
+        "There",
+        22
+      ],
+      [
+        "I",
+        5
+      ]
+    ],
+    "specificity": 0.33999999999999997,
+    "echo_frac_early": 0.7058333333333333,
+    "obj_early_rate": 0.09,
+    "acc_obj_early": 0.6666666666666666,
+    "acc_obj_late": 0.6153846153846154,
+    "colour_early_rate": 0.08,
+    "neg_early_rate": 0.03
+  },
+  "rnd_1": {
+    "accept_absent": 0.67,
+    "accept_knows": 0.6027397260273972,
+    "normal_present": 0.94,
+    "pos0_step_median": 18.0,
+    "first_words_absent": [
+      [
+        "The",
+        75
+      ],
+      [
+        "There",
+        17
+      ],
+      [
+        "I",
+        4
+      ]
+    ],
+    "specificity": 0.2699999999999999,
+    "echo_frac_early": 0.7141666666666666,
+    "obj_early_rate": 0.12,
+    "acc_obj_early": 0.75,
+    "acc_obj_late": 0.6590909090909091,
+    "colour_early_rate": 0.1,
+    "neg_early_rate": 0.05
+  },
+  "rnd_2": {
+    "accept_absent": 0.65,
+    "accept_knows": 0.5753424657534246,
+    "normal_present": 0.89,
+    "pos0_step_median": 14.0,
+    "first_words_absent": [
+      [
+        "The",
+        76
+      ],
+      [
+        "There",
+        17
+      ],
+      [
+        "I",
+        3
+      ]
+    ],
+    "specificity": 0.24,
+    "echo_frac_early": 0.6908333333333334,
+    "obj_early_rate": 0.08,
+    "acc_obj_early": 0.75,
+    "acc_obj_late": 0.6413043478260869,
+    "colour_early_rate": 0.05,
+    "neg_early_rate": 0.02
+  },
+  "l2r": {
+    "accept_absent": 0.96,
+    "accept_knows": 0.958904109589041,
+    "normal_present": 1.0,
+    "pos0_step_median": 0.0,
+    "first_words_absent": [
+      [
+        "The",
+        100
+      ]
+    ],
+    "specificity": 0.040000000000000036
+  },
+  "r2l": {
+    "accept_absent": 0.34,
+    "accept_knows": 0.2328767123287671,
+    "normal_present": 0.7,
+    "pos0_step_median": 31.0,
+    "first_words_absent": [
+      [
+        "The",
+        55
+      ],
+      [
+        "There",
+        17
+      ],
+      [
+        "I",
+        9
+      ]
+    ],
+    "specificity": 0.3599999999999999
+  },
+  "random_0": {
+    "accept_absent": 0.66,
+    "accept_knows": 0.547945205479452,
+    "normal_present": 0.94,
+    "pos0_step_median": 27.0,
+    "first_words_absent": [
+      [
+        "The",
+        77
+      ],
+      [
+        "There",
+        22
+      ],
+      [
+        "I",
+        1
+      ]
+    ],
+    "specificity": 0.2799999999999999
+  },
+  "random_1": {
+    "accept_absent": 0.69,
+    "accept_knows": 0.6027397260273972,
+    "normal_present": 0.95,
+    "pos0_step_median": 31.0,
+    "first_words_absent": [
+      [
+        "The",
+        77
+      ],
+      [
+        "There",
+        16
+      ],
+      [
+        "I",
+        7
+      ]
+    ],
+    "specificity": 0.26
+  },
+  "random_2": {
+    "accept_absent": 0.85,
+    "accept_knows": 0.7945205479452054,
+    "normal_present": 0.99,
+    "pos0_step_median": 2.0,
+    "first_words_absent": [
+      [
+        "The",
+        97
+      ],
+      [
+        "There",
+        3
+      ]
+    ],
+    "specificity": 0.14
+  }
+}
